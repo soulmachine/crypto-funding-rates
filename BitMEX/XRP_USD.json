@@ -1,0 +1,4914 @@
+[
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-05T12:00:00.000Z",
+    "fundingRate": 0.001647,
+    "fundingTime": "2020-02-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-05T20:00:00.000Z",
+    "fundingRate": 0.001282,
+    "fundingTime": "2020-02-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-06T04:00:00.000Z",
+    "fundingRate": 0.001621,
+    "fundingTime": "2020-02-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-06T12:00:00.000Z",
+    "fundingRate": 0.001349,
+    "fundingTime": "2020-02-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-06T20:00:00.000Z",
+    "fundingRate": 0.001376,
+    "fundingTime": "2020-02-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-07T04:00:00.000Z",
+    "fundingRate": 0.001052,
+    "fundingTime": "2020-02-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-07T12:00:00.000Z",
+    "fundingRate": 0.001076,
+    "fundingTime": "2020-02-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-07T20:00:00.000Z",
+    "fundingRate": 0.000781,
+    "fundingTime": "2020-02-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-08T04:00:00.000Z",
+    "fundingRate": 0.000842,
+    "fundingTime": "2020-02-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-08T12:00:00.000Z",
+    "fundingRate": 0.000791,
+    "fundingTime": "2020-02-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-08T20:00:00.000Z",
+    "fundingRate": 0.000758,
+    "fundingTime": "2020-02-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-09T04:00:00.000Z",
+    "fundingRate": 0.000932,
+    "fundingTime": "2020-02-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-09T12:00:00.000Z",
+    "fundingRate": 0.000287,
+    "fundingTime": "2020-02-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-09T20:00:00.000Z",
+    "fundingRate": 0.000196,
+    "fundingTime": "2020-02-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-10T04:00:00.000Z",
+    "fundingRate": 0.000492,
+    "fundingTime": "2020-02-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-10T20:00:00.000Z",
+    "fundingRate": 0.00013,
+    "fundingTime": "2020-02-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-11T04:00:00.000Z",
+    "fundingRate": 0.000529,
+    "fundingTime": "2020-02-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-11T12:00:00.000Z",
+    "fundingRate": 0.000459,
+    "fundingTime": "2020-02-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-11T20:00:00.000Z",
+    "fundingRate": 0.00032,
+    "fundingTime": "2020-02-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-12T04:00:00.000Z",
+    "fundingRate": 0.002084,
+    "fundingTime": "2020-02-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-12T12:00:00.000Z",
+    "fundingRate": 0.001316,
+    "fundingTime": "2020-02-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-12T20:00:00.000Z",
+    "fundingRate": 0.000846,
+    "fundingTime": "2020-02-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-13T04:00:00.000Z",
+    "fundingRate": 0.00082,
+    "fundingTime": "2020-02-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-13T12:00:00.000Z",
+    "fundingRate": 0.000399,
+    "fundingTime": "2020-02-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-13T20:00:00.000Z",
+    "fundingRate": 0.000802,
+    "fundingTime": "2020-02-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-14T04:00:00.000Z",
+    "fundingRate": 0.000975,
+    "fundingTime": "2020-02-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-14T20:00:00.000Z",
+    "fundingRate": 0.001247,
+    "fundingTime": "2020-02-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-15T04:00:00.000Z",
+    "fundingRate": 0.000455,
+    "fundingTime": "2020-02-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-16T04:00:00.000Z",
+    "fundingRate": 0.000327,
+    "fundingTime": "2020-02-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-16T12:00:00.000Z",
+    "fundingRate": 0.000819,
+    "fundingTime": "2020-02-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-16T20:00:00.000Z",
+    "fundingRate": 0.000128,
+    "fundingTime": "2020-02-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-17T12:00:00.000Z",
+    "fundingRate": 0.000264,
+    "fundingTime": "2020-02-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-17T20:00:00.000Z",
+    "fundingRate": 0.000383,
+    "fundingTime": "2020-02-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-18T04:00:00.000Z",
+    "fundingRate": 0.000295,
+    "fundingTime": "2020-02-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-18T12:00:00.000Z",
+    "fundingRate": 0.000832,
+    "fundingTime": "2020-02-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-18T20:00:00.000Z",
+    "fundingRate": 0.000964,
+    "fundingTime": "2020-02-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-19T04:00:00.000Z",
+    "fundingRate": 0.0011,
+    "fundingTime": "2020-02-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-19T12:00:00.000Z",
+    "fundingRate": 0.000825,
+    "fundingTime": "2020-02-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-19T20:00:00.000Z",
+    "fundingRate": 0.000833,
+    "fundingTime": "2020-02-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-20T04:00:00.000Z",
+    "fundingRate": 0.000288,
+    "fundingTime": "2020-02-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-20T12:00:00.000Z",
+    "fundingRate": 0.000244,
+    "fundingTime": "2020-02-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-20T20:00:00.000Z",
+    "fundingRate": 0.000445,
+    "fundingTime": "2020-02-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-21T04:00:00.000Z",
+    "fundingRate": 0.00015,
+    "fundingTime": "2020-02-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-21T12:00:00.000Z",
+    "fundingRate": 0.000885,
+    "fundingTime": "2020-02-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-21T20:00:00.000Z",
+    "fundingRate": 0.000779,
+    "fundingTime": "2020-02-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-22T04:00:00.000Z",
+    "fundingRate": 0.000734,
+    "fundingTime": "2020-02-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-22T12:00:00.000Z",
+    "fundingRate": 0.000591,
+    "fundingTime": "2020-02-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-22T20:00:00.000Z",
+    "fundingRate": 0.001051,
+    "fundingTime": "2020-02-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-23T04:00:00.000Z",
+    "fundingRate": 0.00081,
+    "fundingTime": "2020-02-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-23T12:00:00.000Z",
+    "fundingRate": 0.000903,
+    "fundingTime": "2020-02-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-23T20:00:00.000Z",
+    "fundingRate": 0.000768,
+    "fundingTime": "2020-02-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-24T04:00:00.000Z",
+    "fundingRate": 0.000804,
+    "fundingTime": "2020-02-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-24T12:00:00.000Z",
+    "fundingRate": 0.000581,
+    "fundingTime": "2020-02-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-24T20:00:00.000Z",
+    "fundingRate": 0.000321,
+    "fundingTime": "2020-02-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-25T04:00:00.000Z",
+    "fundingRate": 0.000112,
+    "fundingTime": "2020-02-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-25T12:00:00.000Z",
+    "fundingRate": 0.001023,
+    "fundingTime": "2020-02-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-25T20:00:00.000Z",
+    "fundingRate": 0.000453,
+    "fundingTime": "2020-02-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-26T12:00:00.000Z",
+    "fundingRate": 0.000402,
+    "fundingTime": "2020-02-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-28T04:00:00.000Z",
+    "fundingRate": 0.000697,
+    "fundingTime": "2020-02-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-28T12:00:00.000Z",
+    "fundingRate": 0.000655,
+    "fundingTime": "2020-02-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-28T20:00:00.000Z",
+    "fundingRate": 0.000726,
+    "fundingTime": "2020-02-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-29T12:00:00.000Z",
+    "fundingRate": 0.000249,
+    "fundingTime": "2020-02-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-02-29T20:00:00.000Z",
+    "fundingRate": 0.001027,
+    "fundingTime": "2020-03-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-01T04:00:00.000Z",
+    "fundingRate": 0.00076,
+    "fundingTime": "2020-03-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-01T12:00:00.000Z",
+    "fundingRate": 0.000976,
+    "fundingTime": "2020-03-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-01T20:00:00.000Z",
+    "fundingRate": 0.000611,
+    "fundingTime": "2020-03-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-02T20:00:00.000Z",
+    "fundingRate": 0.000504,
+    "fundingTime": "2020-03-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-03T04:00:00.000Z",
+    "fundingRate": 0.000879,
+    "fundingTime": "2020-03-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-03T12:00:00.000Z",
+    "fundingRate": 0.000621,
+    "fundingTime": "2020-03-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-04T12:00:00.000Z",
+    "fundingRate": 0.000461,
+    "fundingTime": "2020-03-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-04T20:00:00.000Z",
+    "fundingRate": 0.000163,
+    "fundingTime": "2020-03-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-05T12:00:00.000Z",
+    "fundingRate": 0.000478,
+    "fundingTime": "2020-03-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-05T20:00:00.000Z",
+    "fundingRate": 0.00054,
+    "fundingTime": "2020-03-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-06T04:00:00.000Z",
+    "fundingRate": 0.00068,
+    "fundingTime": "2020-03-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-06T12:00:00.000Z",
+    "fundingRate": 0.000922,
+    "fundingTime": "2020-03-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-06T20:00:00.000Z",
+    "fundingRate": 0.000734,
+    "fundingTime": "2020-03-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-07T04:00:00.000Z",
+    "fundingRate": 0.000678,
+    "fundingTime": "2020-03-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-08T04:00:00.000Z",
+    "fundingRate": 0.000395,
+    "fundingTime": "2020-03-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-08T12:00:00.000Z",
+    "fundingRate": 0.000575,
+    "fundingTime": "2020-03-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-08T20:00:00.000Z",
+    "fundingRate": 0.000097,
+    "fundingTime": "2020-03-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-09T12:00:00.000Z",
+    "fundingRate": 0.000474,
+    "fundingTime": "2020-03-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-09T20:00:00.000Z",
+    "fundingRate": 0.000411,
+    "fundingTime": "2020-03-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-10T20:00:00.000Z",
+    "fundingRate": 0.000192,
+    "fundingTime": "2020-03-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-11T04:00:00.000Z",
+    "fundingRate": 0.000528,
+    "fundingTime": "2020-03-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-11T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-12T12:00:00.000Z",
+    "fundingRate": -0.001153,
+    "fundingTime": "2020-03-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-12T20:00:00.000Z",
+    "fundingRate": -0.002531,
+    "fundingTime": "2020-03-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-13T04:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-03-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-13T12:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-03-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-13T20:00:00.000Z",
+    "fundingRate": -0.000294,
+    "fundingTime": "2020-03-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-14T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-14T12:00:00.000Z",
+    "fundingRate": 0.000568,
+    "fundingTime": "2020-03-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-14T20:00:00.000Z",
+    "fundingRate": 0.000351,
+    "fundingTime": "2020-03-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-15T04:00:00.000Z",
+    "fundingRate": 0.000361,
+    "fundingTime": "2020-03-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-15T12:00:00.000Z",
+    "fundingRate": 0.000336,
+    "fundingTime": "2020-03-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-15T20:00:00.000Z",
+    "fundingRate": 0.000503,
+    "fundingTime": "2020-03-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-16T04:00:00.000Z",
+    "fundingRate": 0.001214,
+    "fundingTime": "2020-03-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-16T12:00:00.000Z",
+    "fundingRate": 0.000752,
+    "fundingTime": "2020-03-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-18T04:00:00.000Z",
+    "fundingRate": 0.000926,
+    "fundingTime": "2020-03-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-18T12:00:00.000Z",
+    "fundingRate": 0.000209,
+    "fundingTime": "2020-03-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-19T20:00:00.000Z",
+    "fundingRate": 0.000122,
+    "fundingTime": "2020-03-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-20T04:00:00.000Z",
+    "fundingRate": 0.001001,
+    "fundingTime": "2020-03-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-20T12:00:00.000Z",
+    "fundingRate": 0.000435,
+    "fundingTime": "2020-03-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-20T20:00:00.000Z",
+    "fundingRate": 0.000386,
+    "fundingTime": "2020-03-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-22T04:00:00.000Z",
+    "fundingRate": 0.000636,
+    "fundingTime": "2020-03-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-22T12:00:00.000Z",
+    "fundingRate": 0.000409,
+    "fundingTime": "2020-03-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-22T20:00:00.000Z",
+    "fundingRate": 0.000526,
+    "fundingTime": "2020-03-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-23T04:00:00.000Z",
+    "fundingRate": 0.000755,
+    "fundingTime": "2020-03-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-23T12:00:00.000Z",
+    "fundingRate": 0.000421,
+    "fundingTime": "2020-03-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-23T20:00:00.000Z",
+    "fundingRate": 0.000324,
+    "fundingTime": "2020-03-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-24T12:00:00.000Z",
+    "fundingRate": 0.000801,
+    "fundingTime": "2020-03-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-24T20:00:00.000Z",
+    "fundingRate": 0.000272,
+    "fundingTime": "2020-03-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-26T12:00:00.000Z",
+    "fundingRate": 0.000138,
+    "fundingTime": "2020-03-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-27T04:00:00.000Z",
+    "fundingRate": 0.001213,
+    "fundingTime": "2020-03-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-27T12:00:00.000Z",
+    "fundingRate": 0.00102,
+    "fundingTime": "2020-03-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-27T20:00:00.000Z",
+    "fundingRate": 0.000876,
+    "fundingTime": "2020-03-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-28T04:00:00.000Z",
+    "fundingRate": 0.000748,
+    "fundingTime": "2020-03-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-28T12:00:00.000Z",
+    "fundingRate": 0.000529,
+    "fundingTime": "2020-03-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-28T20:00:00.000Z",
+    "fundingRate": 0.000279,
+    "fundingTime": "2020-03-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-29T04:00:00.000Z",
+    "fundingRate": 0.000477,
+    "fundingTime": "2020-03-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-29T12:00:00.000Z",
+    "fundingRate": 0.000482,
+    "fundingTime": "2020-03-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-29T20:00:00.000Z",
+    "fundingRate": 0.000244,
+    "fundingTime": "2020-03-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-30T04:00:00.000Z",
+    "fundingRate": 0.000464,
+    "fundingTime": "2020-03-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-30T12:00:00.000Z",
+    "fundingRate": 0.000544,
+    "fundingTime": "2020-03-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-30T20:00:00.000Z",
+    "fundingRate": 0.000145,
+    "fundingTime": "2020-03-31T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-31T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-31T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-03-31T20:00:00.000Z",
+    "fundingRate": 0.000258,
+    "fundingTime": "2020-04-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-01T04:00:00.000Z",
+    "fundingRate": 0.000585,
+    "fundingTime": "2020-04-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-01T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-02T04:00:00.000Z",
+    "fundingRate": 0.000338,
+    "fundingTime": "2020-04-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-02T12:00:00.000Z",
+    "fundingRate": 0.001649,
+    "fundingTime": "2020-04-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-02T20:00:00.000Z",
+    "fundingRate": 0.001095,
+    "fundingTime": "2020-04-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-03T04:00:00.000Z",
+    "fundingRate": 0.000503,
+    "fundingTime": "2020-04-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-03T12:00:00.000Z",
+    "fundingRate": 0.000308,
+    "fundingTime": "2020-04-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-04T12:00:00.000Z",
+    "fundingRate": 0.000305,
+    "fundingTime": "2020-04-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-04T20:00:00.000Z",
+    "fundingRate": 0.000225,
+    "fundingTime": "2020-04-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-05T04:00:00.000Z",
+    "fundingRate": 0.000654,
+    "fundingTime": "2020-04-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-06T12:00:00.000Z",
+    "fundingRate": 0.000803,
+    "fundingTime": "2020-04-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-06T20:00:00.000Z",
+    "fundingRate": 0.000425,
+    "fundingTime": "2020-04-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-07T04:00:00.000Z",
+    "fundingRate": 0.000813,
+    "fundingTime": "2020-04-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-07T12:00:00.000Z",
+    "fundingRate": 0.000333,
+    "fundingTime": "2020-04-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-08T04:00:00.000Z",
+    "fundingRate": 0.000216,
+    "fundingTime": "2020-04-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-08T12:00:00.000Z",
+    "fundingRate": 0.001112,
+    "fundingTime": "2020-04-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-08T20:00:00.000Z",
+    "fundingRate": 0.000642,
+    "fundingTime": "2020-04-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-09T04:00:00.000Z",
+    "fundingRate": 0.000573,
+    "fundingTime": "2020-04-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-09T12:00:00.000Z",
+    "fundingRate": 0.000117,
+    "fundingTime": "2020-04-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-10T04:00:00.000Z",
+    "fundingRate": 0.000146,
+    "fundingTime": "2020-04-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-11T12:00:00.000Z",
+    "fundingRate": 0.000386,
+    "fundingTime": "2020-04-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-12T12:00:00.000Z",
+    "fundingRate": 0.000322,
+    "fundingTime": "2020-04-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-12T20:00:00.000Z",
+    "fundingRate": 0.000102,
+    "fundingTime": "2020-04-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-13T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-13T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-14T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-15T12:00:00.000Z",
+    "fundingRate": 0.000454,
+    "fundingTime": "2020-04-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-17T04:00:00.000Z",
+    "fundingRate": 0.000143,
+    "fundingTime": "2020-04-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-18T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-18T20:00:00.000Z",
+    "fundingRate": 0.000811,
+    "fundingTime": "2020-04-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-19T04:00:00.000Z",
+    "fundingRate": 0.000519,
+    "fundingTime": "2020-04-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-20T12:00:00.000Z",
+    "fundingRate": 0.000364,
+    "fundingTime": "2020-04-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-20T20:00:00.000Z",
+    "fundingRate": 0.000167,
+    "fundingTime": "2020-04-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-22T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-22T20:00:00.000Z",
+    "fundingRate": 0.00017,
+    "fundingTime": "2020-04-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-23T04:00:00.000Z",
+    "fundingRate": 0.000344,
+    "fundingTime": "2020-04-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-23T12:00:00.000Z",
+    "fundingRate": 0.000139,
+    "fundingTime": "2020-04-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-23T20:00:00.000Z",
+    "fundingRate": 0.000256,
+    "fundingTime": "2020-04-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-24T04:00:00.000Z",
+    "fundingRate": 0.00029,
+    "fundingTime": "2020-04-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-24T12:00:00.000Z",
+    "fundingRate": 0.000672,
+    "fundingTime": "2020-04-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-24T20:00:00.000Z",
+    "fundingRate": 0.000586,
+    "fundingTime": "2020-04-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-25T04:00:00.000Z",
+    "fundingRate": 0.000364,
+    "fundingTime": "2020-04-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-25T12:00:00.000Z",
+    "fundingRate": 0.000107,
+    "fundingTime": "2020-04-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-27T04:00:00.000Z",
+    "fundingRate": 0.000305,
+    "fundingTime": "2020-04-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-27T12:00:00.000Z",
+    "fundingRate": 0.000411,
+    "fundingTime": "2020-04-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-28T20:00:00.000Z",
+    "fundingRate": 0.000429,
+    "fundingTime": "2020-04-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-29T04:00:00.000Z",
+    "fundingRate": 0.000194,
+    "fundingTime": "2020-04-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-29T12:00:00.000Z",
+    "fundingRate": 0.000235,
+    "fundingTime": "2020-04-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-29T20:00:00.000Z",
+    "fundingRate": 0.001242,
+    "fundingTime": "2020-04-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-30T04:00:00.000Z",
+    "fundingRate": 0.001078,
+    "fundingTime": "2020-04-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-30T12:00:00.000Z",
+    "fundingRate": 0.000724,
+    "fundingTime": "2020-04-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-04-30T20:00:00.000Z",
+    "fundingRate": 0.000529,
+    "fundingTime": "2020-05-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-01T04:00:00.000Z",
+    "fundingRate": 0.000511,
+    "fundingTime": "2020-05-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-01T12:00:00.000Z",
+    "fundingRate": 0.0009,
+    "fundingTime": "2020-05-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-01T20:00:00.000Z",
+    "fundingRate": 0.000545,
+    "fundingTime": "2020-05-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-02T04:00:00.000Z",
+    "fundingRate": 0.00085,
+    "fundingTime": "2020-05-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-02T12:00:00.000Z",
+    "fundingRate": 0.000669,
+    "fundingTime": "2020-05-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-02T20:00:00.000Z",
+    "fundingRate": 0.00029,
+    "fundingTime": "2020-05-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-03T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-03T20:00:00.000Z",
+    "fundingRate": 0.000248,
+    "fundingTime": "2020-05-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-04T12:00:00.000Z",
+    "fundingRate": 0.000509,
+    "fundingTime": "2020-05-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-04T20:00:00.000Z",
+    "fundingRate": 0.0008,
+    "fundingTime": "2020-05-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-05T04:00:00.000Z",
+    "fundingRate": 0.001011,
+    "fundingTime": "2020-05-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-05T12:00:00.000Z",
+    "fundingRate": 0.000981,
+    "fundingTime": "2020-05-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-05T20:00:00.000Z",
+    "fundingRate": 0.000439,
+    "fundingTime": "2020-05-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-06T12:00:00.000Z",
+    "fundingRate": 0.0008,
+    "fundingTime": "2020-05-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-06T20:00:00.000Z",
+    "fundingRate": 0.00121,
+    "fundingTime": "2020-05-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-07T04:00:00.000Z",
+    "fundingRate": 0.000435,
+    "fundingTime": "2020-05-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-07T20:00:00.000Z",
+    "fundingRate": 0.000548,
+    "fundingTime": "2020-05-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-08T04:00:00.000Z",
+    "fundingRate": 0.001567,
+    "fundingTime": "2020-05-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-08T12:00:00.000Z",
+    "fundingRate": 0.000937,
+    "fundingTime": "2020-05-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-08T20:00:00.000Z",
+    "fundingRate": 0.000319,
+    "fundingTime": "2020-05-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-09T04:00:00.000Z",
+    "fundingRate": 0.000364,
+    "fundingTime": "2020-05-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-09T12:00:00.000Z",
+    "fundingRate": 0.002214,
+    "fundingTime": "2020-05-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-09T20:00:00.000Z",
+    "fundingRate": 0.001821,
+    "fundingTime": "2020-05-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-11T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-13T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-13T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-14T04:00:00.000Z",
+    "fundingRate": 0.000484,
+    "fundingTime": "2020-05-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-14T12:00:00.000Z",
+    "fundingRate": 0.000275,
+    "fundingTime": "2020-05-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-17T12:00:00.000Z",
+    "fundingRate": 0.000904,
+    "fundingTime": "2020-05-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-17T20:00:00.000Z",
+    "fundingRate": 0.000827,
+    "fundingTime": "2020-05-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-18T04:00:00.000Z",
+    "fundingRate": 0.000636,
+    "fundingTime": "2020-05-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-18T12:00:00.000Z",
+    "fundingRate": 0.000212,
+    "fundingTime": "2020-05-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-18T20:00:00.000Z",
+    "fundingRate": 0.000104,
+    "fundingTime": "2020-05-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-19T12:00:00.000Z",
+    "fundingRate": 0.000349,
+    "fundingTime": "2020-05-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-20T12:00:00.000Z",
+    "fundingRate": 0.000651,
+    "fundingTime": "2020-05-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-22T12:00:00.000Z",
+    "fundingRate": 0.000521,
+    "fundingTime": "2020-05-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-22T20:00:00.000Z",
+    "fundingRate": 0.000383,
+    "fundingTime": "2020-05-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-23T04:00:00.000Z",
+    "fundingRate": 0.000287,
+    "fundingTime": "2020-05-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-24T04:00:00.000Z",
+    "fundingRate": 0.000128,
+    "fundingTime": "2020-05-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-24T12:00:00.000Z",
+    "fundingRate": 0.000491,
+    "fundingTime": "2020-05-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-27T12:00:00.000Z",
+    "fundingRate": 0.000222,
+    "fundingTime": "2020-05-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-27T20:00:00.000Z",
+    "fundingRate": 0.000389,
+    "fundingTime": "2020-05-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-28T04:00:00.000Z",
+    "fundingRate": 0.000464,
+    "fundingTime": "2020-05-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-28T12:00:00.000Z",
+    "fundingRate": 0.000252,
+    "fundingTime": "2020-05-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-28T20:00:00.000Z",
+    "fundingRate": 0.000239,
+    "fundingTime": "2020-05-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-29T04:00:00.000Z",
+    "fundingRate": 0.000595,
+    "fundingTime": "2020-05-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-29T12:00:00.000Z",
+    "fundingRate": 0.000794,
+    "fundingTime": "2020-05-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-29T20:00:00.000Z",
+    "fundingRate": 0.000752,
+    "fundingTime": "2020-05-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-30T04:00:00.000Z",
+    "fundingRate": 0.000419,
+    "fundingTime": "2020-05-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-30T12:00:00.000Z",
+    "fundingRate": 0.001015,
+    "fundingTime": "2020-05-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-30T20:00:00.000Z",
+    "fundingRate": 0.001027,
+    "fundingTime": "2020-05-31T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-31T04:00:00.000Z",
+    "fundingRate": 0.00087,
+    "fundingTime": "2020-05-31T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-31T12:00:00.000Z",
+    "fundingRate": 0.000902,
+    "fundingTime": "2020-05-31T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-05-31T20:00:00.000Z",
+    "fundingRate": 0.000524,
+    "fundingTime": "2020-06-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-01T04:00:00.000Z",
+    "fundingRate": 0.000197,
+    "fundingTime": "2020-06-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-01T20:00:00.000Z",
+    "fundingRate": 0.00021,
+    "fundingTime": "2020-06-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-02T04:00:00.000Z",
+    "fundingRate": 0.000911,
+    "fundingTime": "2020-06-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-02T12:00:00.000Z",
+    "fundingRate": 0.001725,
+    "fundingTime": "2020-06-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-02T20:00:00.000Z",
+    "fundingRate": 0.001038,
+    "fundingTime": "2020-06-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-03T04:00:00.000Z",
+    "fundingRate": 0.000483,
+    "fundingTime": "2020-06-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-03T20:00:00.000Z",
+    "fundingRate": 0.000291,
+    "fundingTime": "2020-06-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-04T04:00:00.000Z",
+    "fundingRate": 0.000725,
+    "fundingTime": "2020-06-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-04T12:00:00.000Z",
+    "fundingRate": 0.000537,
+    "fundingTime": "2020-06-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-04T20:00:00.000Z",
+    "fundingRate": 0.000113,
+    "fundingTime": "2020-06-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-05T04:00:00.000Z",
+    "fundingRate": 0.000266,
+    "fundingTime": "2020-06-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-05T12:00:00.000Z",
+    "fundingRate": 0.000234,
+    "fundingTime": "2020-06-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-05T20:00:00.000Z",
+    "fundingRate": 0.000306,
+    "fundingTime": "2020-06-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-06T04:00:00.000Z",
+    "fundingRate": 0.000198,
+    "fundingTime": "2020-06-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-06T12:00:00.000Z",
+    "fundingRate": 0.000329,
+    "fundingTime": "2020-06-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-07T04:00:00.000Z",
+    "fundingRate": 0.000196,
+    "fundingTime": "2020-06-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-08T20:00:00.000Z",
+    "fundingRate": 0.000217,
+    "fundingTime": "2020-06-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-09T20:00:00.000Z",
+    "fundingRate": 0.00014,
+    "fundingTime": "2020-06-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-11T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-13T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-13T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-14T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-14T12:00:00.000Z",
+    "fundingRate": 0.000163,
+    "fundingTime": "2020-06-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-18T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-22T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-01T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-03T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-07T20:00:00.000Z",
+    "fundingRate": 0.000141,
+    "fundingTime": "2020-07-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-08T12:00:00.000Z",
+    "fundingRate": 0.000425,
+    "fundingTime": "2020-07-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-08T20:00:00.000Z",
+    "fundingRate": 0.000501,
+    "fundingTime": "2020-07-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-09T04:00:00.000Z",
+    "fundingRate": 0.000289,
+    "fundingTime": "2020-07-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-09T12:00:00.000Z",
+    "fundingRate": 0.000492,
+    "fundingTime": "2020-07-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-09T20:00:00.000Z",
+    "fundingRate": 0.000273,
+    "fundingTime": "2020-07-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-10T04:00:00.000Z",
+    "fundingRate": 0.000483,
+    "fundingTime": "2020-07-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-10T12:00:00.000Z",
+    "fundingRate": 0.000482,
+    "fundingTime": "2020-07-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-10T20:00:00.000Z",
+    "fundingRate": 0.000728,
+    "fundingTime": "2020-07-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-11T04:00:00.000Z",
+    "fundingRate": 0.00067,
+    "fundingTime": "2020-07-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-11T12:00:00.000Z",
+    "fundingRate": 0.000454,
+    "fundingTime": "2020-07-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-11T20:00:00.000Z",
+    "fundingRate": 0.00066,
+    "fundingTime": "2020-07-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-12T04:00:00.000Z",
+    "fundingRate": 0.000608,
+    "fundingTime": "2020-07-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-12T12:00:00.000Z",
+    "fundingRate": 0.000238,
+    "fundingTime": "2020-07-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-12T20:00:00.000Z",
+    "fundingRate": 0.000335,
+    "fundingTime": "2020-07-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-13T04:00:00.000Z",
+    "fundingRate": 0.000364,
+    "fundingTime": "2020-07-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-13T12:00:00.000Z",
+    "fundingRate": 0.000319,
+    "fundingTime": "2020-07-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-14T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-15T12:00:00.000Z",
+    "fundingRate": 0.000475,
+    "fundingTime": "2020-07-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-15T20:00:00.000Z",
+    "fundingRate": 0.000434,
+    "fundingTime": "2020-07-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-16T04:00:00.000Z",
+    "fundingRate": 0.000525,
+    "fundingTime": "2020-07-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-16T12:00:00.000Z",
+    "fundingRate": 0.00023,
+    "fundingTime": "2020-07-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-17T20:00:00.000Z",
+    "fundingRate": 0.000151,
+    "fundingTime": "2020-07-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-18T04:00:00.000Z",
+    "fundingRate": 0.000242,
+    "fundingTime": "2020-07-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-18T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-20T12:00:00.000Z",
+    "fundingRate": 0.000707,
+    "fundingTime": "2020-07-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-20T20:00:00.000Z",
+    "fundingRate": 0.000295,
+    "fundingTime": "2020-07-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": 0.000124,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": 0.000328,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000419,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.001054,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000749,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.000817,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": 0.000964,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000561,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": 0.000309,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000381,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.000682,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.000782,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.000779,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000841,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.001129,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.001205,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.000868,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.000955,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.001426,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.001325,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.001708,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.00194,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.00154,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.000954,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.000817,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.001676,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.001512,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.001287,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.001358,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.001072,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.001068,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.00113,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.002146,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": 0.001864,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.001652,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.002011,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.002745,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.002382,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.001621,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.00145,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.001481,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.001462,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.001779,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.001989,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.001847,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.001427,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.001983,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.001624,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.001366,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": 0.000775,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000613,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.001062,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.001437,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.000562,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.000752,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.00033,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.000708,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.00107,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000843,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.000675,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000531,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.000932,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.000504,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000469,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000334,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.00094,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.001581,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.002032,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.002101,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.001608,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.001603,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.001212,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.00163,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.00127,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.001493,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.001605,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.00178,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.00151,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.001189,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000838,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000545,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000119,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000181,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000141,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000271,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000763,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.000221,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD"
+  }
+]

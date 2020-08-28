@@ -1,0 +1,5562 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-09T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-10T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-10T00:00:00.000Z",
+    "fundingRate": -0.00016501,
+    "fundingTime": "2020-01-10T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-10T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-10T16:00:00.000Z",
+    "fundingRate": -0.0000834,
+    "fundingTime": "2020-01-11T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-11T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-11T08:00:00.000Z",
+    "fundingRate": 0.00030815,
+    "fundingTime": "2020-01-11T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-11T16:00:00.000Z",
+    "fundingRate": 0.00009409,
+    "fundingTime": "2020-01-12T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-12T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-12T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-13T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-13T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-13T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-14T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-14T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-14T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-14T16:00:00.000Z",
+    "fundingRate": 0.00061688,
+    "fundingTime": "2020-01-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-15T00:00:00.000Z",
+    "fundingRate": 0.00038757,
+    "fundingTime": "2020-01-15T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-15T08:00:00.000Z",
+    "fundingRate": 0.00019672,
+    "fundingTime": "2020-01-15T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-16T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-16T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-16T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-16T16:00:00.000Z",
+    "fundingRate": 0.00038011,
+    "fundingTime": "2020-01-17T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-17T00:00:00.000Z",
+    "fundingRate": 0.00089497,
+    "fundingTime": "2020-01-17T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-17T08:00:00.000Z",
+    "fundingRate": 0.0006264,
+    "fundingTime": "2020-01-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-17T16:00:00.001Z",
+    "fundingRate": 0.00072004,
+    "fundingTime": "2020-01-18T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-18T00:00:00.001Z",
+    "fundingRate": 0.000704,
+    "fundingTime": "2020-01-18T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-18T08:00:00.000Z",
+    "fundingRate": 0.00086863,
+    "fundingTime": "2020-01-18T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-18T16:00:00.000Z",
+    "fundingRate": 0.00031874,
+    "fundingTime": "2020-01-19T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T00:00:00.000Z",
+    "fundingRate": 0.00043069,
+    "fundingTime": "2020-01-19T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-20T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-20T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-20T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-21T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-21T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-22T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-22T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T08:00:00.000Z",
+    "fundingRate": 0.00005852,
+    "fundingTime": "2020-01-22T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-23T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-23T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-23T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T16:00:00.000Z",
+    "fundingRate": 0.00050623,
+    "fundingTime": "2020-01-24T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-24T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T08:00:00.001Z",
+    "fundingRate": 0.00021518,
+    "fundingTime": "2020-01-24T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-25T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T00:00:00.000Z",
+    "fundingRate": 0.00032998,
+    "fundingTime": "2020-01-25T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T08:00:00.001Z",
+    "fundingRate": 0.00003385,
+    "fundingTime": "2020-01-25T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-26T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-26T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T08:00:00.000Z",
+    "fundingRate": 0.00047684,
+    "fundingTime": "2020-01-26T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T16:00:00.000Z",
+    "fundingRate": 0.00037236,
+    "fundingTime": "2020-01-27T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-27T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-28T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-28T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-01-28T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T16:00:00.001Z",
+    "fundingRate": 0.00047398,
+    "fundingTime": "2020-01-29T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T00:00:00.000Z",
+    "fundingRate": 0.00031957,
+    "fundingTime": "2020-01-29T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T08:00:00.002Z",
+    "fundingRate": 0.00018885,
+    "fundingTime": "2020-01-29T16:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T16:00:00.000Z",
+    "fundingRate": 0.0006407,
+    "fundingTime": "2020-01-30T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T00:00:00.000Z",
+    "fundingRate": 0.00038925,
+    "fundingTime": "2020-01-30T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T08:00:00.000Z",
+    "fundingRate": 0.00020806,
+    "fundingTime": "2020-01-30T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T16:00:00.000Z",
+    "fundingRate": 0.00034859,
+    "fundingTime": "2020-01-31T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T00:00:00.000Z",
+    "fundingRate": 0.00043136,
+    "fundingTime": "2020-01-31T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T08:00:00.000Z",
+    "fundingRate": 0.00035987,
+    "fundingTime": "2020-01-31T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T16:00:00.000Z",
+    "fundingRate": 0.00004512,
+    "fundingTime": "2020-02-01T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-01T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-01T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-02T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T00:00:00.000Z",
+    "fundingRate": 0.00034305,
+    "fundingTime": "2020-02-02T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T08:00:00.000Z",
+    "fundingRate": 0.00024822,
+    "fundingTime": "2020-02-02T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T16:00:00.000Z",
+    "fundingRate": 0.00010603,
+    "fundingTime": "2020-02-03T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T00:00:00.000Z",
+    "fundingRate": 0.00026918,
+    "fundingTime": "2020-02-03T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T08:00:00.000Z",
+    "fundingRate": 0.00066319,
+    "fundingTime": "2020-02-03T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T16:00:00.000Z",
+    "fundingRate": 0.00033326,
+    "fundingTime": "2020-02-04T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T00:00:00.001Z",
+    "fundingRate": 0.00060785,
+    "fundingTime": "2020-02-04T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T08:00:00.000Z",
+    "fundingRate": 0.00091288,
+    "fundingTime": "2020-02-04T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T16:00:00.002Z",
+    "fundingRate": 0.0008389,
+    "fundingTime": "2020-02-05T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T00:00:00.000Z",
+    "fundingRate": 0.00058266,
+    "fundingTime": "2020-02-05T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T08:00:00.000Z",
+    "fundingRate": 0.00037833,
+    "fundingTime": "2020-02-05T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T16:00:00.000Z",
+    "fundingRate": 0.00062993,
+    "fundingTime": "2020-02-06T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T00:00:00.000Z",
+    "fundingRate": 0.00079581,
+    "fundingTime": "2020-02-06T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T08:00:00.000Z",
+    "fundingRate": 0.0003813,
+    "fundingTime": "2020-02-06T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T16:00:00.000Z",
+    "fundingRate": 0.00022691,
+    "fundingTime": "2020-02-07T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T00:00:00.000Z",
+    "fundingRate": 0.00044607,
+    "fundingTime": "2020-02-07T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T08:00:00.001Z",
+    "fundingRate": 0.00067636,
+    "fundingTime": "2020-02-07T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T16:00:00.000Z",
+    "fundingRate": 0.00067884,
+    "fundingTime": "2020-02-08T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T00:00:00.000Z",
+    "fundingRate": 0.00043124,
+    "fundingTime": "2020-02-08T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T08:00:00.000Z",
+    "fundingRate": 0.00060968,
+    "fundingTime": "2020-02-08T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T16:00:00.000Z",
+    "fundingRate": 0.00084067,
+    "fundingTime": "2020-02-09T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T00:00:00.000Z",
+    "fundingRate": 0.00085242,
+    "fundingTime": "2020-02-09T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T08:00:00.000Z",
+    "fundingRate": 0.00137143,
+    "fundingTime": "2020-02-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T16:00:00.000Z",
+    "fundingRate": 0.0010755,
+    "fundingTime": "2020-02-10T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0.00124711,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.00257734,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.00114991,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.00071154,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.00089628,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00261646,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.00380638,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00177824,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.00186684,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00208011,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.001212,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00111041,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.00137557,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00112572,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00232886,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.0011933,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00156575,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00077213,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.00059134,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.00044673,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.00012864,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.00042877,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.00087128,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.00089338,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.00075242,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.00040888,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.00035974,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.00114557,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.00100893,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.00044646,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.00010345,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.00023802,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.00006182,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.00007988,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0002174,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00001369,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.00074132,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.0005468,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.00036702,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.00027615,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00051432,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00021345,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.000013,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.00014046,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.00017859,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.00024069,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.0000103,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.00019322,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.0001945,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.00007028,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00005268,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.00064455,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.0000834,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.00027295,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.00019238,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.00018696,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.00017006,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.00011977,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.00007458,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.00033646,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.00030938,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.00007628,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.00036266,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.0004417,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.00018252,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.00046643,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.0004599,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.00051075,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.00047273,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.00055764,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.00028872,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.00031618,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.00026588,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.00018345,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.00008665,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.00007912,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.0001876,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.00036905,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.00029357,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": -0.0012021,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": -0.00200203,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": -0.00002385,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": -0.00020393,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": -0.00000592,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.00001405,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.00003143,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.00015391,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.00002556,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.00024735,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.00013691,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": 0.00001324,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.00001078,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.00001128,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.00016172,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.00012329,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.00020405,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.00023227,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0003213,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.00007853,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.00002064,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.00030828,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.00029502,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.00008266,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.00006106,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.00007861,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.00017487,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.00041157,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001252,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.00001419,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.00009409,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00048651,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.00087545,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00073075,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.000485,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.00017949,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00025381,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00021345,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.00016602,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00009339,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00007596,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00038223,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00059389,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0004107,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00040543,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0007127,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00049497,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00018034,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0002732,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00047315,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00020413,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00014787,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00003518,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00034545,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00046417,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0003086,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00034341,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.00016899,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.00016281,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00032485,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00003588,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.00005923,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00036768,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00005332,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.00020125,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00011822,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0006935,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.00046983,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00054787,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00087356,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00061858,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00057383,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.0004453,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.00001779,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00000496,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00003916,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.00007816,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00029457,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00059782,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00037053,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.00001488,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00004862,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00010851,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00011098,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00003197,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00024228,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00010986,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00009651,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00007146,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.0002255,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.00001724,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.00013649,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.00014282,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.00026424,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.00011586,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.00005347,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.00009758,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.00006887,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00010908,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.00011238,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00019145,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00028169,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00004983,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.00014364,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.00014726,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.00008215,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.00004612,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.00000591,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00009289,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00005977,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00032546,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00043686,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.00006683,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.00005276,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.00001093,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.00005479,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.00004184,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.00012914,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.00004434,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00036849,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00084726,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00080341,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00037188,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00066781,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00042321,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00042394,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00065533,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00090733,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00082928,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00099977,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00128958,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00094371,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00046434,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00044284,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00110254,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00143947,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00114137,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00111354,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00112083,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00077413,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00098899,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00111017,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00078392,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00124654,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00092243,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00084766,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.0005712,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.000789,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.0008475,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00164741,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00078084,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00062995,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00044367,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00056763,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00056067,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00057005,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00063457,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00058751,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00058744,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00051986,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00040282,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.0005529,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00057578,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00071612,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00071074,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00055919,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00043517,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00010125,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00036187,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00058926,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.0005117,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00027717,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00026997,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.0010467,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00059192,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00087127,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00085023,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00034792,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00011493,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00038998,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00041013,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00032264,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00062912,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00089602,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00080567,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00076366,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00053692,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00087037,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00128595,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00113773,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00089648,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00150281,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0012587,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00194026,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00155833,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00124218,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00089612,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00081458,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00040367,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00033249,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.00028504,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00033304,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00033992,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00056115,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00013186,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00011623,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00026041,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00026641,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00063901,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00034174,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00036387,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00042073,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.00042565,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00042485,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00063744,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00059127,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00019197,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT"
+  }
+]

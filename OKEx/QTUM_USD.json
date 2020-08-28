@@ -1,0 +1,1570 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00050431,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.00006926,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.00002776,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00125929,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00119284,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.00073916,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00035378,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00192199,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.00238273,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00067992,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00201212,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.00171154,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00083928,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00123881,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00009392,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00076066,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00019049,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00135517,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00086088,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00132111,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0013584,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00230429,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00006506,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00156649,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": -0.00025826,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.00073069,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00099117,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00103112,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00016783,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00135322,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00081816,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00060977,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0002546,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00026134,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00077634,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00043187,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00037567,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00086295,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.00092692,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.000634,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": 0.0003547,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00123343,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00045655,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00124119,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00058174,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.00057837,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00053623,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0005655,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00058696,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00013079,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00070032,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00103606,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.0007787,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00067814,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00082238,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00035892,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00056476,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0005045,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": -0.0001369,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00034224,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00136244,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00001793,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00224957,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00148251,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00171699,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": -0.00013891,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00120216,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00039243,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00077342,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": -0.00005969,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00070273,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00073575,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00082186,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00204949,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": -0.00001696,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00075698,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00004895,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.0025993,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.0002677,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00139584,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00134526,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00049235,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00115924,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00039722,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00030644,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00187639,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00001491,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00075403,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00038495,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00067934,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00080636,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00074238,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00087015,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.000641,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00132068,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00070711,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00085644,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00029029,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.0011311,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00066793,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00005111,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00141407,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00111456,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00135904,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00101739,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00104705,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": -0.00004509,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.0007549,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00042495,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00042425,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00106237,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00048562,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.0027251,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00048076,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00181772,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": -0.00026055,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00101076,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00038215,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00023472,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00027371,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00157899,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00100068,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00133095,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00005301,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00115415,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00072143,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00129589,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00100678,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.0003509,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00057657,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00000807,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00074484,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00143818,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00052368,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00129656,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00109419,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00077321,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00256572,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00025866,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00120148,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00042307,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00102135,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00132133,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": -0.00029708,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00087962,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00060107,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00230178,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": -0.00069786,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00186222,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": -0.00039492,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00287489,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00099132,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00043435,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00195364,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.000665,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0001375,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.000282,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": -0.00028409,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00017732,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00047329,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00047663,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0009824,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": -0.00002225,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00070578,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00029615,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00124131,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": -0.00021626,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": -0.00020191,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00140307,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00204454,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": -0.00098436,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00070743,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.0003791,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00056041,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.00061665,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00054518,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00104132,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": -0.00000151,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00038816,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00046173,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": -0.00048964,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00137886,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": -0.00149875,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00169226,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": -0.0009105,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00190038,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": -0.00090334,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.0010227,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP"
+  }
+]

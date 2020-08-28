@@ -1,0 +1,4722 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.00234371,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00047303,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.00147025,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00212869,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00225905,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00189207,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00285319,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00082972,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.0001778,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.00046091,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.00013431,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.00015702,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.00120446,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.00025631,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00137908,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00065607,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.00074985,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.00164082,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": -0.00021981,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": -0.00025876,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.00127783,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.00060401,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.00285171,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00050171,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.00047219,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.00179595,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.00415429,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.00054788,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.00159092,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.00039267,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.00062445,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.00070346,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.00253944,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.00062111,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.00022825,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": -0.00259985,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.00036653,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.00015467,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": -0.00028063,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.00076763,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.00383261,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.00057059,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.00009904,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": -0.00030076,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.00026444,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.00003754,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": -0.00009836,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": -0.00005759,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": -0.00023314,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": -0.00147748,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": -0.00080113,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": -0.00148898,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0.00001793,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": -0.0000178,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": -0.00067019,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.00211237,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": -0.00075104,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": -0.00009648,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.00032646,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": -0.00119505,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.00085771,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": -0.0004603,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.00004933,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.00003251,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": -0.00005712,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": -0.00053154,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.00144478,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0.00023255,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": -0.00155494,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": -0.00044648,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": -0.00010639,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.00082596,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": -0.00162222,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": -0.00144617,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.00007049,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.00023895,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.00062963,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": -0.00092764,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.00032182,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.00064545,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.00046439,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.00045927,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.00055189,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.00131557,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.00073486,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0.00069735,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.00191317,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.00014516,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.00009073,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.00038974,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.00052321,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": -0.00121044,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": -0.00085863,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.00083209,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": -0.00070967,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": -0.00059373,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.00065665,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.00007358,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.001503,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": -0.0001644,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.00157278,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.00001158,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.00038728,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.00008419,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00185573,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": -0.00016487,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": -0.00008385,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00040823,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": -0.00023605,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": -0.00052575,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": -0.00098069,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.00058224,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00149088,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00031978,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": -0.00045909,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00037818,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": -0.0003522,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00020541,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": -0.0003164,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00039446,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": -0.00049562,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00072607,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": -0.00014157,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00082094,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00060831,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00048965,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00006525,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00032538,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.00035517,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.00033648,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00046952,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.00027014,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00062576,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00017958,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.00048267,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.00018489,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00014071,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00018309,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00019743,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00023242,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0002395,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00011935,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.00081085,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00019699,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001729,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00031931,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0003857,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00014731,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.00053892,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": -0.00092203,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00033724,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.00013821,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.00040145,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0002763,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00108933,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00143687,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00141606,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.0002493,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00052292,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.00014466,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": -0.00011729,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0005685,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.00004959,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.00020426,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.00023573,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.00008523,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.00117672,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.00050477,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": -0.00009241,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": -0.00058411,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": -0.00105581,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": -0.0023013,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": -0.00149132,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": -0.00027973,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": -0.00063238,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": -0.00006064,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": -0.00038162,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": -0.00075479,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": -0.00187194,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": -0.00100836,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": -0.00041069,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": -0.00018432,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": -0.00259226,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": -0.0022471,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": -0.00279189,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": -0.00236436,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": -0.00400843,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": -0.00583866,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": -0.00055439,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.00026444,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": -0.00042527,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.00007593,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": -0.00003725,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": -0.00026707,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": -0.00002466,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.00022372,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.00025411,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.00012825,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.00033379,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0014184,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001144,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00042937,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00012596,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00057601,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.00044874,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.00056056,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.00015737,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.00056162,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00047412,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00096496,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00142777,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.00011903,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.00037943,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.00085067,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.00017769,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.00047366,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.00139217,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.00012237,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.00011219,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.00048746,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.00033768,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.00051933,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.00069334,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.00025675,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.00032036,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.00040981,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0003653,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.000275,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00065571,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00052324,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00132001,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00010122,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00039562,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00062354,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00043824,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00048571,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00108586,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00030142,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00010016,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.0007445,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00018113,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00120404,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00072466,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00029119,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00097749,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00041024,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00122913,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00073588,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00103586,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.0007085,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00066336,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00129232,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00012905,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00067876,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00019471,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00117853,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00016187,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00021972,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.0012376,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00211498,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00157334,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00077973,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00175981,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00083204,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00034841,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00063186,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00052245,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00036045,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00046644,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00060661,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.0007672,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00181373,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00245559,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00236163,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00137776,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00154262,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00184269,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00069319,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00137728,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00075561,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00138114,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00088088,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00155679,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00223189,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00310353,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00129611,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00204993,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00101414,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00192744,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00133209,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00102004,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00144326,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00052044,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00073887,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00076957,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00054129,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00058339,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00017335,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00061568,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0006521,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00076849,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0007934,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00116958,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00109967,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00094054,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00114301,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00072335,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00056101,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00074978,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.00095483,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00076917,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00092754,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00091362,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00035082,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00092956,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00031634,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.00025574,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00041159,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00061179,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00066872,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT"
+  }
+]

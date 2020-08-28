@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": 0.00040256,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00056734,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": -0.0003621,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.00016504,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": -0.00026346,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": -0.00023837,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.00009855,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00031325,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00081337,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00100815,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00048749,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00061328,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0004247,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.00028571,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00042691,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00021347,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": 0.00013662,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00045774,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00033976,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00037229,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00007684,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00036228,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": 0.00040896,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00073605,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.00017825,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00087979,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0006026,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00028442,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00057313,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00005882,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0010703,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00077014,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00079449,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00056499,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00078086,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00059895,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0004821,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00004035,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00016002,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00028648,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00060098,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": -0.00006495,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": 0.00010274,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.0000684,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": -0.00050798,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00080387,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": -0.00058844,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00012324,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00002875,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": -0.00091592,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00050724,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00040812,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00006356,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": -0.00031471,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.000112,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": -0.00068254,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.00051633,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00049832,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0009823,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0003427,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.00082073,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.00009408,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00139845,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.00041828,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.00060143,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00075074,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.00023182,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.00095734,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.00004175,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00052869,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00039123,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.0002712,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00018874,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00018257,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.00027021,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00016898,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00029631,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00041782,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00015267,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": -0.00034029,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00072819,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00027155,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00034632,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": -0.00002256,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00039215,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00010877,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00038172,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00034931,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00045627,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00075529,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": -0.0002932,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00025816,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00020533,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.00037625,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00046853,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00019408,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00049133,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00015769,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00122551,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00002873,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00055958,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00051315,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": -0.00009729,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.0000048,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": -0.00062683,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0003127,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00046862,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": -0.00018902,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00011786,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": -0.00038685,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00041464,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0002359,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00046037,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00004119,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00005633,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00026258,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": -0.00023596,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00051438,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00035341,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00022884,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00073095,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": -0.00035944,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00030653,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00032871,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00016883,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0020101,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": -0.00002486,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00021218,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00050689,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00114233,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": -0.0001006,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00111443,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00013613,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0009011,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00020765,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00050097,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.000014,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00071996,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0002233,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00038087,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00048986,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00044632,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.00031408,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00044302,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00024427,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00078406,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00019838,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00071523,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00012173,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00068449,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00052661,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00035648,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00032107,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0002989,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": -0.00053341,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00052104,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00118635,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00058685,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.0010928,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00119015,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00036806,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.0008877,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00124096,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00058832,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00135333,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00140825,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00173567,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.0012724,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00087622,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.0001473,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00080866,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00023999,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00057477,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00026047,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.0005177,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00032049,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00161713,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00075229,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00145148,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": -0.00036585,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00122103,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": -0.00007656,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00096084,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00006388,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00090091,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00017125,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00057423,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00036045,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00025622,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00073585,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00009433,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00070184,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00039828,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00060472,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00017194,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00101088,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00013268,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00077077,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00052522,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00075036,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00040635,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00100755,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00122323,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00167993,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00128986,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00017501,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00038867,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00021435,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00086385,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00064645,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00039406,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00052449,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": -0.0000399,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00099503,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00030796,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00070283,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": -0.00018302,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00095677,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00041078,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00047253,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00078949,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00100166,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00046378,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00066523,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00123721,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00019937,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00019064,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00081819,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": -0.00027672,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00131666,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": -0.0005933,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00130699,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00024357,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00049435,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00020502,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00041231,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": -0.0008925,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": -0.00067356,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00051594,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": -0.00123296,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00086014,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": -0.0006371,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00096813,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": -0.00081625,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00138707,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00031961,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": -0.00057231,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00043896,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.0005302,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.0000695,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": -0.00066647,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.0021311,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": -0.00060551,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00135954,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "NEO_USDT",
+    "rawPair": "NEO-USDT-SWAP"
+  }
+]

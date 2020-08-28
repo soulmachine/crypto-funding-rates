@@ -1,0 +1,1858 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00013285,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": -0.00038355,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00081868,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": -0.00044536,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00016983,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00022034,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": -0.00016069,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": -0.00014975,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00050599,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00035054,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0002798,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00026814,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": -0.00025215,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": -0.00012203,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": -0.00056992,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00023125,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": -0.00001821,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.00035631,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00045645,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": -0.00026851,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00012702,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": -0.00010595,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00048577,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00039243,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": -0.00010398,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00101608,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.0007929,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00036081,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00104081,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": -0.00007315,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.00066693,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": -0.00009525,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.00102244,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": -0.00025334,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.00039185,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.00002649,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00024214,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00008685,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00047235,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00038509,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00029279,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00103557,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.00020844,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": -0.00085636,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.00012189,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": -0.00045691,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00050774,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.00012557,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00014913,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00053619,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00011417,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.0003759,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": -0.00067635,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00029587,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.0003913,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00080624,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": -0.00008151,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00119106,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00062229,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.00082986,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00055175,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0002689,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.00055482,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00080393,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00103299,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00015982,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00038865,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00022787,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00007645,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": -0.00053373,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00013422,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00003295,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": -0.00005864,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00000383,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00026769,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00049577,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00029256,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00058736,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": -0.00010761,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": -0.00016637,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00012032,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": -0.00011878,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.0014111,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00037101,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": -0.00107295,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00048681,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": -0.00089022,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00076911,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00022363,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": -0.00026597,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": -0.0004499,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": -0.00035231,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": -0.00021106,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": -0.00057739,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": -0.00039309,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.000497,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": -0.00065174,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00079746,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": -0.0004022,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00095695,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00026165,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00048564,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00040551,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00010532,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00093119,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": -0.00004509,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": -0.00002356,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00023157,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": -0.00005041,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": -0.00024188,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": -0.00010213,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00051721,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": -0.00047781,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": -0.00007326,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": -0.00025416,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": -0.0002583,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00108311,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": -0.00053724,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": -0.00027233,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": -0.00040732,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": -0.00063587,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": -0.00072299,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": -0.00031731,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": -0.00062356,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": -0.00037301,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": -0.0001628,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": -0.00049886,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": -0.00060223,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": -0.00052793,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": -0.00000879,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": -0.00012935,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": -0.0000635,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": -0.00008461,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00079067,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": -0.00046007,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": -0.00075229,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": -0.00025347,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": -0.0002912,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": -0.00103355,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00053773,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": -0.00068706,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": -0.00097425,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": -0.00050383,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": -0.00014741,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": -0.00078127,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": -0.00032043,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": -0.00010593,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00004244,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00091259,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": -0.00014579,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.0010385,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00111316,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00060024,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00026074,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.0003393,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00025066,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00015835,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00089737,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00037896,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00070172,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.0003815,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00002401,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00021023,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00014626,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00009342,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00033189,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00050205,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00020927,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00063415,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00018926,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": -0.00011014,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.000761,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00035474,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00044963,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.0002366,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00042348,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00051712,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": -0.00003847,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00070678,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00004062,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00012514,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": -0.00037595,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": -0.00093488,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00018073,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.0003514,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00034873,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00002086,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00010899,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00040122,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00040408,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00044097,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00087098,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00034035,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00110794,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.0007675,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00063696,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00100741,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00113539,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00071754,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00094764,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00047185,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00035495,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00026674,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00014425,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00017881,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00023133,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00022062,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00014739,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00051263,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00031089,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0003076,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": -0.00049353,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00053958,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": -0.00030303,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.00043493,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": -0.00020043,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00038482,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00041823,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00039341,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00048482,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00032055,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00030033,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": -0.00017889,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00080288,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00002817,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00002818,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00062142,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00045161,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP"
+  }
+]

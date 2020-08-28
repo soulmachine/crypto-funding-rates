@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": 0.00030568,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00024063,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.00028642,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.00067695,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": 0.00001571,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.00025113,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0004769,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00157343,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": -0.0005041,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00126887,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": -0.00094899,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00079473,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": -0.00042534,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.00002775,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": -0.0000518,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00002225,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": -0.000268,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": -0.00083857,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00193008,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": -0.00040693,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": -0.00049247,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00021197,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": 0.0004328,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": -0.00008313,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": -0.00027866,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": -0.00034864,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00019313,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00060435,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00032115,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.0002161,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": -0.00039456,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00012191,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": -0.00027627,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": -0.00068509,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0009203,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00042581,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": -0.00052955,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": -0.00018326,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00071764,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": -0.00014768,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00005848,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": -0.00029133,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": -0.00026164,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.00014694,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": -0.00061881,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": -0.00030521,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00020485,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": -0.0001296,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": -0.00004928,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00019491,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00013562,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.0003079,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": -0.00011911,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": -0.00024288,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00035154,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00029543,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00029336,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": -0.0004102,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00071015,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": -0.000297,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00014957,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": -0.00000835,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": -0.00080738,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00074475,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00001139,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00039619,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00072803,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00004547,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.00061253,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00050166,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00025377,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.00003321,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00065458,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.00014261,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00061549,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00018134,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00071275,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00020403,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00033076,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": -0.00013981,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": -0.00062593,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.0004024,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": -0.00023831,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00024299,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00031123,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00013051,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": -0.00045497,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": -0.00012905,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00097617,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00034376,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00073301,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0005821,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0000325,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00008502,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0005258,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00004834,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00012849,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00013887,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": -0.00049627,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00067373,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": -0.00016256,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.00080349,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": -0.00010894,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": 0.00063868,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00033165,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00045274,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00021819,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00049582,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0004429,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00107391,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00037715,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": -0.00009429,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00069748,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": -0.00018504,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.000613,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00031567,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": -0.00010936,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00008526,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00032243,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00069134,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00004805,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00025181,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00073841,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00027881,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00030826,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00142902,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00109477,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00049073,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00067796,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00003376,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00008261,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00015831,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": -0.00006384,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00027098,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00050218,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00059553,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00032347,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": -0.0000926,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0005008,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": -0.00021425,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00010382,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00032168,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00072301,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00031448,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": -0.00002831,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00095629,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00054781,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00051723,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00092469,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00019142,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00086688,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00022896,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00088741,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00046482,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00088588,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00065638,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00098298,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00087208,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00083779,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.0008688,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00125766,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00102071,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00219028,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": -0.00013663,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00137898,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00098264,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00043823,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00072895,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00072256,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00059594,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.0004274,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00048862,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00086094,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00030396,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00076314,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00096183,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00194643,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00057155,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00039445,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00063826,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00022271,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00066189,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00012797,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00038497,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00082993,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00062229,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00082096,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00070899,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00041257,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00092904,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00043951,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00017328,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00060163,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00073746,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00048868,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00095062,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00062675,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00068292,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00046903,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00092904,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00040679,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00159419,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00038416,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00059534,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00026209,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0003676,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00018346,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00049727,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00042377,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00049351,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00054914,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00056281,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00057377,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00075463,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00089543,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.0005853,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00045374,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00070161,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00093256,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00050829,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00049322,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00017549,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00052887,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00084719,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00075082,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.0001996,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00063811,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00001295,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00080668,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": -0.00007284,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00074232,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00055488,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00056339,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0004585,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.0005896,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00023532,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0012141,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": -0.00026925,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00127794,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00005238,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00119099,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": -0.00018531,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00073068,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00057694,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00067541,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00082795,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": -0.00012376,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00066359,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00076558,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00084967,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00061186,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00078012,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00051381,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00035306,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP"
+  }
+]

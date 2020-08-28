@@ -1,0 +1,4882 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-07T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T08:00:00.001Z",
+    "fundingRate": 0.0075,
+    "fundingTime": "2020-02-07T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T16:00:00.000Z",
+    "fundingRate": 0.0014614,
+    "fundingTime": "2020-02-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T00:00:00.000Z",
+    "fundingRate": 0.00046452,
+    "fundingTime": "2020-02-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T16:00:00.000Z",
+    "fundingRate": -0.00016375,
+    "fundingTime": "2020-02-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T00:00:00.000Z",
+    "fundingRate": 0.0041014,
+    "fundingTime": "2020-02-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T08:00:00.000Z",
+    "fundingRate": 0.00182383,
+    "fundingTime": "2020-02-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T16:00:00.000Z",
+    "fundingRate": 0.00191302,
+    "fundingTime": "2020-02-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0.00064416,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.00044179,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.0010229,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00172988,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.00235787,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00140706,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.00271325,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00245318,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.00060479,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00018869,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.0001286,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00064731,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00156312,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.0011618,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00186952,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00033814,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.00013213,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.0002382,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.00031301,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.00038177,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0003373,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.00026287,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.00032702,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.00027489,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00128653,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.00111079,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00045144,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.00101254,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.0006252,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00067251,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.00062613,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.00017026,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.00016047,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.00099237,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.00013134,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.00138093,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": -0.00008287,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.00100561,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00177865,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.00070584,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.00047826,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.00089168,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.00201054,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.00034972,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.00024459,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.00013362,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.00082698,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.00085851,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.00082896,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.00032991,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.0001728,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.00066575,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.00015538,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.00135202,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.00019021,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.00170186,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.0004161,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": -0.00045741,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.00037266,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": -0.00128011,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": -0.00107947,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": -0.00127279,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": -0.00332109,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": -0.002513,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": -0.00108303,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": -0.00050521,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": -0.00053831,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": -0.00086177,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": -0.00040064,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": -0.0004023,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": -0.00171033,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": -0.0004519,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": -0.00065475,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0.00008441,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.00043933,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0.00002192,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.00034063,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": -0.00016637,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.00046959,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.00068612,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": -0.0002541,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": -0.00020803,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": -0.00024828,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": -0.00010711,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.000512,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": -0.00038978,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": -0.00006681,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0.00004164,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": 0.0000348,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": -0.0001571,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.00006645,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": -0.00128229,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": -0.00080064,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": -0.00084969,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.00042023,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.00083595,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": -0.00086391,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": -0.0003444,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.00048977,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.00099415,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0003155,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": -0.00008858,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": -0.00025563,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.00089725,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.00015834,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": -0.00046372,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": -0.00049324,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.00005666,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": -0.00054491,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": -0.00031057,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": -0.00112791,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": -0.00039316,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": -0.00065296,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": -0.00010468,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.00012673,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.00058198,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.00042392,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": -0.00013357,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.00035506,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.00040274,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.00052557,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.00016901,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.00011178,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.00042027,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00017177,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00085504,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.00021819,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00265087,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00012697,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": -0.00021879,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00031955,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00016606,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.00044419,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00069608,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.00066072,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00040125,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.00122956,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00029991,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001349,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00061945,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00079314,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00036563,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00118424,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.0002504,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00137396,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00031116,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.00087818,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.00088454,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.00032465,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00157361,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00044657,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00160198,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00199886,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00095709,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.0003347,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00013379,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.00036538,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00026264,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.00068856,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00068208,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00021021,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00044292,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.00028067,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00036964,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00019618,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00029412,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00020809,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00027083,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.00049733,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00040198,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00063218,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00018434,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0005267,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00077061,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00153324,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00027032,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.00084042,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.00050095,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00022063,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00044442,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.00012111,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00059919,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00038076,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00032167,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.00026597,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.00037911,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.00020149,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.00054454,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.00015633,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.00048969,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.00029536,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.00038939,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.00033416,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.00026476,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.00079418,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.00054061,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.00023117,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.00039878,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001319,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.00044764,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.00053292,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.00013549,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0005946,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.00086707,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.00016708,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.00030964,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.00062252,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.00018152,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.00058271,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.00055483,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.00023866,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.00022772,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.00013913,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.00034572,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.00016847,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.00032428,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.00031208,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.00014957,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.00061602,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.00016293,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00113411,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00013516,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00020288,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00045368,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.00041743,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00031091,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.0002778,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00154617,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": -0.00057237,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.00229105,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.00072908,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.00035161,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0004353,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.00059985,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.00138368,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.00011003,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.00047051,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": -0.00025661,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.00018914,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.00055804,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.00052344,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.00133008,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.00043055,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0003039,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00129969,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00064696,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00027148,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00028015,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.000574,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00041565,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00148426,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00135143,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00215747,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00032667,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00016058,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00180037,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00021837,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00017738,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00010366,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.0018396,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00100532,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00224296,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00130894,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00121714,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00086673,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00168472,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.0017673,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00115754,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00097227,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.0008304,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00073946,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00104457,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00054564,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00074479,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00016819,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00141642,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00049206,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00016236,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00040816,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00104324,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00107524,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00060325,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.0004504,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00108112,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00118071,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00076405,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00093955,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00015877,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00048135,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00034731,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.0012419,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00098021,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.0011374,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00013805,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00093784,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00232197,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00042688,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00047304,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00251648,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.001336,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.0013581,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00013526,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00157594,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00097101,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.0016194,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00162613,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00086745,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00243679,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00035881,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00151864,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00033777,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.0002152,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00221206,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00012087,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00042061,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00153489,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00042315,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00086721,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00092275,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00018174,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": -0.00050636,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00010449,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00040139,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00040222,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00089524,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00038239,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT"
+  }
+]

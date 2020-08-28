@@ -1,0 +1,1602 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": -0.00000155,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": -0.00000339,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.00037502,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.00048507,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": -0.00014465,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.00009468,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": -0.00243493,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.00007937,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": -0.00158209,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": -0.00412682,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": -0.00282579,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": -0.00669127,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": -0.00137763,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": -0.00122636,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": -0.00368025,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": -0.0074942,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": -0.00593721,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": -0.00131803,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": -0.00170093,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": -0.0005551,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": -0.00134689,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": -0.00063826,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": -0.00321355,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": -0.00039282,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.00042328,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": -0.00085573,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": -0.00018364,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": -0.00014754,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.00041509,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00116138,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00173928,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": -0.00073853,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": -0.00069225,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.00007714,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": -0.00119796,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.00047198,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": -0.00055132,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0003375,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0004558,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.00074948,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.00015246,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.00021438,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0002028,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00055099,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00017917,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00089066,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00066921,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00024765,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.0008527,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00027179,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00130727,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00109231,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00275836,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00172372,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00151503,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00015864,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00096044,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00051727,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.0011435,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00093086,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00143415,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00125216,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00124361,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00152289,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00174408,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00170856,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00087749,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00217824,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00140531,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00344108,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00131883,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00052077,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00092851,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00054452,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00083625,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00027075,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00118727,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00188532,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00127365,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00124589,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.0004598,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00026255,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00032195,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00020614,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00111272,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00143006,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00133454,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00202758,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00204415,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00190898,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00108551,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00010158,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00038792,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00062917,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00124349,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00094006,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00172151,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00170645,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00382891,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00603195,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00245003,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00188321,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00305262,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00096991,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00119923,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00107982,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00094981,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00046802,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00018266,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.0011189,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00066757,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00051883,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00017534,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00030571,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.00084065,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00014027,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.0002658,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00011372,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00024,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT"
+  }
+]

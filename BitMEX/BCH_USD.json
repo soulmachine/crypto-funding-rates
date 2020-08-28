@@ -1,0 +1,1746 @@
+[
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-17T12:00:00.000Z",
+    "fundingRate": 0.000397,
+    "fundingTime": "2020-06-17T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-17T20:00:00.000Z",
+    "fundingRate": 0.000881,
+    "fundingTime": "2020-06-18T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-18T04:00:00.000Z",
+    "fundingRate": 0.000658,
+    "fundingTime": "2020-06-18T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-18T12:00:00.000Z",
+    "fundingRate": 0.00031,
+    "fundingTime": "2020-06-18T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-18T20:00:00.000Z",
+    "fundingRate": 0.000412,
+    "fundingTime": "2020-06-19T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-19T04:00:00.000Z",
+    "fundingRate": 0.000437,
+    "fundingTime": "2020-06-19T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-19T12:00:00.000Z",
+    "fundingRate": 0.000206,
+    "fundingTime": "2020-06-19T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-22T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-24T12:00:00.000Z",
+    "fundingRate": 0.000129,
+    "fundingTime": "2020-06-24T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-27T04:00:00.000Z",
+    "fundingRate": 0.000291,
+    "fundingTime": "2020-06-27T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-27T12:00:00.000Z",
+    "fundingRate": 0.000106,
+    "fundingTime": "2020-06-27T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-06-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-01T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-02T12:00:00.000Z",
+    "fundingRate": 0.000177,
+    "fundingTime": "2020-07-02T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-02T20:00:00.000Z",
+    "fundingRate": 0.000154,
+    "fundingTime": "2020-07-03T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-03T04:00:00.000Z",
+    "fundingRate": 0.00015,
+    "fundingTime": "2020-07-03T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-03T12:00:00.000Z",
+    "fundingRate": 0.000318,
+    "fundingTime": "2020-07-03T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-07T12:00:00.000Z",
+    "fundingRate": 0.000284,
+    "fundingTime": "2020-07-07T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-07T20:00:00.000Z",
+    "fundingRate": 0.000314,
+    "fundingTime": "2020-07-08T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-08T20:00:00.000Z",
+    "fundingRate": 0.000502,
+    "fundingTime": "2020-07-09T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-09T04:00:00.000Z",
+    "fundingRate": 0.000244,
+    "fundingTime": "2020-07-09T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-09T12:00:00.000Z",
+    "fundingRate": 0.000846,
+    "fundingTime": "2020-07-09T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-09T20:00:00.000Z",
+    "fundingRate": 0.000417,
+    "fundingTime": "2020-07-10T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-10T04:00:00.000Z",
+    "fundingRate": 0.000267,
+    "fundingTime": "2020-07-10T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-10T12:00:00.000Z",
+    "fundingRate": 0.000475,
+    "fundingTime": "2020-07-10T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-10T20:00:00.000Z",
+    "fundingRate": 0.000243,
+    "fundingTime": "2020-07-11T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-11T04:00:00.000Z",
+    "fundingRate": 0.000132,
+    "fundingTime": "2020-07-11T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-11T12:00:00.000Z",
+    "fundingRate": 0.000157,
+    "fundingTime": "2020-07-11T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-12T04:00:00.000Z",
+    "fundingRate": 0.000742,
+    "fundingTime": "2020-07-12T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-12T12:00:00.000Z",
+    "fundingRate": 0.00064,
+    "fundingTime": "2020-07-12T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-12T20:00:00.000Z",
+    "fundingRate": 0.000107,
+    "fundingTime": "2020-07-13T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-13T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-13T12:00:00.000Z",
+    "fundingRate": 0.000804,
+    "fundingTime": "2020-07-13T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-13T20:00:00.000Z",
+    "fundingRate": 0.000703,
+    "fundingTime": "2020-07-14T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-14T04:00:00.000Z",
+    "fundingRate": 0.000247,
+    "fundingTime": "2020-07-14T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-14T20:00:00.000Z",
+    "fundingRate": 0.000243,
+    "fundingTime": "2020-07-15T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-15T04:00:00.000Z",
+    "fundingRate": 0.000253,
+    "fundingTime": "2020-07-15T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-15T12:00:00.000Z",
+    "fundingRate": 0.000198,
+    "fundingTime": "2020-07-15T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-18T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-20T12:00:00.000Z",
+    "fundingRate": 0.000135,
+    "fundingTime": "2020-07-20T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": 0.000122,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000276,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.000586,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000341,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": 0.000185,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000539,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": 0.000776,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000675,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.001597,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.001068,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.001027,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000924,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.000688,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000494,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.000941,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.001205,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.002129,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.001849,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.001734,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.001243,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.001192,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.00116,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.001437,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.001463,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.001011,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.001642,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.001735,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.001428,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.00132,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.001909,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.0029,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": 0.001131,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.001027,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.000841,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000985,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.001976,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.002353,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.002472,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.001969,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.001623,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.001538,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.001762,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.001601,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.001414,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.001454,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.001162,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.001063,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": 0.000561,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000185,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.001054,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.000682,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.00092,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.000533,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000285,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.000117,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.000318,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000186,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.000306,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000326,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.000214,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.000386,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000658,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000384,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.000968,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.001082,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.00105,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.000963,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.000869,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.001153,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.001,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.001118,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.000942,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.000811,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.000589,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.00137,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.001082,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.000842,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000643,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000139,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000298,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.00011,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000475,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.000226,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.000367,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  },
+  {
+    "exchange": "BitMEX",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD"
+  }
+]

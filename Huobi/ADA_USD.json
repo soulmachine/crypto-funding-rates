@@ -1,0 +1,3018 @@
+[
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T20:00:00.000Z",
+    "fundingRate": -0.000140824470660245,
+    "fundingTime": "2020-04-29T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T20:00:00.000Z",
+    "fundingRate": 0.000310984489385728,
+    "fundingTime": "2020-05-03T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T04:00:00.000Z",
+    "fundingRate": 0.000335395701267397,
+    "fundingTime": "2020-05-03T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T04:00:00.000Z",
+    "fundingRate": 0.000401947269655401,
+    "fundingTime": "2020-05-09T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T20:00:00.000Z",
+    "fundingRate": 0.000820248630033863,
+    "fundingTime": "2020-05-10T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T04:00:00.000Z",
+    "fundingRate": -0.000572502290351853,
+    "fundingTime": "2020-05-14T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T12:00:00.000Z",
+    "fundingRate": -0.000087174709969408,
+    "fundingTime": "2020-05-14T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T20:00:00.000Z",
+    "fundingRate": -0.000362570945437287,
+    "fundingTime": "2020-05-15T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T12:00:00.000Z",
+    "fundingRate": 0.000123016740789198,
+    "fundingTime": "2020-05-16T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T04:00:00.000Z",
+    "fundingRate": 0.000145521781422053,
+    "fundingTime": "2020-05-17T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T04:00:00.000Z",
+    "fundingRate": 0.000287649870708199,
+    "fundingTime": "2020-05-18T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T12:00:00.000Z",
+    "fundingRate": 0.000344530173571886,
+    "fundingTime": "2020-05-19T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T12:00:00.000Z",
+    "fundingRate": 0.001183592563479085,
+    "fundingTime": "2020-05-21T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T04:00:00.000Z",
+    "fundingRate": 0.000478277426521252,
+    "fundingTime": "2020-05-22T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T12:00:00.000Z",
+    "fundingRate": 0.000214870030979298,
+    "fundingTime": "2020-05-22T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T04:00:00.000Z",
+    "fundingRate": -0.000132218956986348,
+    "fundingTime": "2020-05-23T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T04:00:00.000Z",
+    "fundingRate": 0.001047315539203403,
+    "fundingTime": "2020-05-24T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T04:00:00.000Z",
+    "fundingRate": 0.000008222502279882,
+    "fundingTime": "2020-05-25T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T20:00:00.000Z",
+    "fundingRate": 0.000039958130537668,
+    "fundingTime": "2020-05-26T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T12:00:00.000Z",
+    "fundingRate": -0.00060093373212097,
+    "fundingTime": "2020-05-27T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T20:00:00.000Z",
+    "fundingRate": -0.000201817114057897,
+    "fundingTime": "2020-05-29T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T04:00:00.000Z",
+    "fundingRate": 0.000312395107781726,
+    "fundingTime": "2020-05-29T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T20:00:00.000Z",
+    "fundingRate": 0.000099208569751516,
+    "fundingTime": "2020-05-30T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T12:00:00.000Z",
+    "fundingRate": -0.00046886507670772,
+    "fundingTime": "2020-05-30T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T12:00:00.000Z",
+    "fundingRate": -0.001964867913092219,
+    "fundingTime": "2020-05-31T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T20:00:00.000Z",
+    "fundingRate": 0.002163894512765607,
+    "fundingTime": "2020-06-01T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T04:00:00.000Z",
+    "fundingRate": -0.00232915296101983,
+    "fundingTime": "2020-06-01T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T12:00:00.000Z",
+    "fundingRate": 0.002285336909312682,
+    "fundingTime": "2020-06-01T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T20:00:00.000Z",
+    "fundingRate": -0.000849563912217345,
+    "fundingTime": "2020-06-02T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T04:00:00.000Z",
+    "fundingRate": 0.002610050539318683,
+    "fundingTime": "2020-06-02T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T12:00:00.000Z",
+    "fundingRate": -0.000247222479511828,
+    "fundingTime": "2020-06-02T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T04:00:00.000Z",
+    "fundingRate": -0.000574318161484505,
+    "fundingTime": "2020-06-03T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T04:00:00.000Z",
+    "fundingRate": 0.000645558189744386,
+    "fundingTime": "2020-06-04T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T12:00:00.000Z",
+    "fundingRate": -0.000001006865903377,
+    "fundingTime": "2020-06-06T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T20:00:00.000Z",
+    "fundingRate": -0.000641705723792425,
+    "fundingTime": "2020-06-07T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T04:00:00.000Z",
+    "fundingRate": 0.000530034692279772,
+    "fundingTime": "2020-06-07T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T12:00:00.000Z",
+    "fundingRate": 0.00008585765109354,
+    "fundingTime": "2020-06-07T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T20:00:00.000Z",
+    "fundingRate": -0.000346997026588437,
+    "fundingTime": "2020-06-08T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T12:00:00.000Z",
+    "fundingRate": -0.001364401339386435,
+    "fundingTime": "2020-06-08T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T04:00:00.000Z",
+    "fundingRate": -0.000518172140789587,
+    "fundingTime": "2020-06-09T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T04:00:00.000Z",
+    "fundingRate": -0.000007691457040211,
+    "fundingTime": "2020-06-10T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T12:00:00.000Z",
+    "fundingRate": -0.001291253682210172,
+    "fundingTime": "2020-06-10T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T20:00:00.000Z",
+    "fundingRate": 0.000810306465375605,
+    "fundingTime": "2020-06-11T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T04:00:00.000Z",
+    "fundingRate": -0.000730678523083785,
+    "fundingTime": "2020-06-11T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T12:00:00.000Z",
+    "fundingRate": 0.000140485976693398,
+    "fundingTime": "2020-06-11T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T04:00:00.000Z",
+    "fundingRate": -0.000383438985389741,
+    "fundingTime": "2020-06-12T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T12:00:00.000Z",
+    "fundingRate": 0.000011172554679955,
+    "fundingTime": "2020-06-12T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T20:00:00.000Z",
+    "fundingRate": -0.000200702812498159,
+    "fundingTime": "2020-06-14T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T04:00:00.000Z",
+    "fundingRate": 0.00054573299691717,
+    "fundingTime": "2020-06-14T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-14T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T20:00:00.000Z",
+    "fundingRate": 0.000442850779585017,
+    "fundingTime": "2020-06-15T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T04:00:00.000Z",
+    "fundingRate": 0.000110650074052291,
+    "fundingTime": "2020-06-15T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T20:00:00.000Z",
+    "fundingRate": -0.002516611600119684,
+    "fundingTime": "2020-06-16T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T12:00:00.000Z",
+    "fundingRate": -0.000615570717636258,
+    "fundingTime": "2020-06-16T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T20:00:00.000Z",
+    "fundingRate": -0.000693462164881999,
+    "fundingTime": "2020-06-17T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T04:00:00.000Z",
+    "fundingRate": 0.000010511001427843,
+    "fundingTime": "2020-06-17T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T12:00:00.000Z",
+    "fundingRate": -0.000933732680017276,
+    "fundingTime": "2020-06-17T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T04:00:00.000Z",
+    "fundingRate": -0.000735558267563561,
+    "fundingTime": "2020-06-18T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T12:00:00.000Z",
+    "fundingRate": -0.000475365228425979,
+    "fundingTime": "2020-06-18T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T20:00:00.000Z",
+    "fundingRate": -0.000374664898849544,
+    "fundingTime": "2020-06-19T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T04:00:00.000Z",
+    "fundingRate": 0.000132051487228111,
+    "fundingTime": "2020-06-19T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T12:00:00.000Z",
+    "fundingRate": -0.001184152832618577,
+    "fundingTime": "2020-06-19T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T20:00:00.000Z",
+    "fundingRate": 0.000397750427572583,
+    "fundingTime": "2020-06-20T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T04:00:00.000Z",
+    "fundingRate": -0.000517021319601234,
+    "fundingTime": "2020-06-20T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T20:00:00.000Z",
+    "fundingRate": -0.001735614295659459,
+    "fundingTime": "2020-06-21T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T12:00:00.000Z",
+    "fundingRate": -0.00063110473070444,
+    "fundingTime": "2020-06-21T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T04:00:00.000Z",
+    "fundingRate": -0.000927046354030559,
+    "fundingTime": "2020-06-22T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T12:00:00.000Z",
+    "fundingRate": -0.001470161937159407,
+    "fundingTime": "2020-06-22T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T20:00:00.000Z",
+    "fundingRate": -0.000028970402252499,
+    "fundingTime": "2020-06-23T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T04:00:00.000Z",
+    "fundingRate": -0.000107043043482207,
+    "fundingTime": "2020-06-23T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T12:00:00.000Z",
+    "fundingRate": -0.000719716220621039,
+    "fundingTime": "2020-06-23T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T20:00:00.000Z",
+    "fundingRate": -0.001010792504741981,
+    "fundingTime": "2020-06-24T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T04:00:00.000Z",
+    "fundingRate": -0.000429263875301856,
+    "fundingTime": "2020-06-24T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T20:00:00.000Z",
+    "fundingRate": -0.000415224642993592,
+    "fundingTime": "2020-06-25T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T04:00:00.000Z",
+    "fundingRate": 0.000323364286178213,
+    "fundingTime": "2020-06-25T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T12:00:00.000Z",
+    "fundingRate": -0.000059561404158661,
+    "fundingTime": "2020-06-25T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T12:00:00.000Z",
+    "fundingRate": -0.000111164924167441,
+    "fundingTime": "2020-06-26T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T04:00:00.000Z",
+    "fundingRate": -0.00011800847473637,
+    "fundingTime": "2020-06-27T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T12:00:00.000Z",
+    "fundingRate": -0.000649017561210913,
+    "fundingTime": "2020-06-27T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T04:00:00.000Z",
+    "fundingRate": -0.000021692100424938,
+    "fundingTime": "2020-06-28T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T12:00:00.000Z",
+    "fundingRate": -0.000575712694461351,
+    "fundingTime": "2020-06-28T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T20:00:00.000Z",
+    "fundingRate": -0.000562276695096858,
+    "fundingTime": "2020-06-29T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T12:00:00.000Z",
+    "fundingRate": -0.000493852781368521,
+    "fundingTime": "2020-06-29T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T20:00:00.000Z",
+    "fundingRate": -0.001506924988380721,
+    "fundingTime": "2020-06-30T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T04:00:00.000Z",
+    "fundingRate": -0.000521136852138698,
+    "fundingTime": "2020-06-30T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T12:00:00.000Z",
+    "fundingRate": -0.000497524143063349,
+    "fundingTime": "2020-06-30T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T20:00:00.000Z",
+    "fundingRate": -0.000411542033689673,
+    "fundingTime": "2020-07-01T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T04:00:00.000Z",
+    "fundingRate": -0.002154989507935142,
+    "fundingTime": "2020-07-01T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T12:00:00.000Z",
+    "fundingRate": -0.000579937150826902,
+    "fundingTime": "2020-07-01T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T20:00:00.000Z",
+    "fundingRate": -0.000878767049918842,
+    "fundingTime": "2020-07-02T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T04:00:00.000Z",
+    "fundingRate": -0.000499028873315579,
+    "fundingTime": "2020-07-02T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T12:00:00.000Z",
+    "fundingRate": -0.00027185811388945,
+    "fundingTime": "2020-07-02T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T20:00:00.000Z",
+    "fundingRate": -0.000560506694811104,
+    "fundingTime": "2020-07-03T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T04:00:00.000Z",
+    "fundingRate": -0.000573674216696111,
+    "fundingTime": "2020-07-03T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T12:00:00.000Z",
+    "fundingRate": -0.000760746856951646,
+    "fundingTime": "2020-07-03T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T20:00:00.000Z",
+    "fundingRate": -0.000981169483961207,
+    "fundingTime": "2020-07-04T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T04:00:00.000Z",
+    "fundingRate": -0.001109577962246002,
+    "fundingTime": "2020-07-04T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T12:00:00.000Z",
+    "fundingRate": -0.00458439289508593,
+    "fundingTime": "2020-07-04T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T20:00:00.000Z",
+    "fundingRate": -0.002075101100156705,
+    "fundingTime": "2020-07-05T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T04:00:00.000Z",
+    "fundingRate": -0.000641757163042994,
+    "fundingTime": "2020-07-05T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T12:00:00.000Z",
+    "fundingRate": -0.001013311516885581,
+    "fundingTime": "2020-07-05T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T20:00:00.000Z",
+    "fundingRate": -0.000379444280963616,
+    "fundingTime": "2020-07-06T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T04:00:00.000Z",
+    "fundingRate": -0.001656831536924764,
+    "fundingTime": "2020-07-06T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T12:00:00.000Z",
+    "fundingRate": -0.00073518136390533,
+    "fundingTime": "2020-07-06T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T20:00:00.000Z",
+    "fundingRate": -0.002129944115875571,
+    "fundingTime": "2020-07-07T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T12:00:00.000Z",
+    "fundingRate": -0.000398118812146797,
+    "fundingTime": "2020-07-07T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T20:00:00.000Z",
+    "fundingRate": -0.000407565223726007,
+    "fundingTime": "2020-07-08T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T04:00:00.000Z",
+    "fundingRate": 0.000413124302678333,
+    "fundingTime": "2020-07-08T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T20:00:00.000Z",
+    "fundingRate": -0.000086599515730326,
+    "fundingTime": "2020-07-09T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-10T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T04:00:00.000Z",
+    "fundingRate": -0.000170539985384874,
+    "fundingTime": "2020-07-10T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T12:00:00.000Z",
+    "fundingRate": 0.000146369315935112,
+    "fundingTime": "2020-07-10T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T20:00:00.000Z",
+    "fundingRate": 0.000083418019529255,
+    "fundingTime": "2020-07-11T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T04:00:00.000Z",
+    "fundingRate": -0.000255958499428869,
+    "fundingTime": "2020-07-11T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T20:00:00.000Z",
+    "fundingRate": -0.000813088940018144,
+    "fundingTime": "2020-07-12T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T04:00:00.000Z",
+    "fundingRate": -0.000748852587566258,
+    "fundingTime": "2020-07-12T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T20:00:00.000Z",
+    "fundingRate": 0.000016584367683223,
+    "fundingTime": "2020-07-13T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T04:00:00.000Z",
+    "fundingRate": -0.00009067240345274,
+    "fundingTime": "2020-07-13T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T20:00:00.000Z",
+    "fundingRate": -0.000151592512542346,
+    "fundingTime": "2020-07-14T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T04:00:00.000Z",
+    "fundingRate": -0.000727728819422702,
+    "fundingTime": "2020-07-14T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T12:00:00.000Z",
+    "fundingRate": -0.000283338569915642,
+    "fundingTime": "2020-07-14T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T12:00:00.000Z",
+    "fundingRate": -0.000244695992412543,
+    "fundingTime": "2020-07-15T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T20:00:00.000Z",
+    "fundingRate": 0.000696493184615732,
+    "fundingTime": "2020-07-16T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-16T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T12:00:00.000Z",
+    "fundingRate": -0.002000584716846233,
+    "fundingTime": "2020-07-16T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T04:00:00.000Z",
+    "fundingRate": -0.001807574857481684,
+    "fundingTime": "2020-07-17T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T12:00:00.000Z",
+    "fundingRate": -0.000306327150162041,
+    "fundingTime": "2020-07-17T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T20:00:00.000Z",
+    "fundingRate": -0.000090328590403877,
+    "fundingTime": "2020-07-18T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T04:00:00.000Z",
+    "fundingRate": -0.000907896506685569,
+    "fundingTime": "2020-07-18T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T12:00:00.000Z",
+    "fundingRate": -0.000535877578210009,
+    "fundingTime": "2020-07-18T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T20:00:00.000Z",
+    "fundingRate": -0.001005456596685728,
+    "fundingTime": "2020-07-19T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T12:00:00.000Z",
+    "fundingRate": 0.000087676485734855,
+    "fundingTime": "2020-07-19T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T20:00:00.000Z",
+    "fundingRate": -0.000170379734995695,
+    "fundingTime": "2020-07-20T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T04:00:00.000Z",
+    "fundingRate": -0.000354041260900328,
+    "fundingTime": "2020-07-20T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T20:00:00.000Z",
+    "fundingRate": -0.00078314367446589,
+    "fundingTime": "2020-07-21T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T12:00:00.000Z",
+    "fundingRate": -0.001070661908121111,
+    "fundingTime": "2020-07-21T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T20:00:00.000Z",
+    "fundingRate": -0.000552799779958304,
+    "fundingTime": "2020-07-22T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.000821560425326005,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": -0.00040190109005534,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": -0.00097305681121515,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": -0.001237032188793782,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": -0.000274592730411427,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": -0.001055782081006235,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": -0.000230779146307675,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.00019925512154535,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": -0.000694761971064465,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.00112718543131154,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": -0.000386578078634994,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.000038843481213661,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": -0.001295412277205349,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.000794966172216995,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": -0.000199351725657304,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": -0.000216481889150852,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.000560206344253038,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": -0.001899498398455924,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.000441837243386501,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.000160553698216799,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.001909860007769941,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000342006100848382,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.00015500356227569,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.002154899333239111,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.000401054052720956,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.000241650212279635,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.000440964188802619,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.000294473647273782,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": -0.000158746720187283,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000402005096888116,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.001181385806076379,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.000118106274539127,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.001026876705913193,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.001472261632565381,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.001188565693677132,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.000229512615281399,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": -0.00018017831727685,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000136884054561304,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.000354187855881581,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.001429732667062207,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.000553285115665557,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.001058858577722465,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.00044072793654,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.000379934210962332,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.000972217222766276,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.000235557957310528,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.000865610791239402,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000283994837482144,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.00031293035516377,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.00039829902781613,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.000312690190108461,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": -0.000216563782689445,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.000098000784710334,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000627682035842227,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.000188619606550354,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.000251357496355022,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.000209423465857054,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD"
+  }
+]

@@ -1,0 +1,1522 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.00177834,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": -0.0022338,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00114895,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.00090681,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00012266,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00236569,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00064126,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00061039,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00076968,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00293398,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": -0.00170067,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00231503,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00238105,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00141109,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00134369,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00089777,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00059394,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00129008,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": -0.00116137,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.00044301,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": -0.00005158,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00179701,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00039684,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00144882,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00191065,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.0002511,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00140031,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00119357,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00255956,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00299991,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": -0.00112635,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00009691,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00108327,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": -0.00020007,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00049131,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": -0.00003937,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00268359,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": -0.00206904,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": -0.00109925,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00101409,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": -0.00058206,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001346,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00037969,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00043564,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00043296,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00087067,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00025543,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00167794,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00101572,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00082161,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00240022,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": -0.00175983,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00222567,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": -0.00096912,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00065367,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00009185,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": -0.00073786,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0010417,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00027962,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": -0.00063838,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00187189,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": -0.00057088,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00016812,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00048919,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00082461,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00113222,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": -0.00254624,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0021594,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00283922,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": -0.00296029,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00249203,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": -0.00019494,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00118799,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00017482,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00033047,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.0021082,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00148513,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00258003,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00128096,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00034923,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00193624,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00099451,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": -0.00035162,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00066175,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00143116,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": -0.00160562,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.0009952,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": -0.00003901,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00035958,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00138499,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00009635,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00267758,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": -0.00013946,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00167176,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": -0.00267464,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00071749,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00263115,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00009471,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00051439,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00025,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00031675,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": -0.0008356,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00040185,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": -0.00027237,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00167491,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00234303,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00176396,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00075335,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00136959,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00142247,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00055741,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.0017999,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00108992,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00052709,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00062609,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00133078,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00021956,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00102937,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00106996,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00091939,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.0010582,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00015333,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00214087,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00091257,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": -0.00066012,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00079436,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00088361,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00076139,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": -0.00016717,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00169164,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00024441,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00120557,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00071051,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00098959,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": -0.00071827,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00001942,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00020968,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.0006073,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.0006122,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00239922,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00133252,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00250512,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00148478,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00197206,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00105296,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00114537,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00097709,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00126042,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00087539,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": -0.00009762,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0014279,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.0002713,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00089458,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00056501,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00081162,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00000823,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00168415,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00030144,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00078396,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.00004266,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.0015539,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.0008586,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00031376,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.000734,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00062972,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00018277,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00043972,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00140342,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": -0.0001805,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00027398,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00098952,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": -0.00061818,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00083889,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD-SWAP"
+  }
+]

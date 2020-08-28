@@ -1,0 +1,4794 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.00304635,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.00161571,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.00261274,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.00155591,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00326618,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.00222329,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00123233,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.00066404,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00339783,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.00051288,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.0008311,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00045706,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00205219,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00121877,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00231415,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0003025,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.00110646,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.00007369,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.00017557,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.00002421,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.00137686,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.00046778,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.00072738,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.00020171,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0002414,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.00042486,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.00064889,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.00049596,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.00052603,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.00075795,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.00081155,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.00020372,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00043004,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.00015968,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00043662,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.00012455,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.00030493,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00031773,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00015623,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.00018209,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.00028972,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.00019026,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00031743,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.00038074,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": -0.00001823,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": -0.00020427,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": -0.0006366,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.00016672,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.00003555,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.00072615,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.00006931,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.00018643,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.00099038,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.00076374,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.00084351,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.00050183,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.00066063,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.00076211,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.0004214,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.00001447,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": -0.00584369,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": -0.00142512,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": -0.00003866,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0.00138786,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0.00061685,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.00031569,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.00049659,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": -0.00025194,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.00006145,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.00003196,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": -0.00028381,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": -0.00063857,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": -0.00116804,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": -0.00136474,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": -0.00101418,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": -0.00088447,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": -0.00069922,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": -0.00096105,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": -0.0009582,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": -0.00071773,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": -0.00030985,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": -0.00058307,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": -0.00051558,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": -0.00037297,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": -0.00034341,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": -0.00044911,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": -0.00038278,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": -0.0005377,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": -0.00005878,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": -0.00093878,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.00001815,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.00003597,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0001949,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.00012984,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.00008068,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.00006871,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": -0.00012615,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": -0.00106444,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": -0.00105536,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": -0.00048669,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": -0.00163126,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": -0.00161834,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": -0.00054383,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": -0.00022565,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": -0.00154515,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": -0.00162046,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": -0.00244099,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": -0.0021833,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": -0.00082619,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": -0.00088774,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": -0.00023463,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": -0.00019125,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": -0.0007285,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": -0.00098575,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": -0.00097202,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": -0.00083493,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": -0.00040011,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": -0.00120041,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": -0.00205524,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": -0.0002257,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": -0.00129702,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": -0.00099634,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00048035,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": -0.0005323,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": -0.00009795,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": -0.00064392,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": -0.00065188,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": -0.00016727,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": -0.00190521,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": -0.00132408,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": -0.00021921,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": -0.00043006,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": -0.00069085,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": -0.00080576,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": -0.00006443,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": -0.00121372,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": -0.00119549,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": -0.00056844,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.00080135,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": -0.00021386,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": -0.00078928,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00060654,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00025328,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00029358,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00025472,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00099136,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00095429,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.00009641,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00002744,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.0000999,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00005223,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.00005841,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00023836,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00000896,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00003531,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.00035834,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00008273,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00150317,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00015673,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.00003662,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00028021,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00003271,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.00006225,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00022627,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.00022272,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.00023167,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.00012856,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.00015194,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.00055942,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.00050433,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.00041717,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.00032418,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.00022358,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.00032558,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.00031154,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.00022791,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.00065156,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0000746,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.00006488,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.00022682,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.00003501,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.00015225,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.00026054,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.00020423,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.0010617,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.00045655,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.00098882,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.00088952,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.00078954,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00013316,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.00048519,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00010307,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00019539,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.00004959,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.00016453,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.00013604,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.00028831,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00078054,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00095522,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00044795,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.000551,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.00010593,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.00066729,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.00084732,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.000419,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.00032947,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.00023178,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.00060186,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0003019,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.00054102,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0004598,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.00027418,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.00069242,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.00019297,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00028134,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00020308,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00000766,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00020401,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00004774,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00003634,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00012314,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00052438,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00015007,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00014051,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00073344,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00015918,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00012999,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00027606,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00076482,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00017989,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00062354,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00068354,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.0005463,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00044976,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00042414,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00061617,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00051379,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00024454,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00010009,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00027659,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.0002282,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00129589,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00049705,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.000442,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00069085,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00060812,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00043398,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00027106,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": -0.00013679,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": -0.00020248,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": -0.00219836,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00055752,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": -0.00150728,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": -0.00058693,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": -0.00029548,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": -0.00036793,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00035918,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00041831,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00024776,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00019557,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00074298,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00063237,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00075067,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00057341,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00097859,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00014737,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00038377,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00053827,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00042953,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00017072,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00014081,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00066913,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0005746,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00047913,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00156863,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00080128,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00047931,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00014429,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00015509,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00037422,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.00133633,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0004041,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00045232,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00072622,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0002474,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0001544,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00016151,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00007395,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00027256,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00023605,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00006471,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.0001374,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00031156,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00039606,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00015343,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00027732,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00018175,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.00014978,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00026014,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00019237,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00012595,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00020294,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT"
+  }
+]

@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": -0.00013157,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00008334,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": -0.00032501,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.00028919,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": -0.00017845,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": -0.00005456,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": -0.00001822,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00016449,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": -0.00005571,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00014118,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": -0.00004876,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00001489,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": -0.00008304,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": -0.00015149,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": -0.00001818,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00013075,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": -0.00022586,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": -0.00006839,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00005933,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": -0.00004708,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00002719,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": -0.00017808,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": -0.00008022,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": -0.0001135,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.00035417,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00024834,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00058594,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00029611,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00030035,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00012549,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00028299,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00016693,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00017972,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00026267,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00010708,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00036545,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.00021764,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00019748,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00029167,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00018614,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00006924,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0000567,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": 0.00001598,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.00020129,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00008351,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00045889,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00001712,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00011012,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00008434,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00019444,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.0004723,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00033615,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00019926,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00037981,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00037042,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00017466,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00036942,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": -0.00006442,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00009297,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00003781,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.000157,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.0000696,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": -0.00012251,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00017039,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00006578,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00013415,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00016839,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.0002035,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.00015115,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00004157,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00005866,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": -0.00017864,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00003146,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.00014545,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00006872,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00002842,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00009005,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00007915,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00006195,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": -0.00009605,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00003415,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": -0.00016106,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": -0.00001963,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": -0.00008714,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00016335,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.0001619,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00006179,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": -7e-8,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00001399,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": -0.00006245,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00002649,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.00010555,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": -0.00013456,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.00014373,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00011431,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": -0.00009328,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": -0.00002524,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00013885,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00001638,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00001307,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": -0.00009723,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00017557,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": -0.00002139,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00013558,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": -0.00009274,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": -0.00001627,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00011281,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00006321,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00017943,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": -0.00006748,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": -0.00017921,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": -0.00019839,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": -0.00003111,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": -0.00007719,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00002441,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.0000082,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00008864,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": -0.0001776,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.0000243,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00014887,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": -0.00000108,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": -0.00013685,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": -0.00007144,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00001623,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.000603,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00036845,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": -0.00000213,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00003985,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": -0.00000364,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00000818,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.0001053,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": -0.00000711,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": -0.00002633,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": -0.00003699,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00002409,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00005708,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": -0.00012543,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": -0.00000907,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00011233,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00005337,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00000562,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00021694,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00005297,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00026993,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00000616,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00004538,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001446,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00010186,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00004011,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00010134,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00015714,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00004808,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00016431,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": -0.00007875,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00000959,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": -0.00011154,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00006691,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00053251,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00019368,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00090855,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00036032,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00104038,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00103793,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00076655,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00065578,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00021099,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00032399,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00040203,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00066398,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00077395,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00069781,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00062814,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00035178,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00042776,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00026264,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00072881,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00110313,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00000291,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00022875,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00021222,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00046832,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00028182,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00042968,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00028446,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00032947,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": -0.00003571,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00007437,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00013521,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00023735,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00034784,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00009283,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.0001252,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00024038,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00034575,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00016874,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00020294,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00004683,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00016172,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00059607,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00029745,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": -0.00004571,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00097001,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00014701,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00008656,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00028675,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00055758,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": -0.00025097,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00013795,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00003408,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00004199,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00023454,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00032621,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00017039,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.0006013,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00027953,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": -0.00012374,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00015847,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00003021,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00002989,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00004382,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.0002566,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": -0.00005502,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.0001859,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00026555,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00074163,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.0003518,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.0006527,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": -0.00008045,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00039822,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": -0.00001514,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00034155,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0003185,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": -0.00006179,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": -0.00009143,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": -0.00000634,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00017642,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00021976,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00022689,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00004179,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00000546,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00000313,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00020226,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": -0.00016961,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": -0.0000981,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": -0.00002049,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00011748,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00006162,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00061923,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00000573,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00007372,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.0002811,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00007119,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00013205,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00033266,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP"
+  }
+]

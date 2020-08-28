@@ -1,0 +1,4698 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00165327,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00429081,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00167405,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00058146,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00031205,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.00080113,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.00175389,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.00115086,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": -0.00000573,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00014657,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.0006475,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.00122299,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.00126239,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.0001753,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.00106533,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.00045586,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": -0.00000275,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.00089496,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.00015741,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.00017828,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": -0.00022138,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": -0.00729492,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": -0.00269677,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": -0.00079599,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": -0.00074867,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": -0.0007675,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": -0.00004043,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": -0.00002606,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": -0.00111732,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": -0.00100708,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": -0.00014647,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": -0.00025547,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": -0.00001495,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": -0.00025484,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": -0.00040093,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.0000705,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": -0.00007319,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": -0.00032787,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": -0.00000522,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.00002473,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": -0.00019571,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": -0.0011056,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": -0.00087347,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": -0.0006147,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": -0.00095836,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": -0.00000727,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": -0.00035038,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": -0.00025335,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": -0.00021781,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.00001622,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.00005557,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": -0.00022883,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": -0.00074487,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.00094731,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.00103642,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.00015464,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.00007506,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": -0.00074344,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.00007716,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.0000911,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.00034585,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00030961,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.00026956,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00033918,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.0006279,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": -0.00014609,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.00004999,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00004358,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00046438,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00032315,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00074458,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00035718,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00021791,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00119876,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00025463,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00027166,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00029022,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00040079,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00082016,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.0003867,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00012942,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00027159,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.00028476,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.00068055,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00077173,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00031919,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00029619,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": -0.00024398,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00031567,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0000665,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00007348,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": -0.00035301,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00035408,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.0003995,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00075387,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00023001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00057139,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.00135863,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.00048704,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.00022825,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.00046239,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00014809,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.00021662,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0009624,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00030569,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": -0.00053291,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": -0.00036527,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": -0.00060629,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": -0.00075683,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": -0.00123392,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": -0.00006561,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": -0.00006362,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": -0.00064725,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": -0.0000561,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": -0.00029871,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": -0.00036518,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": -0.0004989,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": -0.00010996,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": -0.00030732,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": -0.00025894,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": -0.00035146,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": -0.0000751,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.00003515,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": -0.00059551,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": -0.00083783,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": -0.00034456,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": -0.00007237,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.00006826,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.00008989,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.00003375,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": -0.00035256,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": -0.0001021,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": -0.00009212,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.00004988,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": -0.0008834,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": -0.00000724,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": -0.00016747,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.00007803,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.00007686,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": -0.0000276,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.00006459,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": -0.00007081,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": -0.00069994,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": -0.00101442,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": -0.00092257,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": -0.00117422,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": -0.00288247,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": -0.00353089,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": -0.0008014,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": -0.00018114,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": -0.00009385,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": -0.00014355,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": -0.00036354,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.00000152,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": -0.00006087,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": -0.00035793,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": -0.00070739,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": -0.00082717,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.00002632,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.00007365,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.00021268,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.00011704,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00023517,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00031305,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00028232,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00019092,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00060034,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00062212,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.0016246,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00036172,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00052223,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00038452,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00086325,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00026376,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.0001688,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00015789,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00057642,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00063655,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00115205,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00094144,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00087393,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00060683,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00033151,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00117167,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00165023,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00424343,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.0013628,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00021824,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00028812,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.0005164,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00085419,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00076206,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00071433,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00062323,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00175139,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00065856,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00169932,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00067023,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00078561,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00101141,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00141543,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00055656,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00090434,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00015935,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00046686,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00071854,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00093824,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00090178,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00068737,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00079644,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00114068,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00132443,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00124773,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.0013185,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00082613,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00018826,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00024105,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00045102,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00062846,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00022075,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00074935,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00171357,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00303737,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00169586,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00151994,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00205406,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00170276,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00174435,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00122144,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00124252,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00162749,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00156376,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.0021977,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00121578,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00058064,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00034995,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00042316,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00047755,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.00069421,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00064692,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00088443,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00053115,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.0004759,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.0002698,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00015864,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.00047536,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00034439,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00048528,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00024435,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT"
+  }
+]

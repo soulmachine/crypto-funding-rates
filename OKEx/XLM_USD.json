@@ -1,0 +1,1570 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00028261,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00003448,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00014682,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00064727,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00091079,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00059757,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.00010829,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00035941,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00295633,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00232883,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.00274149,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00154068,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00255672,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00241693,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00284351,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00189912,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.00217486,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": -0.00177447,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00178251,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": -0.00077842,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00166786,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": -0.00043229,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00130354,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": -0.00088794,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.00104149,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": -0.00063304,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00099503,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.0007521,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00162925,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00015406,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.00065509,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00099941,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.00046812,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00012821,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": -0.00013871,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00036118,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00004343,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00021898,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00034265,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00060018,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.0002797,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00093406,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00076727,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00128986,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": -0.00093858,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00163817,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": -0.00106296,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.00106511,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": -0.00078262,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00129472,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": -0.00118473,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00063106,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": -0.00022624,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00058265,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00029118,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00017187,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00008708,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00004986,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00026062,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00033715,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00033703,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00025047,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0000723,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00276966,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": -0.00009119,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0017062,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.0001042,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00088073,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00065523,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00035029,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00092749,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00066775,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00042959,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00065943,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00073821,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00101174,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00196025,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00052951,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00043844,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00061781,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00091828,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.00054125,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00041081,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00041981,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0007156,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0008174,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00055566,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.0005093,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00026387,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.000567,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00040556,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00067464,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00044382,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.0003411,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00057032,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00047013,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00044849,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00024936,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00052079,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00061696,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00018123,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00088501,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00065533,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00021182,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00102496,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00071132,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00039933,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00062818,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00100947,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00040177,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00060155,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00030215,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00043835,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00063339,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00045462,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00066739,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00105125,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": -0.00004004,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00057789,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00020631,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00002957,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00008569,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00054417,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00060884,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00019933,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00066469,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00022399,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00051241,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00047518,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00049928,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00046892,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00031573,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00043248,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00001038,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00009361,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00013699,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00056435,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00070249,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00079113,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00026896,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00064895,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.0007321,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00050956,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00077505,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00067236,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00058898,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": -0.00025504,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00005272,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00006099,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00024913,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.0011752,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00009269,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00044502,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00097563,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00066548,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00091078,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00060941,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00100036,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00084075,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00074807,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0007801,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00103902,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00098155,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00106648,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.0005533,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00074578,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00046989,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00034915,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00029071,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00027734,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00023166,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00036798,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00003233,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00047516,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0002695,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001461,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00021533,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00021077,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00021666,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.0000312,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00043275,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00003187,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00037396,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00035331,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00035453,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00035626,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00066713,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00010117,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00019595,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00013418,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00011466,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00054074,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00036432,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP"
+  }
+]

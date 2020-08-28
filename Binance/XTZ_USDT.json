@@ -1,0 +1,4938 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-04T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-04T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-06T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-06T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T08:00:00.000Z",
+    "fundingRate": 0.00289285,
+    "fundingTime": "2020-02-06T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T16:00:00.000Z",
+    "fundingRate": 0.00253138,
+    "fundingTime": "2020-02-07T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T00:00:00.000Z",
+    "fundingRate": 0.00159492,
+    "fundingTime": "2020-02-07T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T08:00:00.001Z",
+    "fundingRate": 0.00170162,
+    "fundingTime": "2020-02-07T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T16:00:00.000Z",
+    "fundingRate": 0.00036711,
+    "fundingTime": "2020-02-08T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-08T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T08:00:00.000Z",
+    "fundingRate": 0.00159889,
+    "fundingTime": "2020-02-08T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T16:00:00.000Z",
+    "fundingRate": 0.00058539,
+    "fundingTime": "2020-02-09T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T00:00:00.000Z",
+    "fundingRate": 0.00014061,
+    "fundingTime": "2020-02-09T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-09T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-10T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.00022396,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.00029005,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.0005985,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00201002,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.00327963,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00267367,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.00372468,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00448353,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.00166208,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00126045,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.00142379,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00062967,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00173112,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00076001,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00202227,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00032224,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.00011777,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.00052196,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.00014323,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.0005857,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.00078055,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.00016671,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": -0.00011924,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.00056581,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.00069077,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": -0.00028254,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.00028766,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.00073306,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.00099855,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.00023612,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00145058,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.00062745,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00043958,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.00014218,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00057856,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.00017983,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00039198,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": -0.0000034,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.0001064,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.00014127,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.00060194,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.00043755,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.00060765,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.00047625,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.00055441,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.00076459,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.00043292,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.00036533,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.00029888,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.00020238,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.0003155,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.00100028,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.00277854,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": -0.0063275,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0.00015499,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.00039571,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0.00065829,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.00062071,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0.00036411,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": 0.00058896,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.00012222,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.00018347,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.00046054,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": 0.00033606,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": 0.00083622,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0.00022628,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": -0.00099312,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": -0.00105171,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.00014467,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0.00014683,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.00026554,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.00015164,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.00016728,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": -0.00048648,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0.00012165,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0.00020893,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": -0.00133054,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.00028977,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.00034703,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.00044456,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.00031784,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.00033608,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.000389,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.00031113,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.00014486,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001529,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.00034689,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.00038361,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.00033289,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.00064175,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.00023656,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.00068551,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": -0.00048464,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": -0.00105752,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": -0.00115748,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": -0.00163484,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": -0.00071064,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": -0.00094792,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": -0.00117253,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": -0.00083418,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.00023823,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.00036134,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": -0.00013664,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.00006065,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": -0.00016778,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": -0.00007905,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": -0.00092734,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": -0.0003359,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": -0.00159313,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": -0.00053504,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00009238,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00000228,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": -0.0012665,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": -0.00014972,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00109341,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": -0.00044276,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": -0.00134066,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": -0.0016898,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": -0.00008769,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00017734,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00036653,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.00109465,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00032202,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00012516,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00030445,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00061058,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.00078566,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.00068001,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00149512,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00084386,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.00105614,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00081736,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00178538,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.00099908,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00128677,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00087396,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00089083,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00038401,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00090557,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00048838,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.00014194,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00030367,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.00038463,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00047951,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": -0.00005439,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": -0.00063802,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00083027,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00007621,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00005874,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.00018542,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0005683,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00011804,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00026835,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00059423,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00017925,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00083646,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00157365,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00054025,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.00026467,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00073994,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00040991,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00066831,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0005201,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00057646,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.00017436,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00032993,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00058118,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00057369,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00057339,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00061479,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00098634,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.00044682,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00029366,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.00038568,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.00047854,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.00015213,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.00029557,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.00059885,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.00046225,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.00010822,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.00061945,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0003423,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.00035531,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.00012987,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.00024583,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.00029395,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.00030686,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.00030228,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.00020487,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.00022613,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.00051757,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.00060887,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.000431,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.00022589,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.00026601,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.00015176,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.00012837,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.00033235,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.00042531,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.00027207,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.00015434,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.00044631,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.00014354,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.00045325,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.00066137,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.00037881,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.00013697,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001872,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.00027081,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.00055103,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.00031622,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.00016428,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.00072606,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.00048574,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00010917,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00019185,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00055803,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.002417,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.00057468,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.00024992,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.00032526,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.00049813,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0003794,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.00023506,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.00031033,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.00062679,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0006176,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.00023019,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.00055476,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.00072985,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.00054495,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.00059929,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.00010483,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.00016487,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00051491,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00051311,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00085333,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00088513,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00076227,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00078362,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00065927,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00108272,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00116866,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.0019747,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00253091,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00165929,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00132936,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.001402,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00070709,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00068654,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00089353,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00085164,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00086563,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00102647,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00121644,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00052987,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00058782,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00081102,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00100071,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00066426,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00097122,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00075316,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00112219,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00096195,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00189236,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00123987,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00075935,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00044549,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00079893,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00084848,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00117728,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00132414,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00107567,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00129746,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00127545,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00116894,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00109389,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00121064,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00131074,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00123566,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00117107,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00091935,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00023239,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00056294,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00069339,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00072009,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00112413,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.0011158,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00138376,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00176508,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00133214,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00150645,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00148254,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00123884,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00099705,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00061727,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00055576,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00090751,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00098761,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00108477,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00113562,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00170486,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00143701,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00162233,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00123161,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00155448,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00132043,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00132437,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.0013232,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.0014279,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00139395,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.0016239,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00144991,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00133398,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00070132,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00039694,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00026208,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00024501,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00031543,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00074438,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00075364,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00032248,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00016737,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00023195,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00010229,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00016086,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00035864,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT"
+  }
+]

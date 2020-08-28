@@ -1,0 +1,5314 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-20T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-20T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-20T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-21T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-21T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-22T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-22T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-22T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-23T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-23T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-23T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-24T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-24T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-24T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-25T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-25T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-25T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-26T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-26T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-26T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-27T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-27T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-28T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-28T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-28T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-29T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-29T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-29T16:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-30T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-30T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-30T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-31T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-31T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-31T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-01T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-01T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-01T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-02T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T00:00:00.000Z",
+    "fundingRate": 0.0014449,
+    "fundingTime": "2020-02-02T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T08:00:00.000Z",
+    "fundingRate": 0.00179835,
+    "fundingTime": "2020-02-02T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T16:00:00.000Z",
+    "fundingRate": 0.00164031,
+    "fundingTime": "2020-02-03T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T00:00:00.000Z",
+    "fundingRate": 0.00071241,
+    "fundingTime": "2020-02-03T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T08:00:00.000Z",
+    "fundingRate": 0.00048046,
+    "fundingTime": "2020-02-03T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T16:00:00.000Z",
+    "fundingRate": 0.00014095,
+    "fundingTime": "2020-02-04T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T00:00:00.001Z",
+    "fundingRate": 0.00031409,
+    "fundingTime": "2020-02-04T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T08:00:00.000Z",
+    "fundingRate": 0.00073434,
+    "fundingTime": "2020-02-04T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T16:00:00.002Z",
+    "fundingRate": 0.00040653,
+    "fundingTime": "2020-02-05T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T08:00:00.000Z",
+    "fundingRate": 0.00031833,
+    "fundingTime": "2020-02-05T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T16:00:00.000Z",
+    "fundingRate": 0.00162987,
+    "fundingTime": "2020-02-06T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T00:00:00.000Z",
+    "fundingRate": 0.00396642,
+    "fundingTime": "2020-02-06T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T08:00:00.000Z",
+    "fundingRate": 0.00146499,
+    "fundingTime": "2020-02-06T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T16:00:00.000Z",
+    "fundingRate": 0.00052055,
+    "fundingTime": "2020-02-07T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T00:00:00.000Z",
+    "fundingRate": 0.00156332,
+    "fundingTime": "2020-02-07T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T08:00:00.001Z",
+    "fundingRate": 0.00250463,
+    "fundingTime": "2020-02-07T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T16:00:00.000Z",
+    "fundingRate": 0.00198965,
+    "fundingTime": "2020-02-08T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T00:00:00.000Z",
+    "fundingRate": 0.00175849,
+    "fundingTime": "2020-02-08T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T08:00:00.000Z",
+    "fundingRate": 0.00070553,
+    "fundingTime": "2020-02-08T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T16:00:00.000Z",
+    "fundingRate": 0.00081936,
+    "fundingTime": "2020-02-09T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T00:00:00.000Z",
+    "fundingRate": 0.00161188,
+    "fundingTime": "2020-02-09T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T08:00:00.000Z",
+    "fundingRate": 0.0024828,
+    "fundingTime": "2020-02-09T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T16:00:00.000Z",
+    "fundingRate": 0.0021764,
+    "fundingTime": "2020-02-10T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0.00162089,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.00099124,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.00126237,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.00096237,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.00056017,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00235305,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.00284851,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.0019762,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.0024533,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00249154,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.00085375,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00085489,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.00041437,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00118214,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.0017457,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00050419,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00081641,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.0001625,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00021446,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00018817,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.00066285,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.00015045,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.00034416,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.00073258,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.00024082,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.00008518,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": -0.00054929,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": -0.00169422,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": -0.00084586,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": -0.0002509,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": -0.00080651,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": -0.00111065,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": -0.00044717,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": -0.00005936,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": -0.00040179,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": -0.00128753,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": -0.00070982,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": -0.00090224,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": -0.00083071,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": -0.00022876,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.00010331,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.00021497,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.00019348,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001258,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00032333,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.00087345,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00058884,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00038849,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00018488,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00045919,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00051841,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00032857,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00045963,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00100239,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00057976,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.0001122,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00028874,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.0006646,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00036464,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00035039,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00064757,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00065921,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00048504,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00023391,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.00013121,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00039499,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00010533,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0000773,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.00018495,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00078656,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.00061264,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00064166,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00025512,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": -0.00011028,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00005815,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": -0.0000146,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.00007541,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00099607,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0003558,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": -0.00000689,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.00003532,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": -0.00023478,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": -0.00009009,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": -0.00008553,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": -0.00003606,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": -0.00000155,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": -0.00047114,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.00008385,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.00009573,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": -0.00004838,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": -0.00007178,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.00007645,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.00004642,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.00005621,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": -0.00040529,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": -0.00074457,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": -0.00062426,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": -0.00114909,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": -0.00142521,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": -0.00096914,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": -0.00004686,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": -0.00061089,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": -0.00076224,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": -0.00156987,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": -0.00146607,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": -0.00071259,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": -0.00030349,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": -0.00018565,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": -0.00049557,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": -0.00085428,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": -0.00038904,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": -0.00114472,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": -0.0019338,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": -0.00222786,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": -0.000144,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": -0.00002253,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": -0.00017474,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": -0.00017316,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.00006993,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": -0.00037372,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00059396,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0004223,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00067869,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00116589,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00050769,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.00028665,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00114871,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": -0.0002738,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": -0.00020092,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.000947,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.00030283,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0003571,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.00007144,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.00006742,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": -0.00009615,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": -0.00015722,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00070046,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00013627,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00079046,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00129932,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00105973,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.000376,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00057024,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00138453,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00078786,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00070978,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00084151,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.0001652,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00018144,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00059031,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00078124,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00066719,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00075055,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00156313,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00128672,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00110922,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00348399,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00156124,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00061727,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00012363,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.0003161,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00126259,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00070708,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00129363,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00037296,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00095063,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00059843,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00068889,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00068462,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00061057,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00095232,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.0010319,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00081689,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00062796,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00058679,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00047382,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00064194,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.0012031,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00177334,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00076693,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00107544,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.0018832,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00185503,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00087438,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00108603,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00080353,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00037396,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00027852,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00028005,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.0006824,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00062607,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00046168,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00038505,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00108346,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00090924,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00089082,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00096829,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00092066,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00082348,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00135289,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00204261,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00121424,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00064519,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00053664,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00017205,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00044486,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.00075677,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00069472,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00046678,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00042381,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00048672,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00057518,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00021344,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00016737,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00019438,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.00034166,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00037527,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00050463,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00029286,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00034793,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00032867,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0005977,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00044014,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00023465,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00065473,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00058254,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT"
+  }
+]

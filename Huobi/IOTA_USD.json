@@ -1,0 +1,882 @@
+[
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": 0.001169539364006323,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": 0.006403334429197156,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000863737231606655,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": -0.000041369405032128,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.000174796390800674,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000455628921126138,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.000667645343064052,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.001430948731011225,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.001109086063203278,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.002522018865413165,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.000541952531955981,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.001336423792554337,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.002008554342765351,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.000644066625497101,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.002738116643082608,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000808166196707381,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.002092403889698943,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.000747378126882467,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.000190960088492075,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.000993321970363034,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.000907321849546039,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.001108571602165645,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.000919550348126645,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.001391705830752166,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.001232946222458226,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.001052257739216863,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": 0.000543690835792287,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.00211558882796887,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.000730238378891919,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.003932438602336422,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.007499999999999999,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.002917720886295665,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.006045213528894156,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.002431543474064157,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.000462906205192308,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.001861882129399769,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.00046707388207431,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.000851505536575354,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.006239599114310263,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.001802643405258062,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000704631726897536,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.000317884079728056,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.002271331970478487,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.000141289109935529,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.000708000847523236,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.003331645485365523,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.003049817301478095,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.002459999089078201,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.00106972225252931,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.001088017396179466,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.000431182441296484,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.000624583083610213,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": -0.003372847625975849,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.000087257606045337,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.002370381340036469,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.000573818743026458,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000161390765315046,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.00048645530252809,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.000397438865736952,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.000869376608659727,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD"
+  }
+]

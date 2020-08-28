@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": 0.00003176,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.00007683,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.00016102,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.00034902,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": 0.00068886,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.00019472,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001379,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00042903,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00017552,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00039361,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": -0.00010457,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00047227,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": -0.00003276,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.00008642,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00017238,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": -0.00009216,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": -0.00008518,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00034365,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.00024728,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0003033,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00033963,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": -0.00001326,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": -0.00000651,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": -0.0001053,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.00036318,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00038093,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00036446,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00003725,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00005318,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00012353,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00024145,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00039294,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.0003263,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": -0.00008413,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00062597,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00042853,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.00008173,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00000893,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00014283,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": -0.00017376,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00004503,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00003654,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": -0.00009613,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.00004481,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00012937,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00011781,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00036682,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": -0.00033902,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00029847,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": -0.00012067,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.0004367,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00027833,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": -0.0006122,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00071181,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00018115,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": -0.00017861,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00113575,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00000639,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00019046,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00001027,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.00006274,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": -0.00011669,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": -0.00017214,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.00002254,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00019968,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00012851,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00011245,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.00006421,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00004113,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": -0.00005581,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00005538,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": -0.00013911,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00008856,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00007341,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00017246,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00018783,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00002071,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.00001025,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00000512,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": -0.00005931,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00025422,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.0000169,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00008253,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": -0.0000586,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001327,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00004758,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": -0.00002025,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00015493,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00010257,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00017129,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.0001386,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.00043374,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": -0.00025869,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.00028359,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00005094,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00002394,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": -0.000229,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00022296,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00008261,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00003921,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": -0.00008456,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00012066,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00013391,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00015614,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00011695,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00007501,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00001003,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00022038,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00023883,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00032871,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00002699,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0002366,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00003553,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00016422,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00017375,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00026667,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00007708,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00008367,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00007528,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00025605,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00017336,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00014853,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00016521,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001858,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.0002862,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00020807,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00056913,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00027117,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00014591,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": -0.00004003,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00006539,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00005282,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00012437,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00015218,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00024365,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00012827,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": -0.00000141,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00026822,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00017465,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00016017,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00035933,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00022376,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.00011435,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00022463,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00032246,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00020262,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001282,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00019973,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00021768,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00020486,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00031826,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00013263,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00025662,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00014418,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00044774,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00037003,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00043851,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00128115,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00062747,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00101708,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.0007976,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00108926,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.0012429,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00079779,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00139442,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00093457,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.0010314,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00072393,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00123294,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00071668,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.0004818,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00072206,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00051198,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00069971,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00051514,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00073469,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00105197,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00061866,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00060407,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": -0.00002184,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00051908,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00032355,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00051971,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00047534,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00038895,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00003932,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00063958,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00046271,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00050461,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00028844,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00060697,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00052948,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.0003599,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00044778,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00012215,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00006647,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": -0.00002199,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00021292,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.0005316,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00050866,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00028381,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00100206,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00062578,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00050373,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00076556,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00069498,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": -0.00011004,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00074361,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00008417,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00045237,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00045277,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00051097,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00073396,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00085952,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00067418,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00019044,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00087712,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00011615,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00127206,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00059677,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00073872,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00093135,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00066679,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00127667,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00140203,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.0002068,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00065162,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": -0.00009815,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00039621,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00005183,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00007257,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00077341,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.0000619,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0003296,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00008507,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00036563,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00040761,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00018944,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00038503,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00010768,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00038497,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00019932,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00024352,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00035035,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00014783,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00013608,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00043944,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00056996,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": -0.00028543,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00022663,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00002983,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00030766,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00023037,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00042235,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "EOS_USDT",
+    "rawPair": "EOS-USDT-SWAP"
+  }
+]

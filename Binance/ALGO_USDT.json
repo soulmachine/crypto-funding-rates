@@ -1,0 +1,2242 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.00011824,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.00071674,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0010873,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.00035806,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.00011718,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.00101831,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.00038326,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": -0.00019572,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": -0.00015426,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.00015612,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.00010903,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.00047858,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.00085467,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0005052,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.00055405,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0009246,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00068551,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00043295,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.00023306,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00070084,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00088035,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00142053,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00050117,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.00032846,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": -0.00252233,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": -0.00112474,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": -0.00012514,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.0007197,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.00054524,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.00045625,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00066993,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00021499,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00080622,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00107451,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00050881,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00110378,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00047601,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00057324,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00119352,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00212951,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00089053,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00116179,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00015804,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00044315,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00039918,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00019363,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00047777,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00090409,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00138577,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00047851,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00038804,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00034077,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00077745,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00062268,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00115631,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00120114,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00235335,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.0003673,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00023925,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.0003753,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00047683,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00050788,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00096891,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00075076,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00071027,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00105227,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00134772,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00085434,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00082867,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00103195,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00105025,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00048259,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00024066,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00080341,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00071925,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00044851,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.000583,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00086844,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.0026713,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00122291,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00101288,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00074338,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00010908,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00042268,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00051931,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00064655,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00098815,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00047831,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00017299,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00045003,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00128355,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00132889,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00112468,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00126212,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.0012575,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00168279,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00243619,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00238551,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0013457,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00103487,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00168836,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00173911,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.000495,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00068607,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00010965,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00033176,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00064089,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00015794,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00031863,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.00058633,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00093071,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00095862,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00127242,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00090184,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00025746,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00014325,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00017532,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00030766,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.0003826,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00036822,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT"
+  }
+]

@@ -1,0 +1,4570 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": -0.00007218,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": -0.00071914,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": -0.00134703,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.00004197,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": -0.00060322,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.00009075,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": -0.00038066,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.00007627,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.00008651,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": -0.00007013,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": -0.00011563,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": -0.00066024,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": -0.00017932,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": -0.00027887,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": -0.00007611,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": -0.00022123,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": -0.00018048,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.00006789,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00014829,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00013705,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00063717,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": -0.00007927,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00007551,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00037029,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00146206,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00011893,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00014564,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": -0.0003992,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00014146,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": -0.00008325,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": -0.00004394,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.00048936,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0000122,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": -0.00598768,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00083689,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00048215,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00033279,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.00024661,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00128406,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00054792,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00055733,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.00047726,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00019494,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": -0.00021262,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.00016757,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.00080236,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00084355,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00019168,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.00010222,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00021845,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.0003849,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00037309,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.0004658,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.0004649,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00030961,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00069908,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00045388,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00051351,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00051337,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00123052,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.0006189,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00038931,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00017056,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00025292,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00051347,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00052696,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00036902,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00015695,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.0002973,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00036291,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00018283,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00089633,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00067936,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.0008579,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00063826,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00052118,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00118513,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00076103,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00055751,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.0002407,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00012199,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.0003595,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00026232,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00039052,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00082333,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00096071,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00100629,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.0007694,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00089476,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00068074,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00151389,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00119964,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00072334,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00085132,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00045094,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00037658,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00020198,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00047299,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00058815,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00066096,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00110268,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00134375,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00115593,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00080455,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00057338,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00016751,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00071098,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00046847,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00037014,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00130954,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00313927,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00139426,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00080404,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00147722,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00057021,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00072072,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00063111,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00107793,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00137415,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00096877,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00074452,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00033743,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00036401,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00012927,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.00025719,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00038698,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00068241,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00028433,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00029047,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00090907,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00012684,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00021194,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00019654,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00033649,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.00037621,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.0001733,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00040978,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00041222,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.00027976,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00018144,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00029668,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT"
+  }
+]

@@ -1,0 +1,1522 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00015757,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.00268926,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": -0.00186593,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00138052,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.00127784,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.00132168,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00060838,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00120998,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00032738,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00048969,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00005746,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00094927,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": -0.00026524,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00094819,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": -0.00024653,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00004037,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.00122486,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": -0.0000075,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00043575,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00047134,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00004162,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00021717,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.0026266,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": -0.00121885,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00249096,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00144536,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00148553,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": -0.00176974,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00020131,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": -0.00040747,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00037954,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": -0.00065842,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00005111,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": -0.00120577,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": 0.00037218,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": -0.00135236,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0019886,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00137703,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00127062,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00104969,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00204676,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": -0.00155181,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00125205,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": -0.00089974,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": -0.00041206,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": -0.00015075,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": -0.00132255,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": -0.00005634,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": -0.00040234,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": -0.00133777,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": -0.00139569,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00018702,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": -0.0006902,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00012447,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00136752,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": -0.00041398,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00248584,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00046249,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.0000803,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.0007131,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00058423,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": -0.00005802,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00022765,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": -0.00003655,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00012691,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00029502,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00038352,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00039249,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00046075,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00003807,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00028636,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00028469,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00038028,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00074378,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00052026,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00183356,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": -0.0001168,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00090011,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00018617,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00066199,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00047867,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": -0.00013841,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.000755,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00050051,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00172355,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00201797,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00053311,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00098986,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00068164,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.0009382,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00091391,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00088274,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00113935,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00095737,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00092906,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00100559,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.000824,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00057696,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00063845,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00095501,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00057685,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00071054,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00044855,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00061862,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00080716,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00139161,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00055583,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00068219,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00005441,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.0006683,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00037185,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00042113,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00052397,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00032202,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00031417,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00031602,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00039755,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00035302,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00040577,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00040821,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00046501,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00029674,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.0004878,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00005826,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00006441,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00010568,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00010628,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": -0.00015389,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00027187,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": -0.00017188,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00054862,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00016434,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": -0.00046385,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": -0.0004584,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0004974,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00007779,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00026811,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00014443,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": -0.00044897,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": -0.00013422,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00034407,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00036461,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00064274,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00073624,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00025695,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00031593,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.000132,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00039954,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": -0.00006393,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00021289,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0002657,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.0000663,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00105174,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00046644,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00059211,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00015899,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00034645,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.000289,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00023993,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00049352,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": -0.00013264,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.0000463,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00008652,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00012919,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00050885,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00041002,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00032105,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00035826,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0004737,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00042485,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00042973,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00028029,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00035319,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00046082,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00025428,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00064233,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00056038,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00052669,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00062009,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.0005151,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00080214,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00059548,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00083179,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGO-USDT-SWAP"
+  }
+]

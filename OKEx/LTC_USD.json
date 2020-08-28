@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": -0.00041259,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00029655,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": -0.00022272,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.00037352,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": 0.00007114,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": -0.00003695,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.00010848,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00008336,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00013454,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00042843,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00005685,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00024579,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": -0.00010541,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.000159,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00016007,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00003347,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": -0.00010959,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00014344,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00043686,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001491,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": -0.0004542,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00041843,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": -0.00035588,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00028877,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": -0.00019755,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00067219,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0001928,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00018566,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": -0.00000592,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00019718,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00012418,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00054747,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00008117,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00026791,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00044016,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00056072,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.00003555,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": -0.00000243,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00001602,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": -0.00003111,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": -0.00022087,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00033139,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": -0.00006876,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.00009572,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00016441,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00018225,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": -0.00004355,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": -0.00012751,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00029449,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00034398,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.0005065,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00004725,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00014156,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00048147,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00031725,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00007947,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00082958,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": -0.00000418,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00042972,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00028442,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00034993,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": -0.00004183,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": -0.00024612,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00036916,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00052284,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00023933,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00008836,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00046185,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.00005426,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00022365,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00011937,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.00008211,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00012966,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.00016161,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00016736,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00005773,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00016728,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00003389,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00000972,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00005319,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": -0.00008832,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00037635,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00004963,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00019968,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00019576,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00015776,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00037718,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00016924,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00008337,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00037725,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00011386,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00007023,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00013522,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.00017474,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00001832,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": -0.00004466,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00009008,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00009887,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00019444,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.0000786,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": -0.00007111,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00025922,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00026132,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.0001653,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00005172,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": -0.00013939,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00038026,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00005907,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00015167,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00006143,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00017031,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00003653,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00008981,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00041867,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00020868,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00040195,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00032818,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00022299,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00044206,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00018501,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00032074,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00023288,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00029982,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00031813,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.0000756,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00068106,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00011249,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00044804,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00029515,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00007673,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00018665,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": -0.00007355,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00018317,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": -0.00009943,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00018802,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0002387,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00003661,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00014326,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00023446,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": -0.000042,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00033163,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00004524,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00000479,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": -0.00004708,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00041644,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00005953,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00025846,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00026763,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00008288,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00036596,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00018172,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00016273,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00026424,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00050442,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00030449,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00021653,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00050347,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00060898,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00030887,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00041425,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00035859,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00051225,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00077433,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00059698,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00027453,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.0008837,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00033508,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00053837,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00065983,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00073222,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00039471,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00059196,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00045711,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00020365,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00048366,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00029974,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00040028,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00026902,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00060685,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00005971,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00024813,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00026217,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00048342,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00038428,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.0003521,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00019878,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00054493,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00041832,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00035578,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00034046,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00062095,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00025864,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00060887,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00013897,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00016457,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00010936,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00021251,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00028327,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00046746,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00026131,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00021268,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00060975,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00027603,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.0006638,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00047923,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00015,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00001753,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.0003088,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": -0.00014398,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00058268,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00028756,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": -0.00023289,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00061362,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00031893,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00079623,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00013913,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00065294,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00046077,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00054035,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00046165,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00059734,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00045569,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00040437,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00036618,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00062487,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00042447,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00023267,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0000159,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00028193,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00025799,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00015475,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00039691,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00013678,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00014288,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00053574,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00021137,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00019646,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00028687,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00022361,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00036479,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0002449,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00032549,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00014317,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00018166,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": -0.00009596,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.0003703,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00023228,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00016148,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": -0.0000944,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00019829,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00007898,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00015559,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00043713,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.0002149,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP"
+  }
+]

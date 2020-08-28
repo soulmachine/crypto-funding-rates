@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": -0.00039364,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00028106,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.00011647,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.00060366,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": 0.00023278,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.00011895,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": -0.00023467,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00054055,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.0006537,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00036426,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00026946,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00028778,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.00037332,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.00014065,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00007506,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00013327,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": -0.00057776,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00008109,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00063376,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00001773,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": -0.00016557,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00047557,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": -0.00061165,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00079102,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": -0.00028553,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00112683,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00011125,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00058847,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00050523,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00041773,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00071621,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00072565,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00027887,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00043625,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00063286,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00072986,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": -0.00036246,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00005619,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00000473,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00022819,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": -0.00025633,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00069233,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": 0.0002176,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.00057615,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00061971,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": -0.00011306,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00020229,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": -0.0009728,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0005182,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00045854,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00063119,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00027769,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00051018,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00046795,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00031854,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00040323,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00105022,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00006087,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00024678,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00008895,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.00025736,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": -0.00001514,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00064854,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00015368,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.00002979,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00020362,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00007257,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.00019171,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00001811,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00061804,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.00001238,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.0003663,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00010952,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00016784,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.00038486,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00007345,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00045647,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.00006894,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00024592,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00030673,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00093499,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00016644,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": -0.00021847,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00060552,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00033278,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.00090568,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": -0.00000666,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00050252,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0004829,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00020163,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": -0.00013187,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0002767,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00030062,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.00001806,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00013896,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": -0.00009945,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00020257,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00020841,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00018997,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00004461,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0008925,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00004033,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00050723,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00001671,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00062565,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00026962,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00059079,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00020598,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.00050815,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00049885,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00049069,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00038783,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00054697,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00038004,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": -0.0002821,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00092561,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00031585,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00016539,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00037516,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00008099,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00064376,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": -0.00001292,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00038137,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00028519,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00021942,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00073166,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00039405,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00038168,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00038785,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": -0.00000447,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00031568,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00022896,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00044875,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": -0.00047779,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00049398,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00032322,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00013577,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00043638,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00021496,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00037907,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00036596,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00025289,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.00001102,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00034433,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0002478,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00000607,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00012336,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0001234,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00046337,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0003806,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00041377,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00022875,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00027696,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00029536,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": -0.00047399,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00060448,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00069035,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00029471,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00036331,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00064222,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00022005,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00011884,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00040965,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00045571,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00009048,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00112767,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00029247,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00050768,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00075344,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00090119,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": -0.00022528,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": -0.0001016,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.0003815,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00032932,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00056139,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.0002307,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.000299,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00020911,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00015041,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": -0.00024817,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00022248,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00020717,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00022238,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": -0.00003092,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": -0.00006782,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00006833,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00034434,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": -0.00015314,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00032651,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": -0.00022196,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00028207,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00017058,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00022736,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": -0.00056024,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00035548,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": -0.00082689,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": -0.0007395,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00232506,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": -0.00079924,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.0002376,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": -0.00021953,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00042571,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00031795,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00041399,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00045235,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00021454,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00038116,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00037153,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": -0.00014657,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": -0.00000584,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": -0.00045562,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": -0.00278162,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00072304,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": -0.000186,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00056131,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00026627,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00046621,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": -0.00001923,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00042196,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00009747,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00021749,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00008853,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00041205,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00096436,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.000681,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": -0.00011599,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00055571,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00022101,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00084212,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00002183,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00061946,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00059803,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00057968,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00059695,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.0007419,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00040581,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00031244,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0011894,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.0003312,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00043904,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00035642,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00015199,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00050994,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00055595,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00049424,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00045619,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.0004552,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00042658,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.000066,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00044421,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00015956,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00077339,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00087292,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00034473,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP"
+  }
+]

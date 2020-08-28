@@ -1,0 +1,4770 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.00102193,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00480755,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.0039611,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00412487,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.00337644,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00432986,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.00146944,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00034078,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.0003671,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00161249,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.0022418,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00150575,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00127102,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00046601,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.00134864,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.00194365,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.00074245,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.00036986,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.00039939,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.00009332,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.00352841,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.00120998,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.00057501,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.0001351,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00037343,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00002238,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.00012655,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.00112874,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.00125724,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": -0.00091598,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": -0.0003379,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00087578,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": -0.00046487,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": -0.0006701,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": -0.00048122,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.00028469,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.00046023,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.00013729,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.00117048,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.00018794,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.00083217,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.00191815,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.00143952,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.00110512,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": -0.00171042,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.00034014,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.00026179,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.00067353,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": -0.00135831,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": -0.00007758,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": -0.00094723,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": -0.00042952,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.00075379,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": -0.00041519,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.00035523,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.0000535,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": -0.00090157,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": -0.00045092,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": -0.00010922,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": -0.0002179,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.00040252,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": -0.00067386,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": -0.0012485,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": -0.00050031,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.00003552,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": -0.0001801,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": -0.00086966,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.00043999,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": -0.00247921,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.00069437,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": -0.00094203,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": -0.00118798,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.00067567,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.00015656,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": -0.0012259,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": -0.00129117,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": -0.0004077,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": -0.0000532,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.00087752,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.00011694,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.00056605,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.00049456,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": -0.00015213,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.00043527,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.00122297,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.00028516,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.00111829,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.00045413,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": -0.00015349,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": -0.00117191,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.00006482,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": -0.00017014,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": -0.00002065,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": -0.00021492,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.00035819,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": -0.00076127,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.00118273,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.00040235,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": -0.00028495,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.00066941,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.00017737,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.00053914,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.00182905,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.00026659,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.00084117,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00074938,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00086881,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.00092395,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00163542,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00056533,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0003359,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.00024856,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00017258,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00062974,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00020863,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00046467,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00023663,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.00057941,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00040703,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00019783,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00042331,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00063959,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00010672,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00158009,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00087457,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.00051924,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00017219,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00090301,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00081807,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00070378,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00154943,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00067442,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00117306,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00036557,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0002574,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0009752,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": -0.00037936,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00038386,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.00019876,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00070079,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00019448,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00035779,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00028533,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00014907,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0010569,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.00079206,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00003734,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00008398,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.00140675,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00010725,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00056899,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.00030201,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00045138,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00084078,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00075837,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00011245,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.00019686,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.00021982,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.00036292,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.00072046,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.00039309,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.00040339,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.00029119,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.00124754,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.00110014,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": -0.00065895,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.00006968,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": -0.00005556,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": -0.0002393,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.000631,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.00118724,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.00158008,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0015797,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.00052605,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.00017271,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.00034126,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.00035319,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": -0.00019739,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.00083242,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.00019661,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.00044542,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.00031332,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.00029793,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.00029433,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.00092376,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.00069003,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.00213032,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.00025062,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.00157559,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.00327117,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.00051269,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.00324347,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.00138709,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.00028845,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.00051559,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00064701,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0009673,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00095367,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00093524,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00035172,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.00050617,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00051442,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00059052,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00271784,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00253953,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.00032027,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.00166653,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.00090077,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.00209422,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.00141703,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.00015348,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.00031042,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.00012257,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.00011505,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": -0.00019867,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": -0.00023322,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.00029308,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.00054099,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": -0.00117206,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.00050407,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.00026386,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.00106224,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00085226,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00025664,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00072519,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00031292,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00063877,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00014519,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00061561,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00180387,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00043441,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00118737,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00112754,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00095678,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00054298,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00116559,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00155144,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00194459,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00092907,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00358967,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00257173,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00062739,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00045167,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00158457,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00112368,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00121031,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00020135,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00036773,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00115394,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00102503,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00032553,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00172926,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00053493,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00062738,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00027198,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00021874,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00016187,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00138707,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.0006511,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00088878,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00023752,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00095168,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00157242,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00084843,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00157386,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.0003566,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00102521,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00118286,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00168855,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00098932,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00173501,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00223036,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00077387,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00127783,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00203598,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00206651,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.0014424,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00151948,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00145697,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00094106,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00082918,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00063449,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00042303,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.0013323,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00074088,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.0013381,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00224922,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00122819,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00023002,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00128503,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00085607,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00035203,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00064029,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00168312,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00143068,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00076069,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00013583,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00069443,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": -0.00134276,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00209393,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00170791,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00013065,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00046195,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00035537,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00048913,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00056799,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00028942,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00018305,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00019232,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00052733,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00309872,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00042511,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT"
+  }
+]

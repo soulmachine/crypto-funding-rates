@@ -1,0 +1,882 @@
+[
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.000210264009651389,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.000883077753292167,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.001656991782508217,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.000116469006812246,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.001969482106345824,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.000467819746579324,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.001084553150865149,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.001550379589494318,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.001043029633614405,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.007499999999999999,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": -0.000613351536684978,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.000330526719346612,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.001156227498550205,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.000183887631991593,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.000408281606896492,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.000606641249039191,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.000697361210903541,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.000208580732717675,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.001163606015701686,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.000224262415251064,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.000715515261091393,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.001846415542834392,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.001205806057136496,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000335320992087573,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.001220714334826724,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.003234043304775602,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000416670404075486,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.002680089752640283,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.000762129216770277,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.000454228173216166,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.000267997904207571,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.000688421571721566,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000588204046391143,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000995262441323073,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.001753815108042895,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.000887180044608854,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.000894342659292427,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.000786493604427695,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.001703276538496132,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.00018007569281342,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.000986246684993349,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.000953041228140287,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.000573610886069176,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.000545759423414006,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.0001542314362209,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000060850385193268,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": -0.000034957291813245,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000767383650556163,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000232269644252832,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.000667928226605434,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.000632793506433349,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.000126929081886187,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.001718431381979456,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000370801510165956,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.001082719998540322,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": -0.000068435060764244,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.00064589830960954,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.000720502671829444,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.000356147464910866,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.000848291912672796,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD"
+  }
+]

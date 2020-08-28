@@ -1,0 +1,4938 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-04T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T08:00:00.000Z",
+    "fundingRate": 0.0001123,
+    "fundingTime": "2020-02-04T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T16:00:00.002Z",
+    "fundingRate": 0.00230561,
+    "fundingTime": "2020-02-05T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T00:00:00.000Z",
+    "fundingRate": 0.0010283,
+    "fundingTime": "2020-02-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T08:00:00.000Z",
+    "fundingRate": 0.00020394,
+    "fundingTime": "2020-02-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T00:00:00.000Z",
+    "fundingRate": 0.00200943,
+    "fundingTime": "2020-02-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T08:00:00.000Z",
+    "fundingRate": 0.00266858,
+    "fundingTime": "2020-02-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T16:00:00.000Z",
+    "fundingRate": 0.0021711,
+    "fundingTime": "2020-02-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T00:00:00.000Z",
+    "fundingRate": 0.00280852,
+    "fundingTime": "2020-02-07T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T08:00:00.001Z",
+    "fundingRate": 0.00407676,
+    "fundingTime": "2020-02-07T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T16:00:00.000Z",
+    "fundingRate": 0.00258782,
+    "fundingTime": "2020-02-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T00:00:00.000Z",
+    "fundingRate": 0.00125856,
+    "fundingTime": "2020-02-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T08:00:00.000Z",
+    "fundingRate": 0.00219921,
+    "fundingTime": "2020-02-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T16:00:00.000Z",
+    "fundingRate": 0.00215667,
+    "fundingTime": "2020-02-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T00:00:00.000Z",
+    "fundingRate": 0.00213858,
+    "fundingTime": "2020-02-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T08:00:00.000Z",
+    "fundingRate": 0.00281706,
+    "fundingTime": "2020-02-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T16:00:00.000Z",
+    "fundingRate": 0.00177846,
+    "fundingTime": "2020-02-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0.00191348,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.00148066,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.00066417,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.00081229,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.00090113,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00359718,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.00389437,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00170127,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.0010568,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00232739,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.0007434,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00016163,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00028219,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00267101,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00180483,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00221521,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00021095,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.00031882,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.00028865,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.00029688,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.00028898,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.00058907,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.00057175,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.00086411,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0002706,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.00024291,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.00047326,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.00106287,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00076033,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.00051891,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00027089,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.00073709,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.00047871,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00038049,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00073404,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.00017135,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.00006686,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": -0.000337,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.00002202,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": -0.0001131,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": -6.3e-7,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": -0.00071075,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": -0.00070063,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": -0.00043572,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": 0.00006054,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": -0.00008469,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": -0.0001356,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": -0.00121104,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": -0.00220735,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": -0.00345123,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": -0.00294106,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": -0.00177687,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": -0.00008187,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": -0.00118436,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": -0.00107737,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": -0.00045612,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.00007947,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": -0.0000301,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": -0.00196443,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": -0.00155472,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": -0.00014008,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": -0.0002874,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": -0.00073972,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": -0.0001501,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.00005928,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": -0.00024188,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": -0.00042074,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": -0.00011226,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": -0.00007132,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.00001004,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": -0.00006591,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0004579,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": -0.00022617,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.00015796,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.00028598,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.00024193,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.00014502,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.00018584,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.00047898,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.00011489,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0003924,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00022247,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00045183,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00042982,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00020105,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00043265,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00022862,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00035489,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.0010337,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00042374,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00016181,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00029411,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": -0.00038425,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00009377,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": -0.00012094,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.00052826,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00011338,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00012056,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.00020871,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00013959,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00095505,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00017637,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0005895,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00024352,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.00019486,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.00029015,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.00024821,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.00015215,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00068484,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00017908,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00056088,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00042528,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00059296,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00029857,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00011892,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00049231,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.0005629,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00041168,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.0006752,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00070807,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00056544,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00048945,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00057806,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00038429,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00054069,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00038386,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00021541,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00037267,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00051368,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00045725,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00158689,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00050924,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00018738,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00013614,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00024247,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00033287,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00032852,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00015842,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00029143,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00047472,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00026121,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.0003573,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.0007345,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00065238,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00043496,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00048313,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00074557,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.000173,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00020053,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00034891,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.0002741,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00076073,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00039165,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00018499,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00024624,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00013732,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00031485,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00031299,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00060358,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00078502,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00029931,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00042195,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00064179,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00110395,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.0006606,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00060619,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00063833,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00033806,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.000484,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00052431,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00043425,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00013825,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.00027936,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00036617,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00031565,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00011099,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT"
+  }
+]

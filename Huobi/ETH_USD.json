@@ -1,0 +1,3522 @@
+[
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-03T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-04T12:00:00.000Z",
+    "fundingRate": -0.000789973830600941,
+    "fundingTime": "2020-04-04T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-05T20:00:00.000Z",
+    "fundingRate": -0.000113941609745131,
+    "fundingTime": "2020-04-06T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-06T20:00:00.000Z",
+    "fundingRate": 0.000001548050718342,
+    "fundingTime": "2020-04-07T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-07T12:00:00.000Z",
+    "fundingRate": -0.00003528165697295,
+    "fundingTime": "2020-04-07T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-08T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T12:00:00.000Z",
+    "fundingRate": -0.000315797567987861,
+    "fundingTime": "2020-04-10T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T20:00:00.000Z",
+    "fundingRate": -0.000866428405561581,
+    "fundingTime": "2020-04-11T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T04:00:00.000Z",
+    "fundingRate": -0.000924123591648132,
+    "fundingTime": "2020-04-11T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T12:00:00.000Z",
+    "fundingRate": 0.000311154022761074,
+    "fundingTime": "2020-04-11T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T20:00:00.000Z",
+    "fundingRate": -0.000281253849135868,
+    "fundingTime": "2020-04-12T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T04:00:00.000Z",
+    "fundingRate": -0.0002710658022913,
+    "fundingTime": "2020-04-12T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T20:00:00.000Z",
+    "fundingRate": -0.000062289811679766,
+    "fundingTime": "2020-04-13T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T04:00:00.000Z",
+    "fundingRate": -0.000260308585912468,
+    "fundingTime": "2020-04-13T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T12:00:00.000Z",
+    "fundingRate": -0.000486355766943717,
+    "fundingTime": "2020-04-13T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T04:00:00.000Z",
+    "fundingRate": -0.000727708190207345,
+    "fundingTime": "2020-04-14T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T20:00:00.000Z",
+    "fundingRate": -0.000298954376205618,
+    "fundingTime": "2020-04-15T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T04:00:00.000Z",
+    "fundingRate": -0.000184379299530655,
+    "fundingTime": "2020-04-16T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T12:00:00.000Z",
+    "fundingRate": -0.000013224004601802,
+    "fundingTime": "2020-04-17T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T04:00:00.000Z",
+    "fundingRate": -0.000646674838784812,
+    "fundingTime": "2020-04-18T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T12:00:00.000Z",
+    "fundingRate": 0.000213014082426968,
+    "fundingTime": "2020-04-18T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T20:00:00.000Z",
+    "fundingRate": -0.000103750971492895,
+    "fundingTime": "2020-04-19T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T20:00:00.000Z",
+    "fundingRate": -0.000309450562797988,
+    "fundingTime": "2020-04-20T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T04:00:00.000Z",
+    "fundingRate": -0.000149547145795355,
+    "fundingTime": "2020-04-20T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T12:00:00.000Z",
+    "fundingRate": 0.000206850767806364,
+    "fundingTime": "2020-04-20T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T04:00:00.000Z",
+    "fundingRate": 0.00004678739619055,
+    "fundingTime": "2020-04-21T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T12:00:00.000Z",
+    "fundingRate": -0.00041490810126088,
+    "fundingTime": "2020-04-21T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T20:00:00.000Z",
+    "fundingRate": -0.000488417296552872,
+    "fundingTime": "2020-04-22T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T12:00:00.000Z",
+    "fundingRate": -0.000791115059349699,
+    "fundingTime": "2020-04-22T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T12:00:00.000Z",
+    "fundingRate": 0.000379425572036956,
+    "fundingTime": "2020-04-24T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T20:00:00.000Z",
+    "fundingRate": -0.000352714329201184,
+    "fundingTime": "2020-04-25T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T20:00:00.000Z",
+    "fundingRate": 0.000034353926717369,
+    "fundingTime": "2020-04-26T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T20:00:00.000Z",
+    "fundingRate": -0.000095008514201821,
+    "fundingTime": "2020-04-27T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T20:00:00.000Z",
+    "fundingRate": -0.000129547918607636,
+    "fundingTime": "2020-04-28T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T04:00:00.000Z",
+    "fundingRate": -0.000340786867377406,
+    "fundingTime": "2020-04-28T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T12:00:00.000Z",
+    "fundingRate": -0.000100547132818069,
+    "fundingTime": "2020-04-28T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T04:00:00.000Z",
+    "fundingRate": -0.000217158411873946,
+    "fundingTime": "2020-04-29T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T20:00:00.000Z",
+    "fundingRate": 0.000349858801852397,
+    "fundingTime": "2020-04-30T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T04:00:00.000Z",
+    "fundingRate": 0.000326945656305987,
+    "fundingTime": "2020-04-30T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T20:00:00.000Z",
+    "fundingRate": 0.000280885046568542,
+    "fundingTime": "2020-05-01T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T20:00:00.000Z",
+    "fundingRate": 0.000616213086292122,
+    "fundingTime": "2020-05-02T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T20:00:00.000Z",
+    "fundingRate": 0.000751301211717289,
+    "fundingTime": "2020-05-03T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T04:00:00.000Z",
+    "fundingRate": 0.000380681207980089,
+    "fundingTime": "2020-05-03T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T12:00:00.000Z",
+    "fundingRate": 0.000585127245649189,
+    "fundingTime": "2020-05-03T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T20:00:00.000Z",
+    "fundingRate": 0.000144692312796455,
+    "fundingTime": "2020-05-04T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T04:00:00.000Z",
+    "fundingRate": 0.000947713460729006,
+    "fundingTime": "2020-05-04T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T20:00:00.000Z",
+    "fundingRate": 0.000013731278447846,
+    "fundingTime": "2020-05-06T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T12:00:00.000Z",
+    "fundingRate": 0.000219237743078417,
+    "fundingTime": "2020-05-07T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T04:00:00.000Z",
+    "fundingRate": 0.000970217915493426,
+    "fundingTime": "2020-05-08T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T12:00:00.000Z",
+    "fundingRate": 0.000729369801277375,
+    "fundingTime": "2020-05-09T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T04:00:00.000Z",
+    "fundingRate": 0.000647078739512044,
+    "fundingTime": "2020-05-10T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T12:00:00.000Z",
+    "fundingRate": -0.000695088831906878,
+    "fundingTime": "2020-05-10T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T04:00:00.000Z",
+    "fundingRate": -0.00000686124197892,
+    "fundingTime": "2020-05-11T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T12:00:00.000Z",
+    "fundingRate": -0.00024565614139846,
+    "fundingTime": "2020-05-11T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T04:00:00.000Z",
+    "fundingRate": -0.000176962927333139,
+    "fundingTime": "2020-05-12T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T12:00:00.000Z",
+    "fundingRate": -0.000434446781207929,
+    "fundingTime": "2020-05-12T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T20:00:00.000Z",
+    "fundingRate": -0.000351283391383006,
+    "fundingTime": "2020-05-13T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T12:00:00.000Z",
+    "fundingRate": -0.000013708672886875,
+    "fundingTime": "2020-05-13T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T20:00:00.000Z",
+    "fundingRate": -0.000019176343808837,
+    "fundingTime": "2020-05-14T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T12:00:00.000Z",
+    "fundingRate": 0.000040257553968561,
+    "fundingTime": "2020-05-16T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T12:00:00.000Z",
+    "fundingRate": 0.000185697461595464,
+    "fundingTime": "2020-05-20T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T20:00:00.000Z",
+    "fundingRate": -0.000270449591328664,
+    "fundingTime": "2020-05-21T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T20:00:00.000Z",
+    "fundingRate": -0.000133330205555959,
+    "fundingTime": "2020-05-22T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T12:00:00.000Z",
+    "fundingRate": -0.000367864322711166,
+    "fundingTime": "2020-05-22T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T04:00:00.000Z",
+    "fundingRate": -0.000167538212161796,
+    "fundingTime": "2020-05-24T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T20:00:00.000Z",
+    "fundingRate": -0.000145847154061166,
+    "fundingTime": "2020-05-26T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T04:00:00.000Z",
+    "fundingRate": -0.000114381718576148,
+    "fundingTime": "2020-05-26T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T12:00:00.000Z",
+    "fundingRate": 0.000318625271907334,
+    "fundingTime": "2020-05-26T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T12:00:00.000Z",
+    "fundingRate": -0.00033465796796581,
+    "fundingTime": "2020-05-27T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T12:00:00.000Z",
+    "fundingRate": 0.000079077145846471,
+    "fundingTime": "2020-05-28T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T12:00:00.000Z",
+    "fundingRate": 0.000249319145583742,
+    "fundingTime": "2020-05-29T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T04:00:00.000Z",
+    "fundingRate": 0.000251603635674012,
+    "fundingTime": "2020-05-31T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T12:00:00.000Z",
+    "fundingRate": 0.00019779002246268,
+    "fundingTime": "2020-05-31T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T20:00:00.000Z",
+    "fundingRate": 0.000361988372367314,
+    "fundingTime": "2020-06-01T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T20:00:00.000Z",
+    "fundingRate": -0.000027920830474865,
+    "fundingTime": "2020-06-02T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T04:00:00.000Z",
+    "fundingRate": 0.001343795865989008,
+    "fundingTime": "2020-06-02T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T04:00:00.000Z",
+    "fundingRate": 0.000106042200383163,
+    "fundingTime": "2020-06-03T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T12:00:00.000Z",
+    "fundingRate": 0.000387008483955822,
+    "fundingTime": "2020-06-05T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T04:00:00.000Z",
+    "fundingRate": 0.000165134129853809,
+    "fundingTime": "2020-06-07T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T12:00:00.000Z",
+    "fundingRate": 0.000329498103967381,
+    "fundingTime": "2020-06-07T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T20:00:00.000Z",
+    "fundingRate": -2.19095887288e-7,
+    "fundingTime": "2020-06-08T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T12:00:00.000Z",
+    "fundingRate": 0.000211850751833863,
+    "fundingTime": "2020-06-08T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T12:00:00.000Z",
+    "fundingRate": 0.000092156244814307,
+    "fundingTime": "2020-06-10T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T04:00:00.000Z",
+    "fundingRate": -0.000095524634878625,
+    "fundingTime": "2020-06-11T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T12:00:00.000Z",
+    "fundingRate": 0.000626985738762483,
+    "fundingTime": "2020-06-11T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T12:00:00.000Z",
+    "fundingRate": -0.00021378404462249,
+    "fundingTime": "2020-06-12T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T20:00:00.000Z",
+    "fundingRate": 0.00030095918624938,
+    "fundingTime": "2020-06-13T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-14T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-14T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-14T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T04:00:00.000Z",
+    "fundingRate": 0.00026467514993835,
+    "fundingTime": "2020-06-15T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T20:00:00.000Z",
+    "fundingRate": -0.000056935496604439,
+    "fundingTime": "2020-06-16T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-17T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T04:00:00.000Z",
+    "fundingRate": 0.000184428854549554,
+    "fundingTime": "2020-06-17T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-17T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T20:00:00.000Z",
+    "fundingRate": 0.000123002361931289,
+    "fundingTime": "2020-06-19T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T04:00:00.000Z",
+    "fundingRate": 0.000027427054638978,
+    "fundingTime": "2020-06-22T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T12:00:00.000Z",
+    "fundingRate": -0.000141853536441895,
+    "fundingTime": "2020-06-22T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T04:00:00.000Z",
+    "fundingRate": 0.000231928982409942,
+    "fundingTime": "2020-06-29T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T20:00:00.000Z",
+    "fundingRate": -0.000256291607436125,
+    "fundingTime": "2020-07-02T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-02T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-02T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T12:00:00.000Z",
+    "fundingRate": 0.00008414776891659,
+    "fundingTime": "2020-07-06T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T12:00:00.000Z",
+    "fundingRate": 0.000061041013482873,
+    "fundingTime": "2020-07-08T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T20:00:00.000Z",
+    "fundingRate": 0.000076301605377024,
+    "fundingTime": "2020-07-09T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T04:00:00.000Z",
+    "fundingRate": 0.00020816174740382,
+    "fundingTime": "2020-07-09T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-10T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-10T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-10T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T04:00:00.000Z",
+    "fundingRate": -0.000389230680507077,
+    "fundingTime": "2020-07-12T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T12:00:00.000Z",
+    "fundingRate": 0.000013261742390807,
+    "fundingTime": "2020-07-13T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T04:00:00.000Z",
+    "fundingRate": 0.000249333949996466,
+    "fundingTime": "2020-07-14T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T20:00:00.000Z",
+    "fundingRate": 0.000566607166424109,
+    "fundingTime": "2020-07-16T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-16T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-16T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T12:00:00.000Z",
+    "fundingRate": -0.000114058692280072,
+    "fundingTime": "2020-07-18T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T20:00:00.000Z",
+    "fundingRate": -0.00018473178843859,
+    "fundingTime": "2020-07-20T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T12:00:00.000Z",
+    "fundingRate": -0.000938609659560083,
+    "fundingTime": "2020-07-21T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T20:00:00.000Z",
+    "fundingRate": -0.000288017440524939,
+    "fundingTime": "2020-07-22T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": -0.000302496956969974,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": -0.000606189539512839,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": -0.000510263313181645,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": -0.000296373496745003,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.000986114992869991,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.000842717088147583,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000765591817625433,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.001637302676046007,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.000641757510038996,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.000572885712650335,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.000157860127085159,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.000331236126979765,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.000708214771940536,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.000129004490959314,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.000459845010215816,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.000465895973383733,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.001181005595793401,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.000243186635758806,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.002086193713348224,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.000336952471695653,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": 0.000918691859232211,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.000452133365313958,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000448121712628025,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.0009144992820686,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.000489655092634457,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.000354253875257529,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.00012187983191932,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.000532270464853873,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.000469696682168644,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.000355424661362838,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": -0.000175047285835007,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000223673160212035,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.000413054252576312,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.00014750297490971,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000164193423140155,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.000244814578591812,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.00047266691139128,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.001113956864807788,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000152147693355137,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.001085801693343525,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.000960996696348495,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.000403693025215637,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.000848604133817276,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.000856790198904845,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.000335307076552168,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.001146103649212253,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.0008047912271351,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.000783301316170732,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.000613203054998933,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.000840915400628897,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.000141240991400843,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.00020757431050666,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000757572004526415,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.000427744193598832,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.000254524347774406,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.000217828292270735,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000186561590219419,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000435076086248531,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.000673715678302813,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.000250431210038608,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.000397234194611462,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD"
+  }
+]

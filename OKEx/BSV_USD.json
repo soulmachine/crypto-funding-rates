@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": -0.00040025,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00031692,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.00052808,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.00036627,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": 0.0009103,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": -0.00053792,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.00049147,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00019211,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00034826,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00032971,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": -0.00002049,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00018401,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.00008777,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": -0.00042481,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00031326,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": -0.00054817,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": 0.00061088,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": -0.00022776,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00027227,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0006272,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": -0.00032173,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00030191,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": -0.00020056,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00019435,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": -0.00053758,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00141736,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0000808,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00024252,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00126686,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00018505,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": -0.00025406,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.0011584,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": -0.00001658,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00065775,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00025019,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00076909,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": -0.00044927,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00018199,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": -0.00036445,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": -0.00022308,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00020103,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00020842,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": -0.00002656,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.00015309,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00040772,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": -0.00020741,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00029626,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00002836,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00041898,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00027834,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00117254,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00019064,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": -0.000037,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00056032,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00005215,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": -0.00008424,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.0003678,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00070128,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00062414,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00043992,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00010126,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.00059322,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": -0.0001644,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00010754,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00000988,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00004679,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00031015,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00026588,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00023034,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00064132,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.0003166,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.00064437,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00016597,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00042332,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00000746,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00022245,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00016694,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.00020167,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00017326,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00061785,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00067201,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00013725,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0004046,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00040475,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00008554,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00003447,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00053521,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00013921,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00030828,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00060619,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00047564,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00043458,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00029265,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.0000784,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00038514,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00010229,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00011128,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00015372,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.00028827,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00008504,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00048149,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00011347,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00048766,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00088829,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00036629,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00003206,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00025219,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0002499,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00026975,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00022819,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": -0.00033064,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00005213,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00035215,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00042105,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00034187,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00060942,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00037849,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0000115,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00027795,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00049905,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": -0.00007415,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00026335,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00025446,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00007724,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": -0.0000251,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00142237,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00005074,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00009591,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00023894,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": -0.00015173,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.000283,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00001554,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": -0.00005957,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": -0.00035407,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00057699,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": -0.00006538,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00059614,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": -0.00038547,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00010817,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": -0.00024961,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.0005973,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": -0.00007343,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00015223,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00033028,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": -0.00006736,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00020208,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": -0.00002078,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": -0.00031006,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00037082,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00016223,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00030716,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00007914,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00014729,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00006491,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00033692,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00057877,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00050731,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.0005221,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00029735,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00055227,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00056784,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00116016,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00157914,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.001031,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00018107,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00093904,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00052315,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00022118,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.0011095,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00169816,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00088228,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00045676,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00048295,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": -0.00018595,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00099311,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00077568,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00107373,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00019142,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00032881,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": -0.00004786,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.0004248,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00027219,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00037242,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00063619,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00022232,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00032119,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00043395,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": -0.00009315,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00025734,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00041028,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00035925,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": -0.0001073,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00059892,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": -0.00004787,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00024394,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00032637,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.000696,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.0004761,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00071894,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.0004363,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": -0.00004951,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00083092,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00079384,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00087344,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00081709,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": -0.00064611,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00054501,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00030179,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": -0.00026027,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00055559,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00025225,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00129527,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00044283,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00101537,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00047599,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00059965,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00084494,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00111319,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.0015385,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00072543,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00101924,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0009001,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.0003472,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00130374,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00076217,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00125441,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": -0.00025855,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00002364,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00013437,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": -0.00036051,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00037123,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00068876,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00009573,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": -0.00015821,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.0007484,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00042979,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0000822,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": -0.00011758,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00059886,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": -0.00014797,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.00003352,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": -0.0001229,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00039958,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00013058,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00006606,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 4.4e-7,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00039797,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00021107,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": -0.00043537,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00039062,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": -0.00038682,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": -0.00009726,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00039768,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00039655,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD-SWAP"
+  }
+]

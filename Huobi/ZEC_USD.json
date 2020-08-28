@@ -1,0 +1,3018 @@
+[
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T12:00:00.000Z",
+    "fundingRate": 0.000161019178217836,
+    "fundingTime": "2020-05-01T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T12:00:00.000Z",
+    "fundingRate": 0.000323170017446995,
+    "fundingTime": "2020-05-05T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T04:00:00.000Z",
+    "fundingRate": 0.001861831992677291,
+    "fundingTime": "2020-05-08T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T12:00:00.000Z",
+    "fundingRate": 0.000727543450270947,
+    "fundingTime": "2020-05-08T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T04:00:00.000Z",
+    "fundingRate": 0.000728860865782949,
+    "fundingTime": "2020-05-09T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T04:00:00.000Z",
+    "fundingRate": 0.000122630822789872,
+    "fundingTime": "2020-05-13T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T04:00:00.000Z",
+    "fundingRate": 0.000167191771442974,
+    "fundingTime": "2020-05-14T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T12:00:00.000Z",
+    "fundingRate": 0.000427493983866719,
+    "fundingTime": "2020-05-14T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T20:00:00.000Z",
+    "fundingRate": 0.0001988679308244,
+    "fundingTime": "2020-05-15T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T12:00:00.000Z",
+    "fundingRate": 0.000382647973544339,
+    "fundingTime": "2020-05-15T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T20:00:00.000Z",
+    "fundingRate": 0.00053867729334561,
+    "fundingTime": "2020-05-16T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T20:00:00.000Z",
+    "fundingRate": 0.000396347818117306,
+    "fundingTime": "2020-05-17T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T12:00:00.000Z",
+    "fundingRate": 0.000191281654525694,
+    "fundingTime": "2020-05-17T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T20:00:00.000Z",
+    "fundingRate": 0.001445699078722294,
+    "fundingTime": "2020-05-18T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T12:00:00.000Z",
+    "fundingRate": 0.00062254026296833,
+    "fundingTime": "2020-05-18T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T04:00:00.000Z",
+    "fundingRate": 0.000833788250968842,
+    "fundingTime": "2020-05-20T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T12:00:00.000Z",
+    "fundingRate": 0.001353931569015793,
+    "fundingTime": "2020-05-20T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T04:00:00.000Z",
+    "fundingRate": 0.001435454117208132,
+    "fundingTime": "2020-05-21T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T12:00:00.000Z",
+    "fundingRate": 0.000995680293495738,
+    "fundingTime": "2020-05-21T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T04:00:00.000Z",
+    "fundingRate": 0.000247174158575755,
+    "fundingTime": "2020-05-22T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T12:00:00.000Z",
+    "fundingRate": 0.000340545549879191,
+    "fundingTime": "2020-05-22T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T12:00:00.000Z",
+    "fundingRate": 0.000148474773291718,
+    "fundingTime": "2020-05-23T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T04:00:00.000Z",
+    "fundingRate": 0.000752827122100177,
+    "fundingTime": "2020-05-24T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T12:00:00.000Z",
+    "fundingRate": 0.001133065238471385,
+    "fundingTime": "2020-05-24T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T04:00:00.000Z",
+    "fundingRate": 0.000418684610262701,
+    "fundingTime": "2020-05-25T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T12:00:00.000Z",
+    "fundingRate": 0.00049216871343038,
+    "fundingTime": "2020-05-25T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T12:00:00.000Z",
+    "fundingRate": 0.000577252831016542,
+    "fundingTime": "2020-05-26T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T04:00:00.000Z",
+    "fundingRate": 0.000425377041357036,
+    "fundingTime": "2020-05-27T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T12:00:00.000Z",
+    "fundingRate": -0.000353459737024594,
+    "fundingTime": "2020-05-27T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T20:00:00.000Z",
+    "fundingRate": 0.000228948212443973,
+    "fundingTime": "2020-05-28T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T04:00:00.000Z",
+    "fundingRate": 0.00072418047239212,
+    "fundingTime": "2020-05-28T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T12:00:00.000Z",
+    "fundingRate": 0.000916152188062194,
+    "fundingTime": "2020-05-29T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T04:00:00.000Z",
+    "fundingRate": 0.001018580526922795,
+    "fundingTime": "2020-05-30T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T20:00:00.000Z",
+    "fundingRate": 0.000768808765347789,
+    "fundingTime": "2020-05-31T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T04:00:00.000Z",
+    "fundingRate": 0.000798874965316174,
+    "fundingTime": "2020-05-31T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T12:00:00.000Z",
+    "fundingRate": 0.001156291004888621,
+    "fundingTime": "2020-05-31T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T04:00:00.000Z",
+    "fundingRate": 0.001112586094420282,
+    "fundingTime": "2020-06-02T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T12:00:00.000Z",
+    "fundingRate": 0.001050139560266738,
+    "fundingTime": "2020-06-02T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T04:00:00.000Z",
+    "fundingRate": 0.000692165805520907,
+    "fundingTime": "2020-06-03T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T12:00:00.000Z",
+    "fundingRate": -0.000590220290897907,
+    "fundingTime": "2020-06-03T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T12:00:00.000Z",
+    "fundingRate": 0.000274473623795313,
+    "fundingTime": "2020-06-04T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T04:00:00.000Z",
+    "fundingRate": 0.000221406544462664,
+    "fundingTime": "2020-06-05T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T12:00:00.000Z",
+    "fundingRate": 0.000703086631555436,
+    "fundingTime": "2020-06-05T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T20:00:00.000Z",
+    "fundingRate": 0.000331278977587268,
+    "fundingTime": "2020-06-06T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T04:00:00.000Z",
+    "fundingRate": 0.00055708206398038,
+    "fundingTime": "2020-06-06T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T12:00:00.000Z",
+    "fundingRate": -0.000150378259330522,
+    "fundingTime": "2020-06-06T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T04:00:00.000Z",
+    "fundingRate": 0.000841204537464473,
+    "fundingTime": "2020-06-07T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T20:00:00.000Z",
+    "fundingRate": 0.000057446062212807,
+    "fundingTime": "2020-06-08T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T04:00:00.000Z",
+    "fundingRate": 0.000543881505636151,
+    "fundingTime": "2020-06-08T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T12:00:00.000Z",
+    "fundingRate": -0.001354918220533922,
+    "fundingTime": "2020-06-08T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T20:00:00.000Z",
+    "fundingRate": 0.001617033318923772,
+    "fundingTime": "2020-06-09T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T12:00:00.000Z",
+    "fundingRate": 0.000359648124261831,
+    "fundingTime": "2020-06-10T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T20:00:00.000Z",
+    "fundingRate": 0.000700937965724765,
+    "fundingTime": "2020-06-11T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T12:00:00.000Z",
+    "fundingRate": 0.000435235772617399,
+    "fundingTime": "2020-06-11T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T04:00:00.000Z",
+    "fundingRate": 0.000540287382495808,
+    "fundingTime": "2020-06-12T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T20:00:00.000Z",
+    "fundingRate": -0.000364868960201114,
+    "fundingTime": "2020-06-14T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T04:00:00.000Z",
+    "fundingRate": 0.000627122374973567,
+    "fundingTime": "2020-06-14T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T12:00:00.000Z",
+    "fundingRate": 0.000331149366391959,
+    "fundingTime": "2020-06-14T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T12:00:00.000Z",
+    "fundingRate": 0.000426207914916387,
+    "fundingTime": "2020-06-15T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-17T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T04:00:00.000Z",
+    "fundingRate": 0.000745245732556075,
+    "fundingTime": "2020-06-17T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-17T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T20:00:00.000Z",
+    "fundingRate": 0.000241449807006179,
+    "fundingTime": "2020-06-18T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T04:00:00.000Z",
+    "fundingRate": 0.000118406600224641,
+    "fundingTime": "2020-06-18T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T20:00:00.000Z",
+    "fundingRate": 0.000559357869714171,
+    "fundingTime": "2020-06-19T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T04:00:00.000Z",
+    "fundingRate": 0.000162950539195373,
+    "fundingTime": "2020-06-19T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T04:00:00.000Z",
+    "fundingRate": 0.001321106351726827,
+    "fundingTime": "2020-06-20T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T04:00:00.000Z",
+    "fundingRate": 0.000826302337216871,
+    "fundingTime": "2020-06-21T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T20:00:00.000Z",
+    "fundingRate": 0.000327925587448493,
+    "fundingTime": "2020-06-23T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T04:00:00.000Z",
+    "fundingRate": 0.00060774880633694,
+    "fundingTime": "2020-06-23T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T04:00:00.000Z",
+    "fundingRate": 0.000587703012920147,
+    "fundingTime": "2020-06-24T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T12:00:00.000Z",
+    "fundingRate": 0.000423331692152226,
+    "fundingTime": "2020-06-24T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T04:00:00.000Z",
+    "fundingRate": 0.000851509701034603,
+    "fundingTime": "2020-06-25T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T04:00:00.000Z",
+    "fundingRate": 0.00080919336089916,
+    "fundingTime": "2020-06-26T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T12:00:00.000Z",
+    "fundingRate": 0.000212636915475215,
+    "fundingTime": "2020-06-26T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T04:00:00.000Z",
+    "fundingRate": 0.000896111500360025,
+    "fundingTime": "2020-06-27T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T12:00:00.000Z",
+    "fundingRate": 0.000099898322318251,
+    "fundingTime": "2020-06-27T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T04:00:00.000Z",
+    "fundingRate": 0.00044250679553447,
+    "fundingTime": "2020-06-29T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T04:00:00.000Z",
+    "fundingRate": 0.000383162693291177,
+    "fundingTime": "2020-06-30T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T20:00:00.000Z",
+    "fundingRate": 0.000183777986383237,
+    "fundingTime": "2020-07-01T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T04:00:00.000Z",
+    "fundingRate": 0.000159934993519714,
+    "fundingTime": "2020-07-01T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-02T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-02T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-02T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T04:00:00.000Z",
+    "fundingRate": 0.000196047054908905,
+    "fundingTime": "2020-07-03T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T12:00:00.000Z",
+    "fundingRate": 0.000157035810911183,
+    "fundingTime": "2020-07-05T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T20:00:00.000Z",
+    "fundingRate": -0.000029003729164183,
+    "fundingTime": "2020-07-06T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T04:00:00.000Z",
+    "fundingRate": 0.000331549885405654,
+    "fundingTime": "2020-07-07T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T04:00:00.000Z",
+    "fundingRate": 0.000337997803797477,
+    "fundingTime": "2020-07-08T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T04:00:00.000Z",
+    "fundingRate": 0.000263568833814095,
+    "fundingTime": "2020-07-09T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T20:00:00.000Z",
+    "fundingRate": 0.000216158578096814,
+    "fundingTime": "2020-07-10T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T04:00:00.000Z",
+    "fundingRate": 0.000479638531419715,
+    "fundingTime": "2020-07-10T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-10T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T04:00:00.000Z",
+    "fundingRate": 0.000123570590840834,
+    "fundingTime": "2020-07-13T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T12:00:00.000Z",
+    "fundingRate": 0.000405352525971611,
+    "fundingTime": "2020-07-14T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T12:00:00.000Z",
+    "fundingRate": 0.000254389116833622,
+    "fundingTime": "2020-07-15T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T20:00:00.000Z",
+    "fundingRate": 0.000639257876943872,
+    "fundingTime": "2020-07-16T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T04:00:00.000Z",
+    "fundingRate": 0.000539247712286141,
+    "fundingTime": "2020-07-16T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T12:00:00.000Z",
+    "fundingRate": 0.000155457039511771,
+    "fundingTime": "2020-07-16T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T20:00:00.000Z",
+    "fundingRate": 0.000272368735959991,
+    "fundingTime": "2020-07-18T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T04:00:00.000Z",
+    "fundingRate": 0.000121193226975212,
+    "fundingTime": "2020-07-19T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T04:00:00.000Z",
+    "fundingRate": 0.001320936719369006,
+    "fundingTime": "2020-07-21T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T12:00:00.000Z",
+    "fundingRate": -0.000888473265342733,
+    "fundingTime": "2020-07-21T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000156691981359226,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.000860895380122485,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.000302392871741624,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": 0.000152366878356827,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.000474117348170755,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.001371789713945294,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000653050482284231,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.000585350533730568,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.000500083464891777,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.002228428152450104,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.001541083385076046,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.002780257550515754,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.000468139714057162,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.001466373310687406,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.001814791392901015,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.001979502044015725,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.001302266873540663,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.003676210840641636,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.007470691690183821,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": -0.001462484235545029,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.000494075486775579,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000567197505553087,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.001420328692848428,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.000692413834404996,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.001724932976978161,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.000275073161787414,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.00070407667548167,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.000658029899394858,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.001533838091990333,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.001874830585601872,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000725660136195439,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.000202250887248622,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.002027394485338179,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.001529586609448892,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.000928477977175402,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.000361959191526654,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000972197894578298,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.001413761619484891,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.00069400149082806,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.001493570847467002,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000500799006026078,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.000310773836016191,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.00177600204861983,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.002085810873474676,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.000454402899257421,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.0022840691894136,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.00133070278758696,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.000723807664502889,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.000513299117236385,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.00133511109116544,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.000807893967445609,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.002600949635681048,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.001205823017262983,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.00072870506220483,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000428368155686833,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.000039335493468492,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.000151321133579964,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.000937543283492206,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.000651323904823295,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000219807607846092,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000440090726864162,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.001020396542598468,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.000816328011986685,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.000317866605698168,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.000173134768923639,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.000397179672834605,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.000851308634260839,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD"
+  }
+]

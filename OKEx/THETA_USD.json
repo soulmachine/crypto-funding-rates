@@ -1,0 +1,810 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00066646,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00143255,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00011976,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00040903,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00074316,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00166361,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00052604,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": -0.00066847,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00010004,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": -0.00015105,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": -0.00023774,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": -0.00026547,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00124434,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00106338,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00094653,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00164386,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00167134,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00107614,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00052371,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00076109,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00053743,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00173952,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00157208,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00163329,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00082425,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": -0.00046589,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00002098,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00042994,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00005256,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00100815,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": -0.0002587,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00190435,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00008981,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00177408,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00029442,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00179336,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00018316,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00146291,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00094242,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00072187,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00083702,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00025935,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00018826,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00050637,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.0018101,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": -0.00042017,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00260367,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00120645,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00027679,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00171014,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.0012383,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00117377,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00046545,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": -0.00010141,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00029815,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00012597,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00288039,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": -0.0002925,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00178313,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": -0.0010394,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00282493,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": -0.00012336,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00158271,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00157857,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00100353,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00131168,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.0010686,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": -0.00021772,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00025415,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": -0.00057541,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": -0.00003003,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00050869,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00024542,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00040548,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.0006789,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00017705,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": -0.00046373,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0003038,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": -0.00015246,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00074733,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00086441,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0008591,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00003562,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": -0.00028532,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00041833,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00027598,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.00018202,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00032083,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": -0.00079159,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00169217,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": -0.00100255,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00199957,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": -0.00022363,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00086563,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": -0.0007833,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00147443,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": -0.00060279,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00007601,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00027062,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": -0.00006455,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP"
+  }
+]

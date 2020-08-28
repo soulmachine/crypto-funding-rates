@@ -1,0 +1,4938 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-04T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-04T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T08:00:00.000Z",
+    "fundingRate": 0.00043339,
+    "fundingTime": "2020-02-05T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T16:00:00.000Z",
+    "fundingRate": 0.0002082,
+    "fundingTime": "2020-02-06T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T00:00:00.000Z",
+    "fundingRate": 0.00080653,
+    "fundingTime": "2020-02-06T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T08:00:00.000Z",
+    "fundingRate": 0.00230612,
+    "fundingTime": "2020-02-06T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T16:00:00.000Z",
+    "fundingRate": 0.00294495,
+    "fundingTime": "2020-02-07T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T00:00:00.000Z",
+    "fundingRate": 0.00157251,
+    "fundingTime": "2020-02-07T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T08:00:00.001Z",
+    "fundingRate": 0.00407061,
+    "fundingTime": "2020-02-07T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T16:00:00.000Z",
+    "fundingRate": 0.00279491,
+    "fundingTime": "2020-02-08T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T00:00:00.000Z",
+    "fundingRate": 0.00133546,
+    "fundingTime": "2020-02-08T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T08:00:00.000Z",
+    "fundingRate": 0.00216647,
+    "fundingTime": "2020-02-08T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T16:00:00.000Z",
+    "fundingRate": 0.00258652,
+    "fundingTime": "2020-02-09T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T00:00:00.000Z",
+    "fundingRate": 0.00203331,
+    "fundingTime": "2020-02-09T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T08:00:00.000Z",
+    "fundingRate": 0.00232274,
+    "fundingTime": "2020-02-09T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T16:00:00.000Z",
+    "fundingRate": 0.00167637,
+    "fundingTime": "2020-02-10T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0.00087709,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.00170397,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.00187233,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.0016362,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.00107205,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.00189552,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.00357992,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00205988,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.00215033,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00307153,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.00032779,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00016377,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00116953,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00266854,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00189436,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00228777,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00012316,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.00014757,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.00126202,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.00125256,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.00158252,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.00040562,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.00018372,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.00082904,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.00022003,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.00047539,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.00051094,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00064695,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.00080841,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00075726,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.00026112,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00022717,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00033159,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.00010128,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.00046544,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.00065467,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.00015666,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00012782,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.00021947,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.00045193,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.00023215,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.00025137,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.00027392,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.00038348,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.00020118,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.00020187,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": -0.0000203,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.00011806,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0.00021418,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": -0.00029508,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": -0.00033908,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": -0.00013533,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": -0.00029849,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0.00009729,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.00007341,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": -0.0013623,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.00006627,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": -0.0013433,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": -0.00001646,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.00000799,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": -0.00008197,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": 0.00001265,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": -0.0010739,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": -0.00099002,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": -0.00023004,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": -0.00035655,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": -0.00096831,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": -0.00107588,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": -0.00044729,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": -0.00030109,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": -0.00080629,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": -0.000887,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": -0.00005891,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": -0.00006334,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.00006393,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": 0.00005187,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": -0.00015806,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0.00001998,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": -0.00042642,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": -0.00013881,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": -0.00031541,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": -0.00053636,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": -0.00215343,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": -0.0016811,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": -0.000426,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.00031734,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.00053931,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.00062187,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.000288,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00047968,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.00014763,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00030867,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00050357,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.00019388,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00061021,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.00012589,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00027025,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00034775,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.00058964,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00076438,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00035863,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00012631,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00020546,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00016733,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.00052748,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00037854,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.0015171,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00077117,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00039958,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.00013881,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": -0.00044033,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00014983,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00014603,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00037949,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.00028642,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00036993,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0003509,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00012722,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00015424,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0002964,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00144519,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00031238,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.00073183,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00051595,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00048713,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.00025899,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.00017336,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00030326,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00029733,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00031351,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.00015061,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.00011504,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.00038781,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.00032343,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.00046824,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.00015477,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.00057032,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.00018405,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.00038649,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.00020281,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.00019994,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.00011077,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.00014072,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.00021835,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.00018939,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.00020655,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.00111895,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0007103,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0000661,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.00049707,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.00100091,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00083912,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.000594,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00085467,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00065896,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00031294,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.00016891,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.00021926,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.00013419,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.00025657,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.0011159,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00111736,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00098891,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00049789,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.00059123,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.00016091,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.00015506,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.00024555,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.00072295,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.00010739,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.000583,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.00084846,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.00016308,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.00039735,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.00034541,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.00056501,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.00018187,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00042635,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.0005664,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00030575,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.0003752,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00052905,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00057301,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00052784,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00066835,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00079109,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00132225,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.0010197,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00099668,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00104574,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00104622,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00058093,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00078923,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00112391,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00107123,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00117037,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00129152,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00117455,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00102308,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.0001744,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00036443,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00066365,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00059572,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.0005367,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00029872,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00062562,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00121688,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00060671,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00048695,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00060808,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00066969,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00064589,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00059688,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00044557,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00047428,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.0003584,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00038812,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00038079,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00053803,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00073545,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00068076,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00082209,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00073894,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00055175,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00034299,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00032234,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00071897,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00076889,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00073288,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00059221,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00067542,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00135289,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00119192,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00189662,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.0014113,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00059637,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00059848,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00072275,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00082552,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00154984,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00081746,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00082824,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00081719,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00130341,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00152574,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00080427,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00100748,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.0010718,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00185898,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00117461,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.0002602,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00120388,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00096847,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.001492,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.0019789,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00130386,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00052991,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.0002331,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00028571,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0002498,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0006021,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00085926,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00081643,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00055967,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0009264,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0003527,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00036752,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00037401,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00048447,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00073513,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00063776,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.00068759,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00028603,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00034679,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00042883,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00022551,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00084082,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00036968,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00019546,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00050576,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00033629,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT"
+  }
+]

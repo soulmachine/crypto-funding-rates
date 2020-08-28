@@ -1,0 +1,2242 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": -0.0074,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.00049668,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00050199,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0010541,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.00052245,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00074016,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.00062005,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00081003,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00040486,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00042254,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00018625,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00207219,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00046151,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00203846,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00126911,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00080986,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00072745,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00188638,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00040305,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00071461,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.00103046,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": -0.0005882,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.00073396,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.00003351,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.00050575,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.00108222,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.00015341,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.00014551,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.00081647,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0009204,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": -0.0000506,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001405,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.00022446,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.00033826,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.00014789,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": -0.00018753,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.00002219,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": -0.00072024,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": -0.00004921,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.00010944,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0007645,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.00109458,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.00065438,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.00061731,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0009857,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.0013031,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0003678,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.00059605,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.00059129,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.00153798,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.00159245,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0006269,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.00158621,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.00071024,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.00050162,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0012619,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00029944,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.00016018,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00091873,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00101877,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00085828,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.00010766,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0004635,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.00061265,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.00061997,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.00048081,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.00051566,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00033297,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00034144,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00174256,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00119477,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.00026585,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.00090868,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.00141175,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0003115,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.00010864,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.00034145,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.00053073,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.00053743,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.000759,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.0003238,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00059623,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00065543,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00095076,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00049556,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00089967,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00042176,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00097207,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00083765,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00019709,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00055568,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.0007183,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00103519,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00083542,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00109128,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00013858,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00083551,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00060326,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00102958,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00050617,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00164687,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00088551,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00032981,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00032022,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00012085,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00019518,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00044337,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00093391,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00110611,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00089041,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00130233,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00058678,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00054724,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00091151,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00081299,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.0004833,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00060598,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00103355,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00048855,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00067332,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00027114,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00179619,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00183489,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00156117,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00079311,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00025186,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00051202,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.0007563,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00092633,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.0001835,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00120127,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00199361,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00038691,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00099576,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00032335,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00044447,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00064422,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00071237,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00024887,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.0005028,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00046631,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00034644,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00059611,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00014761,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00037124,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT"
+  }
+]

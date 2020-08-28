@@ -1,0 +1,1690 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001277,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00079642,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00292134,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00288432,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00223765,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": -0.00136877,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.0005025,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0000382,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.00116836,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": -0.00049967,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.00116263,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.00020769,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.00001675,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.00113137,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00045306,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.00028356,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.00036943,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00080565,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00015944,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.00106853,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00032017,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00270693,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00162509,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.00200411,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00085819,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00121913,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": -0.00031169,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00102878,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00006928,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.00111786,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00000125,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00040924,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00018838,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00012022,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00025156,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00004464,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": -0.00021003,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.00053673,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": -0.00020691,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00075,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00024623,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00088136,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": -0.00031442,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00008594,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00001431,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00070751,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00050876,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00010854,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": -0.00003618,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00069333,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": -0.00011944,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00025815,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00000216,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.00026654,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": -0.00007903,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00022678,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00024278,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": -0.0003118,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0002134,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": -0.00019724,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.00020347,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": -0.00000833,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00011483,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00004349,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": -0.00027172,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00042154,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": -0.00020488,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": -0.00080821,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": -0.00180001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00072406,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00074599,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00061232,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00081437,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00117129,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": -0.00011875,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00133961,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00252491,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": -0.00097951,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00299614,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00157626,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00248109,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": -0.0013055,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00202391,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00018632,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00084632,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00134792,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00050266,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": -0.00017297,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0005853,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00150157,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": -0.00094712,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00069085,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": -0.00085879,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00074933,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.00020634,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00107016,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00018297,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00008153,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00124972,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0003361,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00228856,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": -0.00038581,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00237841,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00032067,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00140983,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00110261,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00015638,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00129949,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00109653,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00079353,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00104299,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00088087,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00055711,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00085915,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00009679,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00106481,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00119038,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00078847,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00112953,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00060916,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00107825,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00051706,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00081237,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00174244,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00012858,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00130305,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": -0.00063988,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00145209,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00054488,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00036674,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00056343,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": -0.00031152,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00103983,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00084464,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00114571,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00047394,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00103599,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00104588,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00126154,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00106614,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00114828,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00041604,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00086902,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00104266,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00108846,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.000498,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00068251,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00100182,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00075095,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00104223,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00085105,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00012505,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00060389,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00056236,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00076164,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00083218,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00142061,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": -0.00003839,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00086285,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": -0.00006866,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00109061,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00038967,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00115263,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00071124,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.0018423,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00008569,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00167595,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00028115,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00110546,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00068312,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00057605,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00084287,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": -0.0002018,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00078824,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": -0.00011695,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00138309,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00144877,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00070986,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00010724,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00017747,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.0002761,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00019784,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00052021,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00030995,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00036781,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00030181,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00059578,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00037109,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00043338,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00032754,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00060609,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00006175,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.00257059,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": -0.0014059,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": -0.00295579,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00007107,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00071857,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00102086,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00087734,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": -0.00264669,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00001434,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00036691,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00062989,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00044445,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00082568,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00050554,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOM-USDT-SWAP"
+  }
+]

@@ -1,0 +1,1410 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": -0.00471883,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": -0.00326284,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": -0.00097768,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": -0.00037847,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": -0.00098896,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": -0.00421887,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": -0.00313869,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": -0.00312676,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": -0.00098819,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": -0.00686319,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": -0.00188069,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": -0.00155159,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": -0.0016656,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": -0.00031729,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.00082083,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.00071256,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00027374,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.00025963,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.00045396,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.00077668,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.00074499,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.00085507,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00182416,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": -0.00011493,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": -0.00046521,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0000514,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": -0.00108154,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": -0.00077592,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": -0.00003662,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": -0.00088165,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.00024475,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.00015344,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.00012811,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.00020169,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.00065862,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.00100019,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.00094606,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.00016875,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00076719,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00042763,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00102025,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.00075441,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00098382,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00123796,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00098484,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00128579,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00239897,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00128446,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00201141,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00082796,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00037851,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00022122,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": -0.0012379,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00014361,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.0004157,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00048816,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00070326,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00075767,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00117772,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00057924,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00075479,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00100746,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00055451,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00101227,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.0009227,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00184654,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": -0.00011445,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": -0.00123401,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": -0.00015176,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00003598,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": -0.0004492,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00051197,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00109524,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00085635,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00065052,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00065665,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00002515,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00077066,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00177128,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00119872,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00092868,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": -0.00109732,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": -0.00055128,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": -0.00601853,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": -0.0075,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.0002026,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00042216,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": -0.002107,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00085419,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00122325,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00075759,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00090751,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00020037,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": -0.00103415,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": -0.00020077,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": -0.00334193,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00001595,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": -0.00209173,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00033467,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00074561,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00055415,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00044055,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": -0.00017957,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00013947,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00031241,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.0004121,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00056356,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00044651,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00019837,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00016758,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": -0.00152066,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.00005144,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT"
+  }
+]

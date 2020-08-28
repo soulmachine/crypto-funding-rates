@@ -1,0 +1,1402 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": -0.0003,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00003168,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00005484,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00003678,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00057846,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00063984,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00070327,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00094221,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": -0.00113957,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00092741,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00253794,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00243329,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00245472,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": -0.00155952,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00127723,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": -0.00091778,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0005299,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": -0.00073199,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00102397,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00064218,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00059212,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": -0.00004841,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": -0.0000786,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00014078,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": -0.00048859,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.00147999,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": -0.0011111,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00118195,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": -0.00137756,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00107363,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": -0.00044935,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00055319,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": -0.00012392,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00109658,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00022,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00051189,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00063024,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00286769,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": -0.00255211,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00132243,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.00115394,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": -0.00062285,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00126152,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00073128,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00293665,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00140136,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": -0.00020591,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00291151,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0019729,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00278579,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": -0.00076369,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00196365,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00099869,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": -0.00069219,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.0020629,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": -0.00060396,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00101465,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": -0.00217232,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00171643,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00236958,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": -0.0010061,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00193591,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": -0.00034749,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00063324,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00272998,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00208515,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00267739,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00271842,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": -0.003,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00079082,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": -0.00060051,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.0002865,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00019585,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.0001866,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.0002525,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00024197,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": -0.0004,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00085386,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": -0.00036914,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00264194,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": -0.00106028,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00225373,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00075069,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00110475,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": -0.00005516,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00121812,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": -0.00013804,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00201828,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00041453,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00090637,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": -0.000081,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00039526,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00040192,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00106603,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00060148,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00038508,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00060725,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00025122,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00069269,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00016335,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00035875,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00070313,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00052798,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00075791,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00044376,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00041964,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00048347,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00076658,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00053481,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": -0.00005492,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": -0.00167181,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00003926,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.0002282,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": -0.00048612,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.0013233,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00085014,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00000659,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00165206,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00089497,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00123224,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": -0.00003258,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": -0.00021038,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00101698,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00021565,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00139261,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00012725,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00081586,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00005132,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00023829,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00191789,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": -0.00064708,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00145882,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00011885,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00110367,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.0010064,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00179161,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00064065,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00065295,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00089593,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.0009422,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00085617,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0007209,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00021893,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00107069,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00045352,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00162067,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": -0.0004881,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00017529,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00045023,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00064108,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00024922,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.0004158,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00125279,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": -0.00049076,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00042742,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00041982,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00019303,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.0002655,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00063722,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00068864,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00071279,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00019091,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00049911,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00054629,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP"
+  }
+]

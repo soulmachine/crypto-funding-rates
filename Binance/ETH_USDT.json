@@ -1,0 +1,6594 @@
+[
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-11-27T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-11-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-11-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-28T00:00:00.000Z",
+    "fundingRate": 0.00001401,
+    "fundingTime": "2019-11-28T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-28T08:00:00.000Z",
+    "fundingRate": -0.0001061,
+    "fundingTime": "2019-11-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-28T16:00:00.000Z",
+    "fundingRate": -0.00022765,
+    "fundingTime": "2019-11-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-29T00:00:00.000Z",
+    "fundingRate": -0.00020527,
+    "fundingTime": "2019-11-29T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-29T08:00:00.000Z",
+    "fundingRate": -0.00008117,
+    "fundingTime": "2019-11-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-29T16:00:00.000Z",
+    "fundingRate": 0.00000127,
+    "fundingTime": "2019-11-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-30T00:00:00.000Z",
+    "fundingRate": -0.00003953,
+    "fundingTime": "2019-11-30T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-11-30T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-11-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-01T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-01T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-01T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-02T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-02T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-02T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-03T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-03T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-04T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-04T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-04T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-04T16:00:00.000Z",
+    "fundingRate": 0.00001618,
+    "fundingTime": "2019-12-05T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-05T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-05T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-06T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-06T00:00:00.000Z",
+    "fundingRate": 0.00008067,
+    "fundingTime": "2019-12-06T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-07T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-07T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-08T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-08T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-08T08:00:00.000Z",
+    "fundingRate": 0.00003335,
+    "fundingTime": "2019-12-08T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-09T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-10T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-10T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-10T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-11T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-12T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-12T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-12T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-13T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-13T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-13T16:00:00.000Z",
+    "fundingRate": 0.00000256,
+    "fundingTime": "2019-12-14T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-14T00:00:00.000Z",
+    "fundingRate": 0.00009895,
+    "fundingTime": "2019-12-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-14T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-15T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-15T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-15T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-16T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-16T08:00:00.003Z",
+    "fundingRate": 0.00006449,
+    "fundingTime": "2019-12-16T16:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-16T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-17T00:00:00.008Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-17T00:00:00.000Z",
+    "fundingRate": 0.00009649,
+    "fundingTime": "2019-12-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-17T08:00:00.000Z",
+    "fundingRate": 0.00003382,
+    "fundingTime": "2019-12-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-17T16:00:00.006Z",
+    "fundingRate": 0.00005835,
+    "fundingTime": "2019-12-18T00:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-18T00:00:00.000Z",
+    "fundingRate": 0.00009072,
+    "fundingTime": "2019-12-18T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-18T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-19T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-19T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-19T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-20T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-20T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-21T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-21T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-22T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-22T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-23T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-23T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-24T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-25T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-25T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-25T16:00:00.000Z",
+    "fundingRate": 0.00009698,
+    "fundingTime": "2019-12-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-26T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-27T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-27T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-28T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-29T00:00:00.000Z",
+    "fundingRate": 0.00002169,
+    "fundingTime": "2019-12-29T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-29T08:00:00.000Z",
+    "fundingRate": 0.00008291,
+    "fundingTime": "2019-12-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-29T16:00:00.000Z",
+    "fundingRate": 0.00003707,
+    "fundingTime": "2019-12-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-30T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-30T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-30T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-31T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-31T00:00:00.000Z",
+    "fundingRate": 0.0000966,
+    "fundingTime": "2019-12-31T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2019-12-31T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2019-12-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-01T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-01T00:00:00.000Z",
+    "fundingRate": 0.00007354,
+    "fundingTime": "2020-01-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-01T08:00:00.000Z",
+    "fundingRate": -0.00016125,
+    "fundingTime": "2020-01-01T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-01T16:00:00.002Z",
+    "fundingRate": 0.00005047,
+    "fundingTime": "2020-01-02T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-02T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-02T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-03T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-03T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-03T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-04T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-04T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-04T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-05T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-06T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-06T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-07T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-07T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-08T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-08T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-08T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-08T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-09T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-10T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-10T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-10T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-11T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-12T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-12T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-12T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-13T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-13T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-14T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-14T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-14T16:00:00.000Z",
+    "fundingRate": 0.00011544,
+    "fundingTime": "2020-01-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-15T00:00:00.000Z",
+    "fundingRate": 0.00020223,
+    "fundingTime": "2020-01-15T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-15T08:00:00.000Z",
+    "fundingRate": 0.00031864,
+    "fundingTime": "2020-01-15T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-15T16:00:00.000Z",
+    "fundingRate": 0.00017165,
+    "fundingTime": "2020-01-16T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-16T00:00:00.000Z",
+    "fundingRate": 0.00038406,
+    "fundingTime": "2020-01-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-16T08:00:00.000Z",
+    "fundingRate": 0.0004224,
+    "fundingTime": "2020-01-16T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-16T16:00:00.000Z",
+    "fundingRate": 0.00018772,
+    "fundingTime": "2020-01-17T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-17T08:00:00.000Z",
+    "fundingRate": 0.00020327,
+    "fundingTime": "2020-01-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-17T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-18T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-18T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-18T08:00:00.000Z",
+    "fundingRate": 0.00011014,
+    "fundingTime": "2020-01-18T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-18T16:00:00.000Z",
+    "fundingRate": 0.00044662,
+    "fundingTime": "2020-01-19T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T00:00:00.000Z",
+    "fundingRate": 0.00019851,
+    "fundingTime": "2020-01-19T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T08:00:00.000Z",
+    "fundingRate": 0.00023852,
+    "fundingTime": "2020-01-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-19T16:00:00.000Z",
+    "fundingRate": 0.00047503,
+    "fundingTime": "2020-01-20T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T00:00:00.000Z",
+    "fundingRate": 0.00054081,
+    "fundingTime": "2020-01-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T08:00:00.000Z",
+    "fundingRate": 0.00038562,
+    "fundingTime": "2020-01-20T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-20T16:00:00.000Z",
+    "fundingRate": 0.00021637,
+    "fundingTime": "2020-01-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T00:00:00.000Z",
+    "fundingRate": 0.00016823,
+    "fundingTime": "2020-01-21T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T08:00:00.000Z",
+    "fundingRate": 0.00018627,
+    "fundingTime": "2020-01-21T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-21T16:00:00.000Z",
+    "fundingRate": 0.0001535,
+    "fundingTime": "2020-01-22T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-22T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-23T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-23T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T08:00:00.000Z",
+    "fundingRate": 0.00021994,
+    "fundingTime": "2020-01-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-23T16:00:00.000Z",
+    "fundingRate": 0.00017114,
+    "fundingTime": "2020-01-24T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T00:00:00.000Z",
+    "fundingRate": 0.00017748,
+    "fundingTime": "2020-01-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T08:00:00.001Z",
+    "fundingRate": 0.00025923,
+    "fundingTime": "2020-01-24T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-25T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T08:00:00.001Z",
+    "fundingRate": 0.00027793,
+    "fundingTime": "2020-01-25T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-25T16:00:00.000Z",
+    "fundingRate": 0.00031959,
+    "fundingTime": "2020-01-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T00:00:00.000Z",
+    "fundingRate": 0.00026387,
+    "fundingTime": "2020-01-26T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-27T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-27T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-01-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-27T16:00:00.000Z",
+    "fundingRate": 0.00010167,
+    "fundingTime": "2020-01-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T00:00:00.000Z",
+    "fundingRate": 0.00049212,
+    "fundingTime": "2020-01-28T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T08:00:00.000Z",
+    "fundingRate": 0.00091788,
+    "fundingTime": "2020-01-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-28T16:00:00.001Z",
+    "fundingRate": 0.00122251,
+    "fundingTime": "2020-01-29T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T00:00:00.000Z",
+    "fundingRate": 0.0010613,
+    "fundingTime": "2020-01-29T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T08:00:00.002Z",
+    "fundingRate": 0.00055576,
+    "fundingTime": "2020-01-29T16:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-29T16:00:00.000Z",
+    "fundingRate": 0.00054882,
+    "fundingTime": "2020-01-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T00:00:00.000Z",
+    "fundingRate": 0.00049058,
+    "fundingTime": "2020-01-30T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T08:00:00.000Z",
+    "fundingRate": 0.00054951,
+    "fundingTime": "2020-01-30T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-30T16:00:00.000Z",
+    "fundingRate": 0.00082589,
+    "fundingTime": "2020-01-31T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T00:00:00.000Z",
+    "fundingRate": 0.00132017,
+    "fundingTime": "2020-01-31T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T08:00:00.000Z",
+    "fundingRate": 0.00093741,
+    "fundingTime": "2020-01-31T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-01-31T16:00:00.000Z",
+    "fundingRate": 0.0007201,
+    "fundingTime": "2020-02-01T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T00:00:00.000Z",
+    "fundingRate": 0.00070775,
+    "fundingTime": "2020-02-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T08:00:00.000Z",
+    "fundingRate": 0.00052861,
+    "fundingTime": "2020-02-01T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-01T16:00:00.000Z",
+    "fundingRate": 0.000352,
+    "fundingTime": "2020-02-02T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T00:00:00.000Z",
+    "fundingRate": 0.00016128,
+    "fundingTime": "2020-02-02T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-02T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-03T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-03T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-03T16:00:00.000Z",
+    "fundingRate": 0.00036575,
+    "fundingTime": "2020-02-04T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T00:00:00.001Z",
+    "fundingRate": 0.00014722,
+    "fundingTime": "2020-02-04T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T08:00:00.000Z",
+    "fundingRate": 0.00039381,
+    "fundingTime": "2020-02-04T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-04T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T08:00:00.000Z",
+    "fundingRate": 0.00095515,
+    "fundingTime": "2020-02-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-05T16:00:00.000Z",
+    "fundingRate": 0.00112654,
+    "fundingTime": "2020-02-06T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T00:00:00.000Z",
+    "fundingRate": 0.00077325,
+    "fundingTime": "2020-02-06T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T08:00:00.000Z",
+    "fundingRate": 0.00053238,
+    "fundingTime": "2020-02-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-06T16:00:00.000Z",
+    "fundingRate": 0.00032775,
+    "fundingTime": "2020-02-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T00:00:00.000Z",
+    "fundingRate": 0.00014913,
+    "fundingTime": "2020-02-07T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T08:00:00.001Z",
+    "fundingRate": 0.00045718,
+    "fundingTime": "2020-02-07T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-07T16:00:00.000Z",
+    "fundingRate": 0.00026524,
+    "fundingTime": "2020-02-08T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T00:00:00.000Z",
+    "fundingRate": 0.00027312,
+    "fundingTime": "2020-02-08T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T08:00:00.000Z",
+    "fundingRate": 0.00029946,
+    "fundingTime": "2020-02-08T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-08T16:00:00.000Z",
+    "fundingRate": 0.00097062,
+    "fundingTime": "2020-02-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T00:00:00.000Z",
+    "fundingRate": 0.00063224,
+    "fundingTime": "2020-02-09T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T08:00:00.000Z",
+    "fundingRate": 0.00136228,
+    "fundingTime": "2020-02-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-09T16:00:00.000Z",
+    "fundingRate": 0.00130685,
+    "fundingTime": "2020-02-10T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T00:00:00.000Z",
+    "fundingRate": 0.00193444,
+    "fundingTime": "2020-02-10T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T08:00:00.009Z",
+    "fundingRate": 0.00295694,
+    "fundingTime": "2020-02-10T16:00:00.009Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-10T16:00:00.000Z",
+    "fundingRate": 0.0011812,
+    "fundingTime": "2020-02-11T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T00:00:00.000Z",
+    "fundingRate": 0.00150902,
+    "fundingTime": "2020-02-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T08:00:00.000Z",
+    "fundingRate": 0.00107512,
+    "fundingTime": "2020-02-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-11T16:00:00.000Z",
+    "fundingRate": 0.0028447,
+    "fundingTime": "2020-02-12T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T00:00:00.001Z",
+    "fundingRate": 0.0036719,
+    "fundingTime": "2020-02-12T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T08:00:00.000Z",
+    "fundingRate": 0.00148984,
+    "fundingTime": "2020-02-12T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-12T16:00:00.001Z",
+    "fundingRate": 0.00119193,
+    "fundingTime": "2020-02-13T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T00:00:00.000Z",
+    "fundingRate": 0.00141789,
+    "fundingTime": "2020-02-13T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T08:00:00.000Z",
+    "fundingRate": 0.0017895,
+    "fundingTime": "2020-02-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-13T16:00:00.000Z",
+    "fundingRate": 0.00133922,
+    "fundingTime": "2020-02-14T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T00:00:00.000Z",
+    "fundingRate": 0.00081527,
+    "fundingTime": "2020-02-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T08:00:00.000Z",
+    "fundingRate": 0.00097804,
+    "fundingTime": "2020-02-14T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-14T16:00:00.000Z",
+    "fundingRate": 0.00084363,
+    "fundingTime": "2020-02-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T00:00:00.000Z",
+    "fundingRate": 0.00099519,
+    "fundingTime": "2020-02-15T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T08:00:00.000Z",
+    "fundingRate": 0.00116429,
+    "fundingTime": "2020-02-15T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-15T16:00:00.000Z",
+    "fundingRate": 0.00191229,
+    "fundingTime": "2020-02-16T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T00:00:00.000Z",
+    "fundingRate": 0.00042143,
+    "fundingTime": "2020-02-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T08:00:00.000Z",
+    "fundingRate": 0.00063291,
+    "fundingTime": "2020-02-16T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-16T16:00:00.000Z",
+    "fundingRate": 0.0006537,
+    "fundingTime": "2020-02-17T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T00:00:00.000Z",
+    "fundingRate": 0.00052153,
+    "fundingTime": "2020-02-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T08:00:00.000Z",
+    "fundingRate": 0.00088411,
+    "fundingTime": "2020-02-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-17T16:00:00.000Z",
+    "fundingRate": 0.00024205,
+    "fundingTime": "2020-02-18T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T00:00:00.000Z",
+    "fundingRate": 0.00012422,
+    "fundingTime": "2020-02-18T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T08:00:00.000Z",
+    "fundingRate": 0.00023619,
+    "fundingTime": "2020-02-18T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-18T16:00:00.000Z",
+    "fundingRate": 0.0007174,
+    "fundingTime": "2020-02-19T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T00:00:00.001Z",
+    "fundingRate": 0.00095567,
+    "fundingTime": "2020-02-19T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T08:00:00.000Z",
+    "fundingRate": 0.00068394,
+    "fundingTime": "2020-02-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-19T16:00:00.004Z",
+    "fundingRate": 0.0001949,
+    "fundingTime": "2020-02-20T00:00:00.004Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T08:00:00.000Z",
+    "fundingRate": 0.00053851,
+    "fundingTime": "2020-02-20T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-20T16:00:00.000Z",
+    "fundingRate": 0.00069899,
+    "fundingTime": "2020-02-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T00:00:00.000Z",
+    "fundingRate": 0.0005353,
+    "fundingTime": "2020-02-21T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T08:00:00.000Z",
+    "fundingRate": 0.0005742,
+    "fundingTime": "2020-02-21T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-21T16:00:00.000Z",
+    "fundingRate": 0.00051605,
+    "fundingTime": "2020-02-22T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T00:00:00.001Z",
+    "fundingRate": 0.00056424,
+    "fundingTime": "2020-02-22T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T08:00:00.000Z",
+    "fundingRate": 0.00045883,
+    "fundingTime": "2020-02-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-22T16:00:00.000Z",
+    "fundingRate": 0.00077311,
+    "fundingTime": "2020-02-23T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T00:00:00.000Z",
+    "fundingRate": 0.00043317,
+    "fundingTime": "2020-02-23T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T08:00:00.000Z",
+    "fundingRate": 0.00048157,
+    "fundingTime": "2020-02-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-23T16:00:00.015Z",
+    "fundingRate": 0.00054128,
+    "fundingTime": "2020-02-24T00:00:00.015Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T00:00:00.000Z",
+    "fundingRate": 0.00037142,
+    "fundingTime": "2020-02-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T08:00:00.000Z",
+    "fundingRate": 0.00020954,
+    "fundingTime": "2020-02-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-24T16:00:00.001Z",
+    "fundingRate": 0.00031422,
+    "fundingTime": "2020-02-25T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T00:00:00.000Z",
+    "fundingRate": 0.00040545,
+    "fundingTime": "2020-02-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T08:00:00.001Z",
+    "fundingRate": 0.00052084,
+    "fundingTime": "2020-02-25T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-25T16:00:00.000Z",
+    "fundingRate": 0.00047129,
+    "fundingTime": "2020-02-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T00:00:00.001Z",
+    "fundingRate": 0.00079802,
+    "fundingTime": "2020-02-26T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T08:00:00.000Z",
+    "fundingRate": 0.00071497,
+    "fundingTime": "2020-02-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-26T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-02-27T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T00:00:00.001Z",
+    "fundingRate": 0.00025833,
+    "fundingTime": "2020-02-27T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T08:00:00.000Z",
+    "fundingRate": 0.00010335,
+    "fundingTime": "2020-02-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-27T16:00:00.000Z",
+    "fundingRate": 0.00012465,
+    "fundingTime": "2020-02-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T00:00:00.000Z",
+    "fundingRate": 0.00025289,
+    "fundingTime": "2020-02-28T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T08:00:00.000Z",
+    "fundingRate": 0.00030522,
+    "fundingTime": "2020-02-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-28T16:00:00.000Z",
+    "fundingRate": 0.00040998,
+    "fundingTime": "2020-02-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T00:00:00.000Z",
+    "fundingRate": 0.00055451,
+    "fundingTime": "2020-02-29T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T08:00:00.000Z",
+    "fundingRate": 0.00047771,
+    "fundingTime": "2020-02-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-02-29T16:00:00.000Z",
+    "fundingRate": 0.00032216,
+    "fundingTime": "2020-03-01T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T00:00:00.000Z",
+    "fundingRate": 0.00018986,
+    "fundingTime": "2020-03-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T08:00:00.001Z",
+    "fundingRate": 0.00015628,
+    "fundingTime": "2020-03-01T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-01T16:00:00.000Z",
+    "fundingRate": 0.00014747,
+    "fundingTime": "2020-03-02T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T00:00:00.000Z",
+    "fundingRate": 0.00015638,
+    "fundingTime": "2020-03-02T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-02T16:00:00.004Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-03T08:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T08:00:00.000Z",
+    "fundingRate": 0.00031403,
+    "fundingTime": "2020-03-03T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-03T16:00:00.002Z",
+    "fundingRate": 0.00030731,
+    "fundingTime": "2020-03-04T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T00:00:00.000Z",
+    "fundingRate": 0.00030432,
+    "fundingTime": "2020-03-04T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T08:00:00.001Z",
+    "fundingRate": 0.00032821,
+    "fundingTime": "2020-03-04T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-04T16:00:00.000Z",
+    "fundingRate": 0.00029022,
+    "fundingTime": "2020-03-05T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T00:00:00.000Z",
+    "fundingRate": 0.00039893,
+    "fundingTime": "2020-03-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T08:00:00.000Z",
+    "fundingRate": 0.00036018,
+    "fundingTime": "2020-03-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-05T16:00:00.003Z",
+    "fundingRate": 0.0003738,
+    "fundingTime": "2020-03-06T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-07T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T08:00:00.000Z",
+    "fundingRate": 0.00013739,
+    "fundingTime": "2020-03-07T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-07T16:00:00.001Z",
+    "fundingRate": 0.00032347,
+    "fundingTime": "2020-03-08T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T00:00:00.000Z",
+    "fundingRate": 0.0004582,
+    "fundingTime": "2020-03-08T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T08:00:00.006Z",
+    "fundingRate": 0.00037933,
+    "fundingTime": "2020-03-08T16:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T00:00:00.000Z",
+    "fundingRate": 0.00011432,
+    "fundingTime": "2020-03-09T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T08:00:00.000Z",
+    "fundingRate": 0.00016188,
+    "fundingTime": "2020-03-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-09T16:00:00.000Z",
+    "fundingRate": 0.00025018,
+    "fundingTime": "2020-03-10T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-10T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T08:00:00.000Z",
+    "fundingRate": 0.00025409,
+    "fundingTime": "2020-03-10T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-10T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-11T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T00:00:00.000Z",
+    "fundingRate": 0.00016304,
+    "fundingTime": "2020-03-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T08:00:00.000Z",
+    "fundingRate": 0.00037247,
+    "fundingTime": "2020-03-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-11T16:00:00.001Z",
+    "fundingRate": 0.00036391,
+    "fundingTime": "2020-03-12T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T00:00:00.001Z",
+    "fundingRate": 0.00054526,
+    "fundingTime": "2020-03-12T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-12T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-13T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T00:00:00.000Z",
+    "fundingRate": -0.00281778,
+    "fundingTime": "2020-03-13T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T08:00:00.002Z",
+    "fundingRate": -0.00027991,
+    "fundingTime": "2020-03-13T16:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-14T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-15T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T08:00:00.001Z",
+    "fundingRate": -0.00022932,
+    "fundingTime": "2020-03-16T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-18T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-20T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-21T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-25T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-25T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T00:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T08:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T00:00:00.000Z",
+    "fundingRate": -0.00002715,
+    "fundingTime": "2020-03-28T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T00:00:00.000Z",
+    "fundingRate": -0.0000991,
+    "fundingTime": "2020-03-30T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-30T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-03-31T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-03-31T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T08:00:00.001Z",
+    "fundingRate": -0.00007368,
+    "fundingTime": "2020-04-01T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-01T16:00:00.000Z",
+    "fundingRate": -0.0000517,
+    "fundingTime": "2020-04-02T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-02T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-03T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-03T16:00:00.000Z",
+    "fundingRate": 0.00004881,
+    "fundingTime": "2020-04-04T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-04T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T00:00:00.000Z",
+    "fundingRate": 0.00003554,
+    "fundingTime": "2020-04-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-06T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T00:00:00.000Z",
+    "fundingRate": 0.0000754,
+    "fundingTime": "2020-04-06T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T08:00:00.000Z",
+    "fundingRate": 0.00005027,
+    "fundingTime": "2020-04-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-06T16:00:00.000Z",
+    "fundingRate": -0.00014221,
+    "fundingTime": "2020-04-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T00:00:00.000Z",
+    "fundingRate": -0.00008712,
+    "fundingTime": "2020-04-07T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T08:00:00.000Z",
+    "fundingRate": 0.00008758,
+    "fundingTime": "2020-04-07T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-08T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-08T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-09T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-10T16:00:00.000Z",
+    "fundingRate": -0.0000069,
+    "fundingTime": "2020-04-11T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T00:00:00.000Z",
+    "fundingRate": 0.00009267,
+    "fundingTime": "2020-04-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T00:00:00.006Z",
+    "fundingRate": 0.00001985,
+    "fundingTime": "2020-04-12T08:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-12T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T00:00:00.000Z",
+    "fundingRate": -0.00002526,
+    "fundingTime": "2020-04-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T00:00:00.000Z",
+    "fundingRate": 0.00009454,
+    "fundingTime": "2020-04-18T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-21T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-24T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T08:00:00.005Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00040543,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.0001963,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00033541,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00020286,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00028799,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00065493,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.0002053,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00033679,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00030318,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T00:00:00.005Z",
+    "fundingRate": 0.00020259,
+    "fundingTime": "2020-05-04T08:00:00.005Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00018353,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00021158,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00033589,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-05T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.00023099,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00058198,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T00:00:00.011Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T08:00:00.011Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00010111,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.000687,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T00:00:00.001Z",
+    "fundingRate": 0.00027607,
+    "fundingTime": "2020-05-08T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00021374,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00039213,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00018668,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.000217,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00015215,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00004486,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00003957,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-15T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T00:00:00.008Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.0000547,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-16T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00004057,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-18T16:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T00:00:00.005Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T16:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-21T16:00:00.006Z",
+    "fundingRate": 0.00003518,
+    "fundingTime": "2020-05-22T00:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-22T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-23T16:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T00:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T08:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00034764,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T00:00:00.002Z",
+    "fundingRate": 0.00018222,
+    "fundingTime": "2020-06-02T08:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T16:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-03T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T08:00:00.004Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-04T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T16:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-07T16:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T00:00:00.008Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T00:00:00.007Z",
+    "fundingRate": 0.0002108,
+    "fundingTime": "2020-06-08T08:00:00.007Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00023671,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00021431,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00012471,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-10T16:00:00.008Z",
+    "fundingRate": 0.00023457,
+    "fundingTime": "2020-06-11T00:00:00.008Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-11T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-12T16:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-13T16:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T00:00:00.007Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-14T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-15T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-15T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-16T16:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-16T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T00:00:00.007Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T08:00:00.007Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-18T16:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-18T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T00:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T08:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T00:00:00.009Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T08:00:00.009Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T08:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-20T16:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-21T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-22T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-22T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T08:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-23T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-24T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-25T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-25T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-26T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T00:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T08:00:00.004Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-27T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-28T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T00:00:00.005Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T08:00:00.005Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-29T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T08:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-30T16:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-06-30T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-01T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-01T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-02T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-02T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-03T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-03T16:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T08:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-04T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-04T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-05T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-06T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T00:00:00.006Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T08:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-07T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-08T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-08T16:00:00.001Z",
+    "fundingRate": 0.00011645,
+    "fundingTime": "2020-07-09T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T00:00:00.002Z",
+    "fundingRate": 0.00011218,
+    "fundingTime": "2020-07-09T08:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T08:00:00.000Z",
+    "fundingRate": 0.00010104,
+    "fundingTime": "2020-07-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-09T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-10T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-10T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-11T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-11T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-12T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-12T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-13T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T08:00:00.000Z",
+    "fundingRate": 0.00012899,
+    "fundingTime": "2020-07-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-13T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-14T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-14T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-15T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-15T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T00:00:00.002Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T08:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-16T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-16T16:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-17T16:00:00.003Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-18T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-18T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-19T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T08:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-20T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T00:00:00.001Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T08:00:00.004Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-21T16:00:00.004Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-07-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-22T16:00:00.001Z",
+    "fundingRate": 0.00055183,
+    "fundingTime": "2020-07-23T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T00:00:00.000Z",
+    "fundingRate": 0.00079591,
+    "fundingTime": "2020-07-23T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T08:00:00.001Z",
+    "fundingRate": 0.00047433,
+    "fundingTime": "2020-07-23T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-23T16:00:00.000Z",
+    "fundingRate": 0.00058285,
+    "fundingTime": "2020-07-24T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T00:00:00.000Z",
+    "fundingRate": 0.0009435,
+    "fundingTime": "2020-07-24T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T08:00:00.000Z",
+    "fundingRate": 0.00042763,
+    "fundingTime": "2020-07-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-24T16:00:00.000Z",
+    "fundingRate": 0.00032733,
+    "fundingTime": "2020-07-25T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T00:00:00.001Z",
+    "fundingRate": 0.00019115,
+    "fundingTime": "2020-07-25T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00023376,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00039999,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00091914,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00090981,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00069401,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00076669,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00091745,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00113558,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T00:00:00.001Z",
+    "fundingRate": 0.00120926,
+    "fundingTime": "2020-07-28T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00114134,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00086449,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00095544,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00071643,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.0006881,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T00:00:00.001Z",
+    "fundingRate": 0.00062728,
+    "fundingTime": "2020-07-30T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.0006027,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00108946,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T00:00:00.001Z",
+    "fundingRate": 0.00070112,
+    "fundingTime": "2020-07-31T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00061106,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-07-31T16:00:00.005Z",
+    "fundingRate": 0.00035058,
+    "fundingTime": "2020-08-01T00:00:00.005Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00044202,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T08:00:00.001Z",
+    "fundingRate": 0.00053847,
+    "fundingTime": "2020-08-01T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00163562,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T00:00:00.001Z",
+    "fundingRate": 0.00094879,
+    "fundingTime": "2020-08-02T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T08:00:00.001Z",
+    "fundingRate": 0.00033067,
+    "fundingTime": "2020-08-02T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.0002917,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T00:00:00.001Z",
+    "fundingRate": 0.00050577,
+    "fundingTime": "2020-08-03T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00054445,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-03T16:00:00.003Z",
+    "fundingRate": 0.00036557,
+    "fundingTime": "2020-08-04T00:00:00.003Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00054679,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00063177,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00061202,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00053408,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.0008946,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00062437,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T00:00:00.007Z",
+    "fundingRate": 0.00056598,
+    "fundingTime": "2020-08-06T08:00:00.007Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00069781,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-06T16:00:00.001Z",
+    "fundingRate": 0.00052275,
+    "fundingTime": "2020-08-07T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00046696,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00029683,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00020749,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00044084,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00032833,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00046489,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00034455,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-09T16:00:00.001Z",
+    "fundingRate": 0.00033424,
+    "fundingTime": "2020-08-10T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00108975,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T08:00:00.001Z",
+    "fundingRate": 0.00052034,
+    "fundingTime": "2020-08-10T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-10T16:00:00.001Z",
+    "fundingRate": 0.00048022,
+    "fundingTime": "2020-08-11T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00052529,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T08:00:00.001Z",
+    "fundingRate": 0.00052038,
+    "fundingTime": "2020-08-11T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00034144,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00034577,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00024038,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-12T16:00:00.002Z",
+    "fundingRate": 0.00031747,
+    "fundingTime": "2020-08-13T00:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.0006053,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00051653,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00136967,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00146832,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00124102,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.0007934,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T00:00:00.001Z",
+    "fundingRate": 0.00084015,
+    "fundingTime": "2020-08-15T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T08:00:00.001Z",
+    "fundingRate": 0.00075821,
+    "fundingTime": "2020-08-15T16:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.0009221,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00086801,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00046248,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00074992,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00061133,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00103523,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-17T16:00:00.001Z",
+    "fundingRate": 0.00133232,
+    "fundingTime": "2020-08-18T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T00:00:00.008Z",
+    "fundingRate": 0.00085913,
+    "fundingTime": "2020-08-18T08:00:00.008Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00054732,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00034355,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00021587,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00040187,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-19T16:00:00.001Z",
+    "fundingRate": 0.00035614,
+    "fundingTime": "2020-08-20T00:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00026745,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T08:00:00.017Z",
+    "fundingRate": 0.00021092,
+    "fundingTime": "2020-08-21T16:00:00.017Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00016169,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00014517,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00030687,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-23T16:00:00.006Z",
+    "fundingRate": 0.00031572,
+    "fundingTime": "2020-08-24T00:00:00.006Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T00:00:00.001Z",
+    "fundingRate": 0.00022508,
+    "fundingTime": "2020-08-24T08:00:00.001Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00031958,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.0002243,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00011335,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00011631,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00020921,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T00:00:00.008Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-26T08:00:00.008Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T08:00:00.002Z",
+    "fundingRate": 0.00015004,
+    "fundingTime": "2020-08-26T16:00:00.002Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00011281,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T00:00:00.010Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T08:00:00.010Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  },
+  {
+    "exchange": "Binance",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT"
+  }
+]

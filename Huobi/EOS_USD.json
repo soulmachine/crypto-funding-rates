@@ -1,0 +1,3354 @@
+[
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T12:00:00.000Z",
+    "fundingRate": -0.000071182647142569,
+    "fundingTime": "2020-04-12T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T20:00:00.000Z",
+    "fundingRate": -0.000264772016582111,
+    "fundingTime": "2020-04-13T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T04:00:00.000Z",
+    "fundingRate": 0.001656733857902571,
+    "fundingTime": "2020-04-13T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T12:00:00.000Z",
+    "fundingRate": -0.000424005309941216,
+    "fundingTime": "2020-04-13T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T04:00:00.000Z",
+    "fundingRate": -0.000558375886874727,
+    "fundingTime": "2020-04-14T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T20:00:00.000Z",
+    "fundingRate": -0.000265880241780084,
+    "fundingTime": "2020-04-15T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T04:00:00.000Z",
+    "fundingRate": -0.000338383554925738,
+    "fundingTime": "2020-04-15T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T12:00:00.000Z",
+    "fundingRate": 0.000219207728731945,
+    "fundingTime": "2020-04-15T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T04:00:00.000Z",
+    "fundingRate": -0.000048290933230363,
+    "fundingTime": "2020-04-16T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T20:00:00.000Z",
+    "fundingRate": 0.000888591441699592,
+    "fundingTime": "2020-04-17T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T12:00:00.000Z",
+    "fundingRate": 0.000192775827100161,
+    "fundingTime": "2020-04-17T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T20:00:00.000Z",
+    "fundingRate": 0.001108858440415386,
+    "fundingTime": "2020-04-18T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T04:00:00.000Z",
+    "fundingRate": -0.000819852170444466,
+    "fundingTime": "2020-04-18T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T12:00:00.000Z",
+    "fundingRate": 0.000411438126550561,
+    "fundingTime": "2020-04-18T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T04:00:00.000Z",
+    "fundingRate": 0.000864311454455994,
+    "fundingTime": "2020-04-19T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T20:00:00.000Z",
+    "fundingRate": -0.000299791320927081,
+    "fundingTime": "2020-04-20T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T04:00:00.000Z",
+    "fundingRate": -0.000180638006242363,
+    "fundingTime": "2020-04-20T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T20:00:00.000Z",
+    "fundingRate": 0.000239739345741323,
+    "fundingTime": "2020-04-21T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T04:00:00.000Z",
+    "fundingRate": 0.000680412060774478,
+    "fundingTime": "2020-04-21T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T12:00:00.000Z",
+    "fundingRate": -0.000602943042107543,
+    "fundingTime": "2020-04-21T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T04:00:00.000Z",
+    "fundingRate": -0.000341047024850293,
+    "fundingTime": "2020-04-22T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T20:00:00.000Z",
+    "fundingRate": 0.000289076316882907,
+    "fundingTime": "2020-04-23T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T04:00:00.000Z",
+    "fundingRate": 0.000888544536495095,
+    "fundingTime": "2020-04-23T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T20:00:00.000Z",
+    "fundingRate": 0.000067486411030628,
+    "fundingTime": "2020-04-24T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T12:00:00.000Z",
+    "fundingRate": 0.001496235197451535,
+    "fundingTime": "2020-04-24T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T20:00:00.000Z",
+    "fundingRate": -0.000631587466472149,
+    "fundingTime": "2020-04-25T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T20:00:00.000Z",
+    "fundingRate": 0.000410124059277128,
+    "fundingTime": "2020-04-26T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T04:00:00.000Z",
+    "fundingRate": -0.000004819125482174,
+    "fundingTime": "2020-04-26T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T12:00:00.000Z",
+    "fundingRate": -0.000064450931455464,
+    "fundingTime": "2020-04-26T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T04:00:00.000Z",
+    "fundingRate": -0.000487815340021971,
+    "fundingTime": "2020-04-27T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T12:00:00.000Z",
+    "fundingRate": 0.001003804554068944,
+    "fundingTime": "2020-04-27T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T04:00:00.000Z",
+    "fundingRate": 0.000182623458242577,
+    "fundingTime": "2020-04-28T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T12:00:00.000Z",
+    "fundingRate": -0.000776790798531605,
+    "fundingTime": "2020-04-28T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T04:00:00.000Z",
+    "fundingRate": -0.000305454666671616,
+    "fundingTime": "2020-04-29T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T20:00:00.000Z",
+    "fundingRate": 0.000203131509078693,
+    "fundingTime": "2020-05-01T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T04:00:00.000Z",
+    "fundingRate": 0.000769066179404157,
+    "fundingTime": "2020-05-01T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T20:00:00.000Z",
+    "fundingRate": 0.001545253310424891,
+    "fundingTime": "2020-05-02T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T20:00:00.000Z",
+    "fundingRate": 0.000558043846823756,
+    "fundingTime": "2020-05-03T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T04:00:00.000Z",
+    "fundingRate": 0.000102367653209079,
+    "fundingTime": "2020-05-03T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T12:00:00.000Z",
+    "fundingRate": 0.000538005564734632,
+    "fundingTime": "2020-05-03T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T12:00:00.000Z",
+    "fundingRate": -0.000050769913379088,
+    "fundingTime": "2020-05-06T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T04:00:00.000Z",
+    "fundingRate": 0.000205915566036614,
+    "fundingTime": "2020-05-07T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T12:00:00.000Z",
+    "fundingRate": 0.000452817817401698,
+    "fundingTime": "2020-05-07T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T20:00:00.000Z",
+    "fundingRate": -0.000036807789673464,
+    "fundingTime": "2020-05-08T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T04:00:00.000Z",
+    "fundingRate": 0.000173127258837448,
+    "fundingTime": "2020-05-08T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-09T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T12:00:00.000Z",
+    "fundingRate": 0.001499639716786985,
+    "fundingTime": "2020-05-09T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T20:00:00.000Z",
+    "fundingRate": -0.00037270387248238,
+    "fundingTime": "2020-05-11T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T04:00:00.000Z",
+    "fundingRate": -0.00007186270824574,
+    "fundingTime": "2020-05-11T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T12:00:00.000Z",
+    "fundingRate": -0.00025370052528968,
+    "fundingTime": "2020-05-11T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T12:00:00.000Z",
+    "fundingRate": -0.000350779845178907,
+    "fundingTime": "2020-05-12T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T20:00:00.000Z",
+    "fundingRate": 0.000080452922925332,
+    "fundingTime": "2020-05-13T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T04:00:00.000Z",
+    "fundingRate": -0.000065638555571242,
+    "fundingTime": "2020-05-13T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T12:00:00.000Z",
+    "fundingRate": -0.000143287276664989,
+    "fundingTime": "2020-05-13T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T20:00:00.000Z",
+    "fundingRate": -0.00009220192884569,
+    "fundingTime": "2020-05-14T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T04:00:00.000Z",
+    "fundingRate": -0.000875224096545521,
+    "fundingTime": "2020-05-16T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T20:00:00.000Z",
+    "fundingRate": 0.000192932483960296,
+    "fundingTime": "2020-05-18T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T12:00:00.000Z",
+    "fundingRate": 0.000210412057612038,
+    "fundingTime": "2020-05-18T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T04:00:00.000Z",
+    "fundingRate": 0.000391751557263446,
+    "fundingTime": "2020-05-19T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T04:00:00.000Z",
+    "fundingRate": 0.000458410357878866,
+    "fundingTime": "2020-05-21T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T20:00:00.000Z",
+    "fundingRate": 0.000442541030990227,
+    "fundingTime": "2020-05-22T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T12:00:00.000Z",
+    "fundingRate": -0.000320900312488885,
+    "fundingTime": "2020-05-22T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T20:00:00.000Z",
+    "fundingRate": -0.000013353418283077,
+    "fundingTime": "2020-05-23T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T12:00:00.000Z",
+    "fundingRate": 0.000057984179137209,
+    "fundingTime": "2020-05-23T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T12:00:00.000Z",
+    "fundingRate": 0.000151086501443739,
+    "fundingTime": "2020-05-24T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T20:00:00.000Z",
+    "fundingRate": 0.00053566841754787,
+    "fundingTime": "2020-05-25T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T12:00:00.000Z",
+    "fundingRate": 0.000322486780746779,
+    "fundingTime": "2020-05-25T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T20:00:00.000Z",
+    "fundingRate": -0.000411686863794043,
+    "fundingTime": "2020-05-26T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T12:00:00.000Z",
+    "fundingRate": 0.000175311188233668,
+    "fundingTime": "2020-05-26T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T12:00:00.000Z",
+    "fundingRate": -0.00058336438746302,
+    "fundingTime": "2020-05-27T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T20:00:00.000Z",
+    "fundingRate": 0.000387021856493997,
+    "fundingTime": "2020-05-28T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T04:00:00.000Z",
+    "fundingRate": 0.000109607007493719,
+    "fundingTime": "2020-05-28T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T20:00:00.000Z",
+    "fundingRate": 0.000030240782027408,
+    "fundingTime": "2020-05-29T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T12:00:00.000Z",
+    "fundingRate": 0.000170388777855658,
+    "fundingTime": "2020-05-29T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T20:00:00.000Z",
+    "fundingRate": 0.000314798754697158,
+    "fundingTime": "2020-05-30T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T12:00:00.000Z",
+    "fundingRate": -0.000119132887929179,
+    "fundingTime": "2020-05-30T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T04:00:00.000Z",
+    "fundingRate": 0.000167089634415934,
+    "fundingTime": "2020-06-01T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T12:00:00.000Z",
+    "fundingRate": 0.000805698146211733,
+    "fundingTime": "2020-06-01T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T20:00:00.000Z",
+    "fundingRate": -0.000056010719138053,
+    "fundingTime": "2020-06-02T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T04:00:00.000Z",
+    "fundingRate": 0.000290485474209229,
+    "fundingTime": "2020-06-02T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T12:00:00.000Z",
+    "fundingRate": 0.001157682899529183,
+    "fundingTime": "2020-06-02T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T04:00:00.000Z",
+    "fundingRate": 0.000524948274006348,
+    "fundingTime": "2020-06-03T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T04:00:00.000Z",
+    "fundingRate": -0.000101543966315458,
+    "fundingTime": "2020-06-04T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T12:00:00.000Z",
+    "fundingRate": 0.000278679185831844,
+    "fundingTime": "2020-06-04T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T12:00:00.000Z",
+    "fundingRate": 0.00035434836545685,
+    "fundingTime": "2020-06-05T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T20:00:00.000Z",
+    "fundingRate": -0.00010415745709738,
+    "fundingTime": "2020-06-06T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T04:00:00.000Z",
+    "fundingRate": 0.000285313940363487,
+    "fundingTime": "2020-06-06T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T20:00:00.000Z",
+    "fundingRate": 0.000654614571365563,
+    "fundingTime": "2020-06-09T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-09T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T12:00:00.000Z",
+    "fundingRate": 0.00058271504595455,
+    "fundingTime": "2020-06-10T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T20:00:00.000Z",
+    "fundingRate": 0.000078057132417971,
+    "fundingTime": "2020-06-11T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T04:00:00.000Z",
+    "fundingRate": 0.000160999871963243,
+    "fundingTime": "2020-06-11T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T12:00:00.000Z",
+    "fundingRate": 0.001095142414749116,
+    "fundingTime": "2020-06-11T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T12:00:00.000Z",
+    "fundingRate": -0.000522936900355378,
+    "fundingTime": "2020-06-12T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T20:00:00.000Z",
+    "fundingRate": 0.000484916046987311,
+    "fundingTime": "2020-06-13T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T20:00:00.000Z",
+    "fundingRate": -0.000298453297511588,
+    "fundingTime": "2020-06-14T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T04:00:00.000Z",
+    "fundingRate": 0.000342048429342012,
+    "fundingTime": "2020-06-14T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-14T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T04:00:00.000Z",
+    "fundingRate": 0.001177152082755408,
+    "fundingTime": "2020-06-15T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T12:00:00.000Z",
+    "fundingRate": -0.000782380197855947,
+    "fundingTime": "2020-06-15T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T04:00:00.000Z",
+    "fundingRate": -0.000106515870359131,
+    "fundingTime": "2020-06-16T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T20:00:00.000Z",
+    "fundingRate": 0.000048888045893989,
+    "fundingTime": "2020-06-17T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T04:00:00.000Z",
+    "fundingRate": 0.00033719533434862,
+    "fundingTime": "2020-06-17T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-17T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T20:00:00.000Z",
+    "fundingRate": 0.000133420827048195,
+    "fundingTime": "2020-06-18T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T04:00:00.000Z",
+    "fundingRate": 0.000339425352287782,
+    "fundingTime": "2020-06-18T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T04:00:00.000Z",
+    "fundingRate": 0.00033689641678277,
+    "fundingTime": "2020-06-19T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T20:00:00.000Z",
+    "fundingRate": 0.000208223735962873,
+    "fundingTime": "2020-06-20T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T12:00:00.000Z",
+    "fundingRate": 0.000274772438872328,
+    "fundingTime": "2020-06-20T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T20:00:00.000Z",
+    "fundingRate": 0.000240983612212969,
+    "fundingTime": "2020-06-22T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T12:00:00.000Z",
+    "fundingRate": -0.000494699558216225,
+    "fundingTime": "2020-06-22T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T12:00:00.000Z",
+    "fundingRate": 0.000832513225301488,
+    "fundingTime": "2020-06-24T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T04:00:00.000Z",
+    "fundingRate": 0.000649853880130201,
+    "fundingTime": "2020-06-25T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T04:00:00.000Z",
+    "fundingRate": 0.000242965845727181,
+    "fundingTime": "2020-06-26T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T04:00:00.000Z",
+    "fundingRate": 0.000144596794854836,
+    "fundingTime": "2020-06-27T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T12:00:00.000Z",
+    "fundingRate": 0.00025301355411123,
+    "fundingTime": "2020-06-27T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T12:00:00.000Z",
+    "fundingRate": -0.000121577056183302,
+    "fundingTime": "2020-06-28T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T20:00:00.000Z",
+    "fundingRate": -0.000337280125388976,
+    "fundingTime": "2020-06-29T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T04:00:00.000Z",
+    "fundingRate": 0.00030409073516219,
+    "fundingTime": "2020-06-29T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T20:00:00.000Z",
+    "fundingRate": -0.0003720887436992,
+    "fundingTime": "2020-07-02T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-02T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T12:00:00.000Z",
+    "fundingRate": 0.000240622867797568,
+    "fundingTime": "2020-07-02T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T12:00:00.000Z",
+    "fundingRate": -0.000385117647299287,
+    "fundingTime": "2020-07-03T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T20:00:00.000Z",
+    "fundingRate": -0.000479433532407586,
+    "fundingTime": "2020-07-04T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T12:00:00.000Z",
+    "fundingRate": -0.000401607113266173,
+    "fundingTime": "2020-07-06T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T04:00:00.000Z",
+    "fundingRate": 0.000083676251647768,
+    "fundingTime": "2020-07-08T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T12:00:00.000Z",
+    "fundingRate": 0.000091979164276702,
+    "fundingTime": "2020-07-08T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T20:00:00.000Z",
+    "fundingRate": -0.000171229713975316,
+    "fundingTime": "2020-07-09T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T20:00:00.000Z",
+    "fundingRate": 0.000397426089260405,
+    "fundingTime": "2020-07-10T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T04:00:00.000Z",
+    "fundingRate": 0.000220091603963426,
+    "fundingTime": "2020-07-10T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-10T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T04:00:00.000Z",
+    "fundingRate": 0.000066467793176694,
+    "fundingTime": "2020-07-11T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T20:00:00.000Z",
+    "fundingRate": 0.000013600020320676,
+    "fundingTime": "2020-07-12T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T20:00:00.000Z",
+    "fundingRate": 0.00044549786042796,
+    "fundingTime": "2020-07-14T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T04:00:00.000Z",
+    "fundingRate": 0.000255528786007406,
+    "fundingTime": "2020-07-14T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-16T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-16T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T12:00:00.000Z",
+    "fundingRate": 0.000380681372363838,
+    "fundingTime": "2020-07-16T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T20:00:00.000Z",
+    "fundingRate": -0.000083434381598609,
+    "fundingTime": "2020-07-20T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T04:00:00.000Z",
+    "fundingRate": -0.000046814094751453,
+    "fundingTime": "2020-07-20T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T12:00:00.000Z",
+    "fundingRate": -0.000197001031310839,
+    "fundingTime": "2020-07-21T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.000577931496072862,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": 0.000717809879395856,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": 0.000063601394213161,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.0002970415412667,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.001560132503185696,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000128769026273522,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.000396874067785064,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000243479619525595,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.0008207635336782,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.0013017495141498,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.000671538564970147,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.001141245866651126,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.000823201741679687,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.00134754481249079,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.000344804382222231,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.001373848501845236,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.000756793913655033,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.000214925187034187,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.000742577022061912,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.001209816409633407,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.000299207762976214,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.000998947779450758,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": 0.000574817472626464,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000251254372668695,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.000133531207244589,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.001140865903027533,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.000451140955263468,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.00032266226149374,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.000357435767530662,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.000396614776006311,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.000723561292539345,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.00043381684503959,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.00043697541854296,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.000138578301889127,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000402092862981739,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.000814636589966474,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000126519740384967,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.000482229273849773,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.000568372276648915,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.00064478718233821,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.000139644705775269,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.000557977183643542,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.000179154315318951,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.000449858448504898,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.001130275100726156,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.000184132386235666,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.00121330765618331,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.000286864651724217,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.001022648165661734,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.001084171314678099,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.000505222629298623,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.001330380076967228,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.000803961952952683,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000958648077195064,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000681033397425785,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.00100873817893469,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.000128734163721187,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.000252432492114797,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.000161950012635056,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.000212102676239514,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.000462553765281651,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000840423454422326,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.000229652092373765,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.000172250007528613,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.000144117879310311,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.000242671051334979,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.000705737275854756,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.000502372815849854,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD"
+  }
+]

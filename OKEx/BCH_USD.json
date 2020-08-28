@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": 0.00003974,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00028081,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": -0.00002068,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.0003132,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": 0.00015887,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": 0.00002875,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": -0.00009605,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00041967,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": -0.00003755,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.0003115,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": -0.00028346,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00018561,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.00017372,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": -0.00015901,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": 0.00006347,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00012051,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": -0.00002855,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00015067,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": -0.00005005,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00003419,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": -0.00002881,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00014139,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": -0.00022884,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00031142,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": -0.00006646,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00050431,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00032375,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00010976,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00063817,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00016172,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00012653,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00061815,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00003441,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00024637,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.00028573,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00056007,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": -0.00021631,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00010043,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": -0.00010524,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00001175,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": -0.0002869,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00027354,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": -0.00012689,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": -0.00001258,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0000841,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": -0.00005657,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": -0.00024201,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00037086,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00011163,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00023117,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00051643,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": -0.00006533,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00007587,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00056891,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00021575,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": -0.00012457,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00203604,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00123061,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.00096271,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0007975,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00038713,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": 0.00033859,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.00004696,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00019106,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00018203,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": 0.00002462,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00027064,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00010001,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00016337,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": 0.00029121,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00012592,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": 0.00023397,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00027123,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00008927,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.00006618,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00014344,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00011752,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.00011683,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.0001201,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00034847,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00036239,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00030516,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00024682,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00036956,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00019579,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.00014348,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.00041671,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00024799,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00018975,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00058905,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00030165,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.00010771,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00020024,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": -0.00008365,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00032174,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": -0.00012273,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00018017,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00028346,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0000236,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00008772,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.0001089,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.00013015,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00021505,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00016402,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00027214,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.00020992,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00009859,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.00033962,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.0001594,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00014079,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00011644,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00013472,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": -0.00004791,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00039609,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00025847,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00024385,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": -0.00000146,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.0001753,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00026011,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00026078,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00027436,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00036862,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00016111,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00028962,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": -0.00001445,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.0006401,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.0005101,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00026156,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00047824,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00001254,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.0002501,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00031554,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.0000635,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": -0.00004054,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00031681,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00020343,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00006689,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00034377,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00001697,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": -0.00000327,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00036775,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00023335,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": -0.00000931,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.0003403,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00023455,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00033416,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00014459,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00022813,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00021881,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00043921,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00025686,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00022659,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00009819,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00028323,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.0001466,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00057623,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00049547,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00082769,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00023987,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00063643,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00024253,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00049855,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00093489,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.0006531,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00054919,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00049846,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00052508,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00017222,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.0007349,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00067594,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00052383,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00053028,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00068127,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00022131,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00074527,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00038589,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00053071,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": -0.00012349,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00058757,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00033626,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.0005595,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00040545,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00048006,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00037305,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00032669,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00012528,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00043227,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00017225,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.0004702,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00029,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00041834,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00038929,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00039159,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00030953,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00026305,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00064241,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00021756,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00050866,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00038992,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00034465,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00021505,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00078954,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00011765,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.0005749,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00029416,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00027443,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": -0.00008028,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00041852,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00003307,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00040493,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00042997,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00054468,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00019598,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00056311,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00072343,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00025377,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.0006001,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00036128,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00052753,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00049462,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00049847,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.0004786,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00025647,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00092005,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00071972,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00031485,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00041752,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": -0.0000865,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00047616,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00018267,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": 0.00049588,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00022806,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": -0.00004747,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00017141,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00041015,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00030335,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00027622,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00007762,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00009389,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00026211,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00020644,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00033603,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00020308,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00033891,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00042305,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00020591,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00048866,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00016721,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": -0.00026778,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.000034,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": -0.00002752,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": -0.00004993,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00062676,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00012081,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP"
+  }
+]

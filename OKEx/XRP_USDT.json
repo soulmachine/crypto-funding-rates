@@ -1,0 +1,2034 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-21T16:00:00.000Z",
+    "fundingRate": 0.00002999,
+    "fundingTime": "2020-04-22T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T00:00:00.000Z",
+    "fundingRate": -0.00004613,
+    "fundingTime": "2020-04-22T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T08:00:00.000Z",
+    "fundingRate": 0.00012716,
+    "fundingTime": "2020-04-22T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-22T16:00:00.000Z",
+    "fundingRate": -0.00004654,
+    "fundingTime": "2020-04-23T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T00:00:00.000Z",
+    "fundingRate": 0.00008123,
+    "fundingTime": "2020-04-23T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T08:00:00.000Z",
+    "fundingRate": -0.0000573,
+    "fundingTime": "2020-04-23T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-23T16:00:00.000Z",
+    "fundingRate": 0.00033687,
+    "fundingTime": "2020-04-24T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T00:00:00.000Z",
+    "fundingRate": 0.00016425,
+    "fundingTime": "2020-04-24T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T08:00:00.000Z",
+    "fundingRate": 0.00013704,
+    "fundingTime": "2020-04-24T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-24T16:00:00.000Z",
+    "fundingRate": 0.00009753,
+    "fundingTime": "2020-04-25T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T00:00:00.000Z",
+    "fundingRate": 0.00010263,
+    "fundingTime": "2020-04-25T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T08:00:00.000Z",
+    "fundingRate": 0.00003475,
+    "fundingTime": "2020-04-25T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-25T16:00:00.000Z",
+    "fundingRate": 0.00009431,
+    "fundingTime": "2020-04-26T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T00:00:00.000Z",
+    "fundingRate": -0.00004763,
+    "fundingTime": "2020-04-26T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T08:00:00.000Z",
+    "fundingRate": -0.00001548,
+    "fundingTime": "2020-04-26T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-26T16:00:00.000Z",
+    "fundingRate": 0.00016161,
+    "fundingTime": "2020-04-27T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": -0.00010224,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.00008556,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.00019698,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00009389,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.00001122,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00014889,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": 0.0000316,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00013914,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.00039495,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00042108,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00010671,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00031544,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00000757,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00022153,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": 0.00032263,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00016806,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": 0.00037328,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.0003688,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": 0.0000947,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00019791,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": 0.00023526,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.0002044,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": -0.00018566,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.0005039,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00019922,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00017429,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": 0.0002561,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.0000646,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.0002058,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00040467,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00015025,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": 0.00017541,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00016851,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.00038386,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00040472,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00033085,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.00031801,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00027497,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00034451,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00019096,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": -0.00031139,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": 0.00007391,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": -0.000154,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": 0.0001267,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": -0.00003942,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": -0.00026721,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": -0.00025059,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00007923,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": -0.00024591,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00019174,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": -0.00015336,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00018524,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": -0.00016396,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": -0.00010623,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": -0.00026169,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": -0.00032733,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": -0.00024743,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": -0.00034047,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.0000122,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": -0.00016537,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": -0.00033151,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": -0.00009555,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00000933,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": -0.00051741,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00027684,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": -0.00009384,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00001262,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": -0.00001715,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00006041,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": -0.00005132,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": -0.00004012,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00006333,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": -0.00010775,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": -0.00012297,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": -0.00020319,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": -0.00027002,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": -0.00035309,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.0000077,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": 0.00002823,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00015961,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00012083,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": -0.00018055,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": -0.00000592,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": -0.00017884,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": -0.00000526,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": -0.00023941,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": -0.0000059,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": -0.00012583,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": -0.00002592,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": 0.0000097,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": -0.00011673,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": -0.00001305,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": 0.00001324,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": -0.00013999,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.0000373,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": -0.00001047,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00004161,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00007606,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00010464,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00011,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00007515,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00036147,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00010088,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00022155,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00030479,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": -0.00005253,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00017872,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00015628,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00057115,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00006605,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00035689,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00000816,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00018462,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": 0.00020409,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": -0.00005851,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": 0.00020575,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": -0.00005036,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00011977,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00026365,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00003554,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": -0.00001561,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00000634,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": 0.00022678,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": -0.00008677,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00005065,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00023324,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.0000416,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00002655,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": -0.00000385,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00001513,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00001704,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": 0.00015088,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00004143,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": 0.00004316,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00008467,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00002997,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": -0.00004532,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.0000257,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00015009,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.00057069,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.00050361,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.00079112,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00030424,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00078068,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.00066439,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.00044443,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00070881,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00074543,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": 0.00103249,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00086728,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00064312,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00043046,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00080991,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00076602,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00082235,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.00055214,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00080442,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00057828,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00006816,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00004907,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00109544,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00007098,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00091422,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00005843,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00077784,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.00039503,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00030598,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00039736,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00007642,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00022293,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00036196,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.00059489,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00049346,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00046031,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.00064976,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00062498,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00031981,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00052067,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": -0.00024999,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00010962,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.0006268,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00008473,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": 0.00062944,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00023137,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00033232,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00096091,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00033513,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": 0.00024092,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00050849,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.00051944,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": -0.00023285,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00000757,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00021465,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00029321,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.0004367,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00052416,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00071808,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00090859,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00081691,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.00042109,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00088162,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.0001826,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00040992,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00051186,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.0004124,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00015613,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00048171,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00119373,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00120255,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00024254,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00017416,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00004749,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": -0.00006337,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00025326,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": -0.00006984,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": -0.00001397,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": 0.00010991,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": 0.00034469,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": 0.00028895,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": 0.00014657,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": -0.00010955,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": -0.00004572,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": 0.00001321,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00007105,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": 0.00007613,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00014906,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": -0.00001168,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00002032,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00004934,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00023683,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00032772,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00040605,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00004494,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00005326,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00028154,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.00013223,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00014997,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00009252,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "XRP_USDT",
+    "rawPair": "XRP-USDT-SWAP"
+  }
+]

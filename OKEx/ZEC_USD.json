@@ -1,0 +1,1906 @@
+[
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T00:00:00.000Z",
+    "fundingRate": 0,
+    "fundingTime": "2020-04-27T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-04-27T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-27T16:00:00.000Z",
+    "fundingRate": 0.00019468,
+    "fundingTime": "2020-04-28T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T00:00:00.000Z",
+    "fundingRate": 0.00013327,
+    "fundingTime": "2020-04-28T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T08:00:00.000Z",
+    "fundingRate": 0.0003,
+    "fundingTime": "2020-04-28T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-28T16:00:00.000Z",
+    "fundingRate": 0.00030674,
+    "fundingTime": "2020-04-29T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T00:00:00.000Z",
+    "fundingRate": 0.00034012,
+    "fundingTime": "2020-04-29T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T08:00:00.000Z",
+    "fundingRate": 0.00041244,
+    "fundingTime": "2020-04-29T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-29T16:00:00.000Z",
+    "fundingRate": 0.00026746,
+    "fundingTime": "2020-04-30T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T00:00:00.000Z",
+    "fundingRate": 0.00087418,
+    "fundingTime": "2020-04-30T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T08:00:00.000Z",
+    "fundingRate": 0.00041013,
+    "fundingTime": "2020-04-30T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-04-30T16:00:00.000Z",
+    "fundingRate": 0.00059542,
+    "fundingTime": "2020-05-01T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T00:00:00.000Z",
+    "fundingRate": 0.00011352,
+    "fundingTime": "2020-05-01T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T08:00:00.000Z",
+    "fundingRate": 0.00047286,
+    "fundingTime": "2020-05-01T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-01T16:00:00.000Z",
+    "fundingRate": -0.00018594,
+    "fundingTime": "2020-05-02T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T00:00:00.000Z",
+    "fundingRate": 0.00090473,
+    "fundingTime": "2020-05-02T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T08:00:00.000Z",
+    "fundingRate": -0.00030057,
+    "fundingTime": "2020-05-02T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-02T16:00:00.000Z",
+    "fundingRate": 0.00110462,
+    "fundingTime": "2020-05-03T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T00:00:00.000Z",
+    "fundingRate": -0.00008234,
+    "fundingTime": "2020-05-03T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T08:00:00.000Z",
+    "fundingRate": 0.00107902,
+    "fundingTime": "2020-05-03T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-03T16:00:00.000Z",
+    "fundingRate": -0.00016268,
+    "fundingTime": "2020-05-04T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T00:00:00.000Z",
+    "fundingRate": 0.00092156,
+    "fundingTime": "2020-05-04T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T08:00:00.000Z",
+    "fundingRate": 0.00029319,
+    "fundingTime": "2020-05-04T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-04T16:00:00.000Z",
+    "fundingRate": 0.00067219,
+    "fundingTime": "2020-05-05T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T00:00:00.000Z",
+    "fundingRate": 0.00041738,
+    "fundingTime": "2020-05-05T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T08:00:00.000Z",
+    "fundingRate": 0.00193514,
+    "fundingTime": "2020-05-05T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-05T16:00:00.000Z",
+    "fundingRate": 0.00185792,
+    "fundingTime": "2020-05-06T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T00:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-06T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T08:00:00.000Z",
+    "fundingRate": 0.00016748,
+    "fundingTime": "2020-05-06T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-06T16:00:00.000Z",
+    "fundingRate": 0.00000136,
+    "fundingTime": "2020-05-07T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T00:00:00.000Z",
+    "fundingRate": 0.00029114,
+    "fundingTime": "2020-05-07T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T08:00:00.000Z",
+    "fundingRate": -0.00000913,
+    "fundingTime": "2020-05-07T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-07T16:00:00.000Z",
+    "fundingRate": 0.00083965,
+    "fundingTime": "2020-05-08T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T00:00:00.000Z",
+    "fundingRate": 0.0003462,
+    "fundingTime": "2020-05-08T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T08:00:00.000Z",
+    "fundingRate": 0.00039718,
+    "fundingTime": "2020-05-08T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-08T16:00:00.000Z",
+    "fundingRate": 0.00023586,
+    "fundingTime": "2020-05-09T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T00:00:00.000Z",
+    "fundingRate": 0.0001719,
+    "fundingTime": "2020-05-09T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T08:00:00.000Z",
+    "fundingRate": 0.00149721,
+    "fundingTime": "2020-05-09T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-09T16:00:00.000Z",
+    "fundingRate": 0.00147199,
+    "fundingTime": "2020-05-10T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T00:00:00.000Z",
+    "fundingRate": 0.00031281,
+    "fundingTime": "2020-05-10T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T08:00:00.000Z",
+    "fundingRate": 0.00064195,
+    "fundingTime": "2020-05-10T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-10T16:00:00.000Z",
+    "fundingRate": -0.00000177,
+    "fundingTime": "2020-05-11T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T00:00:00.000Z",
+    "fundingRate": 0.00065614,
+    "fundingTime": "2020-05-11T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T08:00:00.000Z",
+    "fundingRate": -0.00002941,
+    "fundingTime": "2020-05-11T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-11T16:00:00.000Z",
+    "fundingRate": 0.00082196,
+    "fundingTime": "2020-05-12T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T00:00:00.000Z",
+    "fundingRate": -0.00045545,
+    "fundingTime": "2020-05-12T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T08:00:00.000Z",
+    "fundingRate": 0.0027698,
+    "fundingTime": "2020-05-12T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-12T16:00:00.000Z",
+    "fundingRate": -0.00167971,
+    "fundingTime": "2020-05-13T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T00:00:00.000Z",
+    "fundingRate": 0.00164764,
+    "fundingTime": "2020-05-13T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T08:00:00.000Z",
+    "fundingRate": -0.00104859,
+    "fundingTime": "2020-05-13T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-13T16:00:00.000Z",
+    "fundingRate": 0.00055287,
+    "fundingTime": "2020-05-14T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T00:00:00.000Z",
+    "fundingRate": -0.00099268,
+    "fundingTime": "2020-05-14T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T08:00:00.000Z",
+    "fundingRate": 0.00102894,
+    "fundingTime": "2020-05-14T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-14T16:00:00.000Z",
+    "fundingRate": -0.00153749,
+    "fundingTime": "2020-05-15T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T00:00:00.000Z",
+    "fundingRate": 0.0018695,
+    "fundingTime": "2020-05-15T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T08:00:00.000Z",
+    "fundingRate": -0.00039854,
+    "fundingTime": "2020-05-15T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-15T16:00:00.000Z",
+    "fundingRate": 0.00142595,
+    "fundingTime": "2020-05-16T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T00:00:00.000Z",
+    "fundingRate": 0.00037616,
+    "fundingTime": "2020-05-16T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T08:00:00.000Z",
+    "fundingRate": 0.00142901,
+    "fundingTime": "2020-05-16T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-16T16:00:00.000Z",
+    "fundingRate": 0.00050597,
+    "fundingTime": "2020-05-17T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T00:00:00.000Z",
+    "fundingRate": 0.00139174,
+    "fundingTime": "2020-05-17T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T08:00:00.000Z",
+    "fundingRate": 0.00072172,
+    "fundingTime": "2020-05-17T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-17T16:00:00.000Z",
+    "fundingRate": 0.00076683,
+    "fundingTime": "2020-05-18T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T00:00:00.000Z",
+    "fundingRate": 0.00076115,
+    "fundingTime": "2020-05-18T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T08:00:00.000Z",
+    "fundingRate": 0.00214627,
+    "fundingTime": "2020-05-18T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-18T16:00:00.000Z",
+    "fundingRate": 0.00139979,
+    "fundingTime": "2020-05-19T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T00:00:00.000Z",
+    "fundingRate": 0.00247855,
+    "fundingTime": "2020-05-19T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T08:00:00.000Z",
+    "fundingRate": 0.00133719,
+    "fundingTime": "2020-05-19T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-19T16:00:00.000Z",
+    "fundingRate": 0.00166678,
+    "fundingTime": "2020-05-20T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T00:00:00.000Z",
+    "fundingRate": 0.00058098,
+    "fundingTime": "2020-05-20T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T08:00:00.000Z",
+    "fundingRate": 0.003,
+    "fundingTime": "2020-05-20T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-20T16:00:00.000Z",
+    "fundingRate": 0.00009454,
+    "fundingTime": "2020-05-21T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T00:00:00.000Z",
+    "fundingRate": 0.0006138,
+    "fundingTime": "2020-05-21T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T08:00:00.000Z",
+    "fundingRate": 0.00089844,
+    "fundingTime": "2020-05-21T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-21T16:00:00.000Z",
+    "fundingRate": 0.00119075,
+    "fundingTime": "2020-05-22T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T00:00:00.000Z",
+    "fundingRate": 0.00043158,
+    "fundingTime": "2020-05-22T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T08:00:00.000Z",
+    "fundingRate": 0.00050132,
+    "fundingTime": "2020-05-22T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-22T16:00:00.000Z",
+    "fundingRate": 0.00065968,
+    "fundingTime": "2020-05-23T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T00:00:00.000Z",
+    "fundingRate": -0.00046139,
+    "fundingTime": "2020-05-23T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T08:00:00.000Z",
+    "fundingRate": 0.00054332,
+    "fundingTime": "2020-05-23T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-23T16:00:00.000Z",
+    "fundingRate": 0.00074932,
+    "fundingTime": "2020-05-24T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T00:00:00.000Z",
+    "fundingRate": 0.00037219,
+    "fundingTime": "2020-05-24T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T08:00:00.000Z",
+    "fundingRate": 0.0005265,
+    "fundingTime": "2020-05-24T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-24T16:00:00.000Z",
+    "fundingRate": 0.00052119,
+    "fundingTime": "2020-05-25T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T00:00:00.000Z",
+    "fundingRate": 0.00134618,
+    "fundingTime": "2020-05-25T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T08:00:00.000Z",
+    "fundingRate": 0.00059064,
+    "fundingTime": "2020-05-25T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-25T16:00:00.000Z",
+    "fundingRate": 0.00078287,
+    "fundingTime": "2020-05-26T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T00:00:00.000Z",
+    "fundingRate": 0.00017212,
+    "fundingTime": "2020-05-26T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T08:00:00.000Z",
+    "fundingRate": 0.00022457,
+    "fundingTime": "2020-05-26T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-26T16:00:00.000Z",
+    "fundingRate": -0.00020999,
+    "fundingTime": "2020-05-27T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T00:00:00.000Z",
+    "fundingRate": 0.00005713,
+    "fundingTime": "2020-05-27T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T08:00:00.000Z",
+    "fundingRate": 0.0003801,
+    "fundingTime": "2020-05-27T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-27T16:00:00.000Z",
+    "fundingRate": -0.00022883,
+    "fundingTime": "2020-05-28T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T00:00:00.000Z",
+    "fundingRate": 0.00085997,
+    "fundingTime": "2020-05-28T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T08:00:00.000Z",
+    "fundingRate": 0.00014836,
+    "fundingTime": "2020-05-28T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-28T16:00:00.000Z",
+    "fundingRate": 0.00003106,
+    "fundingTime": "2020-05-29T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T00:00:00.000Z",
+    "fundingRate": 0.00029495,
+    "fundingTime": "2020-05-29T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T08:00:00.000Z",
+    "fundingRate": 0.00064442,
+    "fundingTime": "2020-05-29T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-29T16:00:00.000Z",
+    "fundingRate": 0.00012454,
+    "fundingTime": "2020-05-30T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T00:00:00.000Z",
+    "fundingRate": 0.00087091,
+    "fundingTime": "2020-05-30T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T08:00:00.000Z",
+    "fundingRate": 0.00062952,
+    "fundingTime": "2020-05-30T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-30T16:00:00.000Z",
+    "fundingRate": 0.00018898,
+    "fundingTime": "2020-05-31T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T00:00:00.000Z",
+    "fundingRate": 0.00087691,
+    "fundingTime": "2020-05-31T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T08:00:00.000Z",
+    "fundingRate": 0.00020875,
+    "fundingTime": "2020-05-31T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-05-31T16:00:00.000Z",
+    "fundingRate": 0.00081013,
+    "fundingTime": "2020-06-01T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T00:00:00.000Z",
+    "fundingRate": 0.00053687,
+    "fundingTime": "2020-06-01T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T08:00:00.000Z",
+    "fundingRate": 0.00091961,
+    "fundingTime": "2020-06-01T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-01T16:00:00.000Z",
+    "fundingRate": 0.00032854,
+    "fundingTime": "2020-06-02T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T00:00:00.000Z",
+    "fundingRate": 0.00125349,
+    "fundingTime": "2020-06-02T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T08:00:00.000Z",
+    "fundingRate": 0.00221816,
+    "fundingTime": "2020-06-02T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-02T16:00:00.000Z",
+    "fundingRate": 0.00137111,
+    "fundingTime": "2020-06-03T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T00:00:00.000Z",
+    "fundingRate": -0.00157633,
+    "fundingTime": "2020-06-03T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T08:00:00.000Z",
+    "fundingRate": 0.00185611,
+    "fundingTime": "2020-06-03T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-03T16:00:00.000Z",
+    "fundingRate": -0.00067565,
+    "fundingTime": "2020-06-04T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T00:00:00.000Z",
+    "fundingRate": 0.00133242,
+    "fundingTime": "2020-06-04T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T08:00:00.000Z",
+    "fundingRate": -0.00056541,
+    "fundingTime": "2020-06-04T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-04T16:00:00.000Z",
+    "fundingRate": 0.00027559,
+    "fundingTime": "2020-06-05T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T00:00:00.000Z",
+    "fundingRate": 0.00026602,
+    "fundingTime": "2020-06-05T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T08:00:00.000Z",
+    "fundingRate": 0.00011077,
+    "fundingTime": "2020-06-05T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-05T16:00:00.000Z",
+    "fundingRate": 0.00041,
+    "fundingTime": "2020-06-06T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T00:00:00.000Z",
+    "fundingRate": 0.00036809,
+    "fundingTime": "2020-06-06T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T08:00:00.000Z",
+    "fundingRate": 0.00104075,
+    "fundingTime": "2020-06-06T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-06T16:00:00.000Z",
+    "fundingRate": -0.00012057,
+    "fundingTime": "2020-06-07T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T00:00:00.000Z",
+    "fundingRate": 0.00052749,
+    "fundingTime": "2020-06-07T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T08:00:00.000Z",
+    "fundingRate": 0.00084156,
+    "fundingTime": "2020-06-07T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-07T16:00:00.000Z",
+    "fundingRate": 0.00039721,
+    "fundingTime": "2020-06-08T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T00:00:00.000Z",
+    "fundingRate": 0.00021747,
+    "fundingTime": "2020-06-08T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T08:00:00.000Z",
+    "fundingRate": 0.00075239,
+    "fundingTime": "2020-06-08T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-08T16:00:00.000Z",
+    "fundingRate": 0.00007782,
+    "fundingTime": "2020-06-09T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T00:00:00.000Z",
+    "fundingRate": 0.00071677,
+    "fundingTime": "2020-06-09T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T08:00:00.000Z",
+    "fundingRate": 0.00017095,
+    "fundingTime": "2020-06-09T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-09T16:00:00.000Z",
+    "fundingRate": -0.00043335,
+    "fundingTime": "2020-06-10T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T00:00:00.000Z",
+    "fundingRate": 0.00039203,
+    "fundingTime": "2020-06-10T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T08:00:00.000Z",
+    "fundingRate": -0.00007971,
+    "fundingTime": "2020-06-10T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-10T16:00:00.000Z",
+    "fundingRate": 0.00048863,
+    "fundingTime": "2020-06-11T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T00:00:00.000Z",
+    "fundingRate": 0.00076842,
+    "fundingTime": "2020-06-11T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-06-11T08:00:00.000Z",
+    "fundingRate": 0.00105181,
+    "fundingTime": "2020-06-11T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T08:00:00.000Z",
+    "fundingRate": 0.00045811,
+    "fundingTime": "2020-07-25T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-25T16:00:00.000Z",
+    "fundingRate": 0.00035362,
+    "fundingTime": "2020-07-26T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T00:00:00.000Z",
+    "fundingRate": 0.0002657,
+    "fundingTime": "2020-07-26T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T08:00:00.000Z",
+    "fundingRate": 0.000716,
+    "fundingTime": "2020-07-26T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-26T16:00:00.000Z",
+    "fundingRate": 0.0009433,
+    "fundingTime": "2020-07-27T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T00:00:00.000Z",
+    "fundingRate": 0.00112885,
+    "fundingTime": "2020-07-27T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T08:00:00.000Z",
+    "fundingRate": 0.00061201,
+    "fundingTime": "2020-07-27T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-27T16:00:00.000Z",
+    "fundingRate": 0.0003462,
+    "fundingTime": "2020-07-28T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T00:00:00.000Z",
+    "fundingRate": 0.0005117,
+    "fundingTime": "2020-07-28T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T08:00:00.000Z",
+    "fundingRate": 0.00092736,
+    "fundingTime": "2020-07-28T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-28T16:00:00.000Z",
+    "fundingRate": 0.00131094,
+    "fundingTime": "2020-07-29T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T00:00:00.000Z",
+    "fundingRate": -0.00014722,
+    "fundingTime": "2020-07-29T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T08:00:00.000Z",
+    "fundingRate": 0.00223226,
+    "fundingTime": "2020-07-29T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-29T16:00:00.000Z",
+    "fundingRate": 0.00094895,
+    "fundingTime": "2020-07-30T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T00:00:00.000Z",
+    "fundingRate": 0.00045864,
+    "fundingTime": "2020-07-30T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T08:00:00.000Z",
+    "fundingRate": 0.00091656,
+    "fundingTime": "2020-07-30T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-30T16:00:00.000Z",
+    "fundingRate": 0.00083728,
+    "fundingTime": "2020-07-31T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T00:00:00.000Z",
+    "fundingRate": 0.00054965,
+    "fundingTime": "2020-07-31T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T08:00:00.000Z",
+    "fundingRate": 0.0010006,
+    "fundingTime": "2020-07-31T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-07-31T16:00:00.000Z",
+    "fundingRate": 0.00059303,
+    "fundingTime": "2020-08-01T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T00:00:00.000Z",
+    "fundingRate": 0.00044139,
+    "fundingTime": "2020-08-01T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T08:00:00.000Z",
+    "fundingRate": 0.00094911,
+    "fundingTime": "2020-08-01T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-01T16:00:00.000Z",
+    "fundingRate": 0.00077458,
+    "fundingTime": "2020-08-02T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T00:00:00.000Z",
+    "fundingRate": 0.00117042,
+    "fundingTime": "2020-08-02T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T08:00:00.000Z",
+    "fundingRate": 0.00072804,
+    "fundingTime": "2020-08-02T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-02T16:00:00.000Z",
+    "fundingRate": 0.00007429,
+    "fundingTime": "2020-08-03T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T00:00:00.000Z",
+    "fundingRate": 0.00090413,
+    "fundingTime": "2020-08-03T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T08:00:00.000Z",
+    "fundingRate": 0.00077875,
+    "fundingTime": "2020-08-03T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-03T16:00:00.000Z",
+    "fundingRate": 0.0006508,
+    "fundingTime": "2020-08-04T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T00:00:00.000Z",
+    "fundingRate": 0.00024471,
+    "fundingTime": "2020-08-04T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T08:00:00.000Z",
+    "fundingRate": 0.00048174,
+    "fundingTime": "2020-08-04T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-04T16:00:00.000Z",
+    "fundingRate": 0.00098275,
+    "fundingTime": "2020-08-05T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T00:00:00.000Z",
+    "fundingRate": 0.00013215,
+    "fundingTime": "2020-08-05T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T08:00:00.000Z",
+    "fundingRate": 0.00145465,
+    "fundingTime": "2020-08-05T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-05T16:00:00.000Z",
+    "fundingRate": 0.0003259,
+    "fundingTime": "2020-08-06T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T00:00:00.000Z",
+    "fundingRate": 0.00043919,
+    "fundingTime": "2020-08-06T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T08:00:00.000Z",
+    "fundingRate": 0.00089278,
+    "fundingTime": "2020-08-06T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-06T16:00:00.000Z",
+    "fundingRate": 0.000657,
+    "fundingTime": "2020-08-07T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T00:00:00.000Z",
+    "fundingRate": 0.00023134,
+    "fundingTime": "2020-08-07T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T08:00:00.000Z",
+    "fundingRate": 0.00120068,
+    "fundingTime": "2020-08-07T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-07T16:00:00.000Z",
+    "fundingRate": 0.00058278,
+    "fundingTime": "2020-08-08T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T00:00:00.000Z",
+    "fundingRate": 0.00033136,
+    "fundingTime": "2020-08-08T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T08:00:00.000Z",
+    "fundingRate": 0.00061115,
+    "fundingTime": "2020-08-08T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-08T16:00:00.000Z",
+    "fundingRate": 0.00074598,
+    "fundingTime": "2020-08-09T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T00:00:00.000Z",
+    "fundingRate": 0.00036117,
+    "fundingTime": "2020-08-09T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T08:00:00.000Z",
+    "fundingRate": -0.00008987,
+    "fundingTime": "2020-08-09T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-09T16:00:00.000Z",
+    "fundingRate": 0.00091655,
+    "fundingTime": "2020-08-10T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T00:00:00.000Z",
+    "fundingRate": 0.00057758,
+    "fundingTime": "2020-08-10T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T08:00:00.000Z",
+    "fundingRate": 0.00053526,
+    "fundingTime": "2020-08-10T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-10T16:00:00.000Z",
+    "fundingRate": 0.00068097,
+    "fundingTime": "2020-08-11T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T00:00:00.000Z",
+    "fundingRate": -0.00012827,
+    "fundingTime": "2020-08-11T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T08:00:00.000Z",
+    "fundingRate": 0.00031798,
+    "fundingTime": "2020-08-11T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-11T16:00:00.000Z",
+    "fundingRate": 0.0002797,
+    "fundingTime": "2020-08-12T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T00:00:00.000Z",
+    "fundingRate": 0.00088836,
+    "fundingTime": "2020-08-12T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T08:00:00.000Z",
+    "fundingRate": 0.00176494,
+    "fundingTime": "2020-08-12T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-12T16:00:00.000Z",
+    "fundingRate": 0.00088962,
+    "fundingTime": "2020-08-13T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T00:00:00.000Z",
+    "fundingRate": 0.00094075,
+    "fundingTime": "2020-08-13T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T08:00:00.000Z",
+    "fundingRate": 0.00000737,
+    "fundingTime": "2020-08-13T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-13T16:00:00.000Z",
+    "fundingRate": 0.00103343,
+    "fundingTime": "2020-08-14T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T00:00:00.000Z",
+    "fundingRate": 0.00035129,
+    "fundingTime": "2020-08-14T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T08:00:00.000Z",
+    "fundingRate": 0.00137514,
+    "fundingTime": "2020-08-14T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-14T16:00:00.000Z",
+    "fundingRate": 0.00179258,
+    "fundingTime": "2020-08-15T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T00:00:00.000Z",
+    "fundingRate": 0.000305,
+    "fundingTime": "2020-08-15T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T08:00:00.000Z",
+    "fundingRate": 0.00152284,
+    "fundingTime": "2020-08-15T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-15T16:00:00.000Z",
+    "fundingRate": 0.00067206,
+    "fundingTime": "2020-08-16T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T00:00:00.000Z",
+    "fundingRate": 0.00137215,
+    "fundingTime": "2020-08-16T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T08:00:00.000Z",
+    "fundingRate": 0.00080687,
+    "fundingTime": "2020-08-16T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-16T16:00:00.000Z",
+    "fundingRate": 0.00127389,
+    "fundingTime": "2020-08-17T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T00:00:00.000Z",
+    "fundingRate": 0.00074476,
+    "fundingTime": "2020-08-17T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T08:00:00.000Z",
+    "fundingRate": 0.00097643,
+    "fundingTime": "2020-08-17T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-17T16:00:00.000Z",
+    "fundingRate": 0.00086132,
+    "fundingTime": "2020-08-18T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T00:00:00.000Z",
+    "fundingRate": 0.00146533,
+    "fundingTime": "2020-08-18T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T08:00:00.000Z",
+    "fundingRate": 0.00174474,
+    "fundingTime": "2020-08-18T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-18T16:00:00.000Z",
+    "fundingRate": 0.00038171,
+    "fundingTime": "2020-08-19T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T00:00:00.000Z",
+    "fundingRate": 0.00024979,
+    "fundingTime": "2020-08-19T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T08:00:00.000Z",
+    "fundingRate": 0.00036128,
+    "fundingTime": "2020-08-19T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-19T16:00:00.000Z",
+    "fundingRate": 0.00043497,
+    "fundingTime": "2020-08-20T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T00:00:00.000Z",
+    "fundingRate": -0.00109296,
+    "fundingTime": "2020-08-20T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T08:00:00.000Z",
+    "fundingRate": 0.00027334,
+    "fundingTime": "2020-08-20T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-20T16:00:00.000Z",
+    "fundingRate": -0.00058056,
+    "fundingTime": "2020-08-21T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T00:00:00.000Z",
+    "fundingRate": -0.0002042,
+    "fundingTime": "2020-08-21T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T08:00:00.000Z",
+    "fundingRate": -6.8e-7,
+    "fundingTime": "2020-08-21T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-21T16:00:00.000Z",
+    "fundingRate": -0.00014786,
+    "fundingTime": "2020-08-22T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T00:00:00.000Z",
+    "fundingRate": 0.00023032,
+    "fundingTime": "2020-08-22T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T08:00:00.000Z",
+    "fundingRate": 0.00075695,
+    "fundingTime": "2020-08-22T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-22T16:00:00.000Z",
+    "fundingRate": -0.00013504,
+    "fundingTime": "2020-08-23T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T00:00:00.000Z",
+    "fundingRate": 0.00028703,
+    "fundingTime": "2020-08-23T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T08:00:00.000Z",
+    "fundingRate": -0.00029087,
+    "fundingTime": "2020-08-23T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-23T16:00:00.000Z",
+    "fundingRate": 0.00044295,
+    "fundingTime": "2020-08-24T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T00:00:00.000Z",
+    "fundingRate": 0.00107054,
+    "fundingTime": "2020-08-24T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T08:00:00.000Z",
+    "fundingRate": 0.00040227,
+    "fundingTime": "2020-08-24T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-24T16:00:00.000Z",
+    "fundingRate": 0.00058017,
+    "fundingTime": "2020-08-25T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T00:00:00.000Z",
+    "fundingRate": 0.00082741,
+    "fundingTime": "2020-08-25T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T08:00:00.000Z",
+    "fundingRate": 0.00055917,
+    "fundingTime": "2020-08-25T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-25T16:00:00.000Z",
+    "fundingRate": 0.00056455,
+    "fundingTime": "2020-08-26T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T00:00:00.000Z",
+    "fundingRate": 0.00006474,
+    "fundingTime": "2020-08-26T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T08:00:00.000Z",
+    "fundingRate": 0.00007934,
+    "fundingTime": "2020-08-26T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-26T16:00:00.000Z",
+    "fundingRate": 0.00022824,
+    "fundingTime": "2020-08-27T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T00:00:00.000Z",
+    "fundingRate": 0.000341,
+    "fundingTime": "2020-08-27T08:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T08:00:00.000Z",
+    "fundingRate": 0.00072192,
+    "fundingTime": "2020-08-27T16:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  },
+  {
+    "exchange": "OKEx",
+    "fundingBeginTime": "2020-08-27T16:00:00.000Z",
+    "fundingRate": 0.00055828,
+    "fundingTime": "2020-08-28T00:00:00.000Z",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD-SWAP"
+  }
+]

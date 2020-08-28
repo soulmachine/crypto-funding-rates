@@ -1,0 +1,3354 @@
+[
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T12:00:00.000Z",
+    "fundingRate": -0.000063280154221735,
+    "fundingTime": "2020-04-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-13T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T04:00:00.000Z",
+    "fundingRate": -0.000297939712194601,
+    "fundingTime": "2020-04-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T12:00:00.000Z",
+    "fundingRate": -0.00055920071474125,
+    "fundingTime": "2020-04-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T04:00:00.000Z",
+    "fundingRate": -0.000374590567275298,
+    "fundingTime": "2020-04-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T12:00:00.000Z",
+    "fundingRate": -0.000072457884244753,
+    "fundingTime": "2020-04-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T12:00:00.000Z",
+    "fundingRate": -0.000160312962559173,
+    "fundingTime": "2020-04-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T12:00:00.000Z",
+    "fundingRate": 0.000055600784896853,
+    "fundingTime": "2020-04-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-19T20:00:00.000Z",
+    "fundingRate": -0.000143325736251766,
+    "fundingTime": "2020-04-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T04:00:00.000Z",
+    "fundingRate": -0.000079525683123817,
+    "fundingTime": "2020-04-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T12:00:00.000Z",
+    "fundingRate": -0.0003911045959552,
+    "fundingTime": "2020-04-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-21T20:00:00.000Z",
+    "fundingRate": -0.000244361158148712,
+    "fundingTime": "2020-04-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T12:00:00.000Z",
+    "fundingRate": -0.000443589405837824,
+    "fundingTime": "2020-04-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-22T20:00:00.000Z",
+    "fundingRate": -0.000064622253625333,
+    "fundingTime": "2020-04-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T12:00:00.000Z",
+    "fundingRate": 0.000083426555324141,
+    "fundingTime": "2020-04-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T04:00:00.000Z",
+    "fundingRate": 0.000067721877367575,
+    "fundingTime": "2020-04-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-25T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T04:00:00.000Z",
+    "fundingRate": -0.000716702260042465,
+    "fundingTime": "2020-04-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T04:00:00.000Z",
+    "fundingRate": -0.000087364764813362,
+    "fundingTime": "2020-04-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T04:00:00.000Z",
+    "fundingRate": -0.00034585203132823,
+    "fundingTime": "2020-04-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T12:00:00.000Z",
+    "fundingRate": -0.000377569279811072,
+    "fundingTime": "2020-04-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-28T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T12:00:00.000Z",
+    "fundingRate": -0.000646422074884778,
+    "fundingTime": "2020-04-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-29T20:00:00.000Z",
+    "fundingRate": 0.000919922881273454,
+    "fundingTime": "2020-04-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-04-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-04-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-01T20:00:00.000Z",
+    "fundingRate": 0.000516803973079568,
+    "fundingTime": "2020-05-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T04:00:00.000Z",
+    "fundingRate": 0.00084582959118266,
+    "fundingTime": "2020-05-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-03T20:00:00.000Z",
+    "fundingRate": 0.000720260573401994,
+    "fundingTime": "2020-05-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T04:00:00.000Z",
+    "fundingRate": -0.000092778016993711,
+    "fundingTime": "2020-05-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T04:00:00.000Z",
+    "fundingRate": 0.000177267722852824,
+    "fundingTime": "2020-05-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-08T20:00:00.000Z",
+    "fundingRate": -0.000002068937633457,
+    "fundingTime": "2020-05-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T04:00:00.000Z",
+    "fundingRate": 0.000382414911155511,
+    "fundingTime": "2020-05-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T12:00:00.000Z",
+    "fundingRate": 0.000909186480647465,
+    "fundingTime": "2020-05-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-10T20:00:00.000Z",
+    "fundingRate": -0.0005793385251622,
+    "fundingTime": "2020-05-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T12:00:00.000Z",
+    "fundingRate": -0.000067167870890586,
+    "fundingTime": "2020-05-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-11T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T12:00:00.000Z",
+    "fundingRate": -0.000086713469699727,
+    "fundingTime": "2020-05-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-12T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T04:00:00.000Z",
+    "fundingRate": -0.000015352854813681,
+    "fundingTime": "2020-05-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T12:00:00.000Z",
+    "fundingRate": 0.000017874511968023,
+    "fundingTime": "2020-05-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-13T20:00:00.000Z",
+    "fundingRate": 0.000020801593854033,
+    "fundingTime": "2020-05-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-14T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-15T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-16T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T04:00:00.000Z",
+    "fundingRate": -0.00013999530238704,
+    "fundingTime": "2020-05-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-17T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-18T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T04:00:00.000Z",
+    "fundingRate": 0.000316375474722196,
+    "fundingTime": "2020-05-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T12:00:00.000Z",
+    "fundingRate": -0.000335716358684131,
+    "fundingTime": "2020-05-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-19T20:00:00.000Z",
+    "fundingRate": 0.000087351908217089,
+    "fundingTime": "2020-05-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-20T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T04:00:00.000Z",
+    "fundingRate": 0.000378858388027508,
+    "fundingTime": "2020-05-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-21T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T04:00:00.000Z",
+    "fundingRate": 0.000243336342194557,
+    "fundingTime": "2020-05-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T12:00:00.000Z",
+    "fundingRate": 0.000007144877797605,
+    "fundingTime": "2020-05-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-22T20:00:00.000Z",
+    "fundingRate": 0.000020602628792843,
+    "fundingTime": "2020-05-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T04:00:00.000Z",
+    "fundingRate": -0.000021253528373834,
+    "fundingTime": "2020-05-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-23T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-24T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-25T20:00:00.000Z",
+    "fundingRate": -0.00026911274086395,
+    "fundingTime": "2020-05-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-26T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T04:00:00.000Z",
+    "fundingRate": -0.00011011026712899,
+    "fundingTime": "2020-05-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T12:00:00.000Z",
+    "fundingRate": -0.000142752313802637,
+    "fundingTime": "2020-05-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-27T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-28T20:00:00.000Z",
+    "fundingRate": -0.000081162346286828,
+    "fundingTime": "2020-05-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-29T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-30T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-05-31T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-05-31T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T04:00:00.000Z",
+    "fundingRate": 0.000285536677385193,
+    "fundingTime": "2020-06-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-01T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T04:00:00.000Z",
+    "fundingRate": 0.000375002535316898,
+    "fundingTime": "2020-06-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T12:00:00.000Z",
+    "fundingRate": 0.000754757983616127,
+    "fundingTime": "2020-06-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-02T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-03T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T12:00:00.000Z",
+    "fundingRate": 0.000201961539032281,
+    "fundingTime": "2020-06-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-04T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T12:00:00.000Z",
+    "fundingRate": 0.000327893419904979,
+    "fundingTime": "2020-06-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-05T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-06T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T12:00:00.000Z",
+    "fundingRate": 0.000224789432277309,
+    "fundingTime": "2020-06-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-07T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-08T20:00:00.000Z",
+    "fundingRate": 0.000754321471967691,
+    "fundingTime": "2020-06-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T04:00:00.000Z",
+    "fundingRate": -0.000151694448090915,
+    "fundingTime": "2020-06-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T12:00:00.000Z",
+    "fundingRate": 0.000154245836007762,
+    "fundingTime": "2020-06-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-09T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T04:00:00.000Z",
+    "fundingRate": 0.0003542590234074,
+    "fundingTime": "2020-06-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T12:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-10T20:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T04:00:00.000Z",
+    "fundingRate": 0.0001,
+    "fundingTime": "2020-06-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T12:00:00.000Z",
+    "fundingRate": 0.000801438259809765,
+    "fundingTime": "2020-06-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T12:00:00.000Z",
+    "fundingRate": 0.000012472721750644,
+    "fundingTime": "2020-06-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-13T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T04:00:00.000Z",
+    "fundingRate": 0.000606419811065512,
+    "fundingTime": "2020-06-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T04:00:00.000Z",
+    "fundingRate": 0.000201177497779037,
+    "fundingTime": "2020-06-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-15T20:00:00.000Z",
+    "fundingRate": -0.000252255267875532,
+    "fundingTime": "2020-06-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T04:00:00.000Z",
+    "fundingRate": -0.0000112653357492,
+    "fundingTime": "2020-06-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T04:00:00.000Z",
+    "fundingRate": 0.000150292002868272,
+    "fundingTime": "2020-06-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T12:00:00.000Z",
+    "fundingRate": -0.000067699571339166,
+    "fundingTime": "2020-06-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-17T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T04:00:00.000Z",
+    "fundingRate": 0.000280074244931626,
+    "fundingTime": "2020-06-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-23T20:00:00.000Z",
+    "fundingRate": -0.000026816879370379,
+    "fundingTime": "2020-06-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T12:00:00.000Z",
+    "fundingRate": 0.000366159531994106,
+    "fundingTime": "2020-06-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-24T20:00:00.000Z",
+    "fundingRate": -0.00051736921750939,
+    "fundingTime": "2020-06-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-25T20:00:00.000Z",
+    "fundingRate": -0.000237481030080215,
+    "fundingTime": "2020-06-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T12:00:00.000Z",
+    "fundingRate": 0.00014652434017464,
+    "fundingTime": "2020-06-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-27T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-28T20:00:00.000Z",
+    "fundingRate": -0.000119935338523073,
+    "fundingTime": "2020-06-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-29T20:00:00.000Z",
+    "fundingRate": -0.000021540688601069,
+    "fundingTime": "2020-06-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-06-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-06-30T20:00:00.000Z",
+    "fundingRate": 0.000041368103097981,
+    "fundingTime": "2020-07-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-01T20:00:00.000Z",
+    "fundingRate": -0.000296063008155877,
+    "fundingTime": "2020-07-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T04:00:00.000Z",
+    "fundingRate": -0.000288505906338088,
+    "fundingTime": "2020-07-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T12:00:00.000Z",
+    "fundingRate": 0.000042574022856397,
+    "fundingTime": "2020-07-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-03T20:00:00.000Z",
+    "fundingRate": 0.000001473590005632,
+    "fundingTime": "2020-07-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-04T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-05T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T12:00:00.000Z",
+    "fundingRate": -0.000550205165051687,
+    "fundingTime": "2020-07-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-06T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-08T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T04:00:00.000Z",
+    "fundingRate": 0.000141520253215082,
+    "fundingTime": "2020-07-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-09T20:00:00.000Z",
+    "fundingRate": 0.00025540767306413,
+    "fundingTime": "2020-07-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T04:00:00.000Z",
+    "fundingRate": 0.000554274323909279,
+    "fundingTime": "2020-07-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-10T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-11T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-13T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-14T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-15T20:00:00.000Z",
+    "fundingRate": 0.000198523109676218,
+    "fundingTime": "2020-07-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-16T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-17T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T12:00:00.000Z",
+    "fundingRate": -0.000091958267881699,
+    "fundingTime": "2020-07-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T04:00:00.000Z",
+    "fundingRate": -0.000082055527523898,
+    "fundingTime": "2020-07-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-23T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T04:00:00.000Z",
+    "fundingRate": -0.000054314015831218,
+    "fundingTime": "2020-07-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T04:00:00.000Z",
+    "fundingRate": 0.000194913101068805,
+    "fundingTime": "2020-07-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T12:00:00.000Z",
+    "fundingRate": 0.000689306911850771,
+    "fundingTime": "2020-07-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-26T20:00:00.000Z",
+    "fundingRate": 0.000483895968008372,
+    "fundingTime": "2020-07-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T04:00:00.000Z",
+    "fundingRate": 0.000363810244286045,
+    "fundingTime": "2020-07-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-27T20:00:00.000Z",
+    "fundingRate": 0.000181178500080927,
+    "fundingTime": "2020-07-28T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T04:00:00.000Z",
+    "fundingRate": 0.000909450521687067,
+    "fundingTime": "2020-07-28T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T12:00:00.000Z",
+    "fundingRate": 0.000596096618682893,
+    "fundingTime": "2020-07-28T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-28T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-29T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T04:00:00.000Z",
+    "fundingRate": 0.001158658667622611,
+    "fundingTime": "2020-07-29T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T12:00:00.000Z",
+    "fundingRate": 0.000589883936844886,
+    "fundingTime": "2020-07-29T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-29T20:00:00.000Z",
+    "fundingRate": 0.000672181394266474,
+    "fundingTime": "2020-07-30T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T04:00:00.000Z",
+    "fundingRate": 0.0003838195027936,
+    "fundingTime": "2020-07-30T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T12:00:00.000Z",
+    "fundingRate": 0.00053791871537359,
+    "fundingTime": "2020-07-30T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-30T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T04:00:00.000Z",
+    "fundingRate": 0.00094556257719495,
+    "fundingTime": "2020-07-31T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-07-31T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-07-31T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T04:00:00.000Z",
+    "fundingRate": 0.00049485024013579,
+    "fundingTime": "2020-08-01T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-01T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-01T20:00:00.000Z",
+    "fundingRate": 0.001056501374153751,
+    "fundingTime": "2020-08-02T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-02T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T12:00:00.000Z",
+    "fundingRate": 0.00084091992279654,
+    "fundingTime": "2020-08-02T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-02T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T04:00:00.000Z",
+    "fundingRate": 0.001060938103200379,
+    "fundingTime": "2020-08-03T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-03T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-03T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T04:00:00.000Z",
+    "fundingRate": 0.001462231498713031,
+    "fundingTime": "2020-08-04T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-04T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-04T20:00:00.000Z",
+    "fundingRate": 0.000274878273817639,
+    "fundingTime": "2020-08-05T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T04:00:00.000Z",
+    "fundingRate": 0.000537945299749935,
+    "fundingTime": "2020-08-05T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T12:00:00.000Z",
+    "fundingRate": 0.000170103924347718,
+    "fundingTime": "2020-08-05T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-05T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-06T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T04:00:00.000Z",
+    "fundingRate": 0.000336809297332261,
+    "fundingTime": "2020-08-06T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T12:00:00.000Z",
+    "fundingRate": 0.00089619649642584,
+    "fundingTime": "2020-08-06T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-06T20:00:00.000Z",
+    "fundingRate": 0.000143914403903451,
+    "fundingTime": "2020-08-07T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T04:00:00.000Z",
+    "fundingRate": 0.000578361925115753,
+    "fundingTime": "2020-08-07T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T12:00:00.000Z",
+    "fundingRate": 0.000594094588599946,
+    "fundingTime": "2020-08-07T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-07T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-08T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T12:00:00.000Z",
+    "fundingRate": 0.000122245638617137,
+    "fundingTime": "2020-08-08T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-08T20:00:00.000Z",
+    "fundingRate": 0.000298432556410362,
+    "fundingTime": "2020-08-09T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T04:00:00.000Z",
+    "fundingRate": 0.000721417888674588,
+    "fundingTime": "2020-08-09T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-09T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-09T20:00:00.000Z",
+    "fundingRate": 0.000251443497345203,
+    "fundingTime": "2020-08-10T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-10T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-10T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-11T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T04:00:00.000Z",
+    "fundingRate": 0.000840509480087586,
+    "fundingTime": "2020-08-11T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T12:00:00.000Z",
+    "fundingRate": 0.000158981528831151,
+    "fundingTime": "2020-08-11T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-11T20:00:00.000Z",
+    "fundingRate": 0.000669511586725024,
+    "fundingTime": "2020-08-12T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-12T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-12T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-13T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T04:00:00.000Z",
+    "fundingRate": 0.000503775570094912,
+    "fundingTime": "2020-08-13T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T12:00:00.000Z",
+    "fundingRate": 0.000168549780451434,
+    "fundingTime": "2020-08-13T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-13T20:00:00.000Z",
+    "fundingRate": 0.000286298275787241,
+    "fundingTime": "2020-08-14T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T04:00:00.000Z",
+    "fundingRate": 0.000136137638968923,
+    "fundingTime": "2020-08-14T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T12:00:00.000Z",
+    "fundingRate": 0.000479473102607444,
+    "fundingTime": "2020-08-14T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-14T20:00:00.000Z",
+    "fundingRate": 0.000316446552452481,
+    "fundingTime": "2020-08-15T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T04:00:00.000Z",
+    "fundingRate": 0.001343407065805256,
+    "fundingTime": "2020-08-15T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T12:00:00.000Z",
+    "fundingRate": 0.00060421755603521,
+    "fundingTime": "2020-08-15T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-15T20:00:00.000Z",
+    "fundingRate": 0.000814958947257765,
+    "fundingTime": "2020-08-16T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T04:00:00.000Z",
+    "fundingRate": 0.000819514156318187,
+    "fundingTime": "2020-08-16T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T12:00:00.000Z",
+    "fundingRate": 0.000874933012757762,
+    "fundingTime": "2020-08-16T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-16T20:00:00.000Z",
+    "fundingRate": 0.000887139962585002,
+    "fundingTime": "2020-08-17T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T04:00:00.000Z",
+    "fundingRate": 0.001046550319961828,
+    "fundingTime": "2020-08-17T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T12:00:00.000Z",
+    "fundingRate": 0.001022507796835855,
+    "fundingTime": "2020-08-17T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-17T20:00:00.000Z",
+    "fundingRate": 0.001014871194407875,
+    "fundingTime": "2020-08-18T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T04:00:00.000Z",
+    "fundingRate": 0.001030206676671717,
+    "fundingTime": "2020-08-18T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-18T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-18T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-19T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-19T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-20T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-20T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-21T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T12:00:00.000Z",
+    "fundingRate": 0.000114729446455996,
+    "fundingTime": "2020-08-21T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-21T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T04:00:00.000Z",
+    "fundingRate": 0.00006944826702586,
+    "fundingTime": "2020-08-22T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-22T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-22T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-23T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-23T20:00:00.000Z",
+    "fundingRate": 0.000034504640670373,
+    "fundingTime": "2020-08-24T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-24T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-24T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-25T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-25T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T12:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-26T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-26T20:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T04:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T04:00:00.000Z",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": "2020-08-27T12:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  },
+  {
+    "exchange": "Huobi",
+    "fundingBeginTime": "2020-08-27T12:00:00.000Z",
+    "fundingRate": 0.000126639116161951,
+    "fundingTime": "2020-08-27T20:00:00.000Z",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD"
+  }
+]
